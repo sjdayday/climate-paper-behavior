@@ -1,0 +1,262 @@
+{
+ "paper": "LS11",
+ "part0_abstract_claims": [
+  "After subtraction of the model, the residuals showed an approximate linear upward trend after 1942.",
+  "The resulting full natural plus anthropogenic model fits the entire 160 year record very well.",
+  "Residual analysis does not provide any evidence for a substantial cooling effect due to sulfate aerosols from 1940 to 1970.",
+  "The cooling observed during that period may be due to a natural 60-year cycle",
+  "New solar activity proxy models are developed that suggest a mechanism for both the 60-year climate cycle and a portion of the long-term warming trend.",
+  "Our results suggest that ... the anthropogenic contribution to climate change since 1970 should be around half of that previously claimed by the IPCC",
+  "A 21st Century forecast suggests that climate may warm less than 1 \u00baC by 2100."
+ ],
+ "claims": [
+  {
+   "id": "A1",
+   "level": "L3",
+   "marker": "showed",
+   "tier": "T2",
+   "basis": "residuals from pre-1950 fit on held-out post-1950 data",
+   "O": 0
+  },
+  {
+   "id": "A2",
+   "level": "L3",
+   "marker": "fits",
+   "tier": "T1",
+   "basis": "full-record fit includes trend fit in-sample",
+   "O": 1
+  },
+  {
+   "id": "A3",
+   "level": "L4",
+   "marker": "does not provide any",
+   "tier": "T1",
+   "basis": "residual pattern from fitted model; no aerosol data analyzed",
+   "O": 2
+  },
+  {
+   "id": "A4",
+   "level": "L1",
+   "marker": "may",
+   "tier": "T1",
+   "basis": "in-sample cycle amplitude from decomposition",
+   "O": 0
+  },
+  {
+   "id": "A5",
+   "level": "L2",
+   "marker": "suggest",
+   "tier": "T1",
+   "basis": "SI proxy models compared visually to temperature, Fig.6",
+   "O": 0
+  },
+  {
+   "id": "A6",
+   "level": "L2",
+   "marker": "suggest",
+   "tier": "T1",
+   "basis": "attribution split from in-sample decomposition, p.8",
+   "O": 0
+  },
+  {
+   "id": "A7",
+   "level": "L2",
+   "marker": "suggests",
+   "tier": "T1",
+   "basis": "unverified extrapolation of in-sample fitted model",
+   "O": 0
+  },
+  {
+   "id": "C1",
+   "level": "L3",
+   "marker": "we have argued",
+   "tier": "T3",
+   "basis": "HadCRUT fit plus two independent proxy fits, Fig.4",
+   "O": 0
+  },
+  {
+   "id": "C2",
+   "level": "L1",
+   "marker": "may",
+   "tier": "T0",
+   "basis": "no ocean index analyzed in paper",
+   "O": 0
+  },
+  {
+   "id": "C3",
+   "level": "L2",
+   "marker": "appears",
+   "tier": "T1",
+   "basis": "solar proxy signature compared to temperature, Fig.6",
+   "O": 0
+  },
+  {
+   "id": "C4",
+   "level": "L2",
+   "marker": "likely",
+   "tier": "T1",
+   "basis": "visual agreement of solar signature, Fig.6",
+   "O": 0
+  },
+  {
+   "id": "C5",
+   "level": "L4",
+   "marker": "clearly",
+   "tier": "T1",
+   "basis": "in-sample fitted 20-year amplitude; else cited Scafetta 2010",
+   "O": 2
+  },
+  {
+   "id": "C6",
+   "level": "L3",
+   "marker": "would be",
+   "tier": "T1",
+   "basis": "in-sample residual slope plus cited doubling-time proxy",
+   "O": 1
+  },
+  {
+   "id": "C7",
+   "level": "L4",
+   "marker": "are not able to",
+   "tier": "T0",
+   "basis": "no GCM output analyzed; citation only",
+   "O": 3
+  },
+  {
+   "id": "C8",
+   "level": "L3",
+   "marker": "We showed",
+   "tier": "T1",
+   "basis": "1850-1950 in-sample fit, R2=0.53, p.8",
+   "O": 1
+  },
+  {
+   "id": "C9",
+   "level": "L3",
+   "marker": "are",
+   "tier": "T2",
+   "basis": "post-1950 residuals are held-out extrapolation period",
+   "O": 0
+  },
+  {
+   "id": "C10",
+   "level": "L3",
+   "marker": "closely matched",
+   "tier": "T1",
+   "basis": "trend fit to same 1950-2010 record",
+   "O": 1
+  },
+  {
+   "id": "C11",
+   "level": "L4",
+   "marker": "than any",
+   "tier": "T0",
+   "basis": "no GCM output compared anywhere in paper",
+   "O": 3
+  },
+  {
+   "id": "C12",
+   "level": "L3",
+   "marker": "found",
+   "tier": "T1",
+   "basis": "residual behaviour of fitted model; no aerosol data",
+   "O": 1
+  },
+  {
+   "id": "C13",
+   "level": "L3",
+   "marker": "we can see",
+   "tier": "T1",
+   "basis": "in-sample decomposition amplitudes versus residuals, p.19",
+   "O": 1
+  },
+  {
+   "id": "C14",
+   "level": "L3",
+   "marker": "predicts",
+   "tier": "T1",
+   "basis": "model extrapolation; post-2000 flatness only cited, p.16",
+   "O": 1
+  },
+  {
+   "id": "C15",
+   "level": "L3",
+   "marker": "we have shown",
+   "tier": "T1",
+   "basis": "in-sample decomposition of single record",
+   "O": 1
+  },
+  {
+   "id": "C16",
+   "level": "Conditional",
+   "marker": "If ... then",
+   "tier": "link",
+   "basis": "inferential link adequately supported by decomposition logic",
+   "O": 0
+  },
+  {
+   "id": "C17",
+   "level": "L3",
+   "marker": "is critical",
+   "tier": "T1",
+   "basis": "rests on in-sample decomposition demonstration",
+   "O": 1
+  },
+  {
+   "id": "C18",
+   "level": "L1",
+   "marker": "might",
+   "tier": "T0",
+   "basis": "no millennial analysis; cites Loehle and Singer",
+   "O": 0
+  },
+  {
+   "id": "C19",
+   "level": "L3",
+   "marker": "give",
+   "tier": "T1",
+   "basis": "cycle phase from in-sample fit; IPCC figures unanalyzed",
+   "O": 1
+  },
+  {
+   "id": "C20",
+   "level": "L2",
+   "marker": "likely",
+   "tier": "T0",
+   "basis": "UHI-adjusted 0.4\u00b0C figure not derived in paper",
+   "O": 1
+  },
+  {
+   "id": "C21",
+   "level": "L3",
+   "marker": "will be",
+   "tier": "T1",
+   "basis": "cycle extrapolation from in-sample fit, no interval",
+   "O": 1
+  }
+ ],
+ "items": {
+  "E1": 2,
+  "E1b": 1,
+  "P1a": 1,
+  "P1b": 0,
+  "P2a": 1,
+  "P2b": 0,
+  "P3": 1,
+  "P4": 1,
+  "P6": 1,
+  "P7": 0
+ },
+ "item_basis": {
+  "E1": "States IPCC >90% attribution (AR4 figs 9.5a/b) and argues against it, p.19",
+  "E1b": "Load-bearing rebuttal citation is '[Scafetta, 2010]', an author self-citation, p.19",
+  "P1a": "Cycles fit to 1850-1950 then extrapolated to 2009, pp.6, 8",
+  "P1b": "Attribution split and 2100 forecast rest on in-sample trend fit, pp.8, 15",
+  "P2a": "Table 1 parameter errors (p.29); residual slope 0.66 +/- 0.08 \u00b0C/century (p.8)",
+  "P2b": "No interval on 'half of IPCC' attribution or 0.6 \u00b0C 2100 forecast, pp.2, 15",
+  "P3": "Solar signature shown for two alternative TSI inputs, Fig.6 (p.17; SI p.42)",
+  "P4": "HadCRUT3 (April 8, 2010) and cited public proxy/TSI records specified, pp.7, 39-42",
+  "P6": "Planetary tides/solar activity/cosmic-ray-cloud chain cited for cycles; GHG log forcing, UHI, pp.5, 8",
+  "P7": "No autocorrelation/effective-df correction; SI noise test uses fitted model as null, pp.8, 38"
+ }
+}

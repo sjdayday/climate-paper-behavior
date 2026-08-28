@@ -1,0 +1,262 @@
+{
+ "paper": "LS11",
+ "part0_abstract_claims": [
+  "After subtraction of the model, the residuals showed an approximate linear upward trend after 1942.",
+  "The resulting full natural plus anthropogenic model fits the entire 160 year record very well.",
+  "Residual analysis does not provide any evidence for a substantial cooling effect due to sulfate aerosols from 1940 to 1970.",
+  "The cooling observed during that period may be due to a natural 60-year cycle",
+  "New solar activity proxy models are developed that suggest a mechanism for both the 60-year climate cycle and a portion of the long-term warming trend.",
+  "Our results suggest that ... the anthropogenic contribution to climate change since 1970 should be around half of that previously claimed by the IPCC [2007].",
+  "A 21st Century forecast suggests that climate may warm less than 1 \u00baC by 2100."
+ ],
+ "claims": [
+  {
+   "id": "A1",
+   "level": "L3",
+   "marker": "showed",
+   "tier": "T1",
+   "basis": "linear fit to residuals, in-sample (p8)",
+   "O": 1
+  },
+  {
+   "id": "A2",
+   "level": "L3",
+   "marker": "fits",
+   "tier": "T1",
+   "basis": "combined model in-sample fit (p9)",
+   "O": 1
+  },
+  {
+   "id": "A3",
+   "level": "L4",
+   "marker": "does not provide any",
+   "tier": "T1",
+   "basis": "residual behavior of fitted model (p13)",
+   "O": 2
+  },
+  {
+   "id": "A4",
+   "level": "L1",
+   "marker": "may",
+   "tier": "T1",
+   "basis": "model shows cooling without aerosols (p13)",
+   "O": 0
+  },
+  {
+   "id": "A5",
+   "level": "L2",
+   "marker": "suggest",
+   "tier": "T1",
+   "basis": "Fig. 6 in-paper curve correspondence (p17)",
+   "O": 0
+  },
+  {
+   "id": "A6",
+   "level": "L2",
+   "marker": "suggest",
+   "tier": "T1",
+   "basis": "in-sample decomposition attribution split (p8-9)",
+   "O": 0
+  },
+  {
+   "id": "A7",
+   "level": "L2",
+   "marker": "suggests (embedded 'may')",
+   "tier": "T1",
+   "basis": "extrapolation of in-sample fitted model (p15)",
+   "O": 0
+  },
+  {
+   "id": "C1",
+   "level": "L3",
+   "marker": "we have argued ... contain",
+   "tier": "T3",
+   "basis": "instrumental fit plus two independent proxy records (p11-12)",
+   "O": 0
+  },
+  {
+   "id": "C2",
+   "level": "L1",
+   "marker": "may",
+   "tier": "T0",
+   "basis": "no ocean-oscillation analysis performed in paper",
+   "O": 0
+  },
+  {
+   "id": "C3",
+   "level": "L2",
+   "marker": "appears",
+   "tier": "T1",
+   "basis": "in-paper TSI proxy curves inspected (SI p39-42)",
+   "O": 0
+  },
+  {
+   "id": "C4",
+   "level": "L2",
+   "marker": "likely",
+   "tier": "T1",
+   "basis": "Fig. 6 solar-signature correspondence (p17)",
+   "O": 0
+  },
+  {
+   "id": "C5",
+   "level": "L4",
+   "marker": "clearly",
+   "tier": "T1",
+   "basis": "fitted 20-year amplitude, Table 1 (p29)",
+   "O": 2
+  },
+  {
+   "id": "C6",
+   "level": "L3",
+   "marker": "would be",
+   "tier": "T1",
+   "basis": "derived from in-sample residual linear trend (p18-19)",
+   "O": 1
+  },
+  {
+   "id": "C7",
+   "level": "L4",
+   "marker": "are not able to (\u2261cannot)",
+   "tier": "T0",
+   "basis": "no GCM output analyzed; citation only (p19)",
+   "O": 3
+  },
+  {
+   "id": "C8",
+   "level": "L3",
+   "marker": "We showed",
+   "tier": "T1",
+   "basis": "1850-1950 in-sample fit, R2=0.53 (p8)",
+   "O": 1
+  },
+  {
+   "id": "C9",
+   "level": "L3",
+   "marker": "are",
+   "tier": "T1",
+   "basis": "linear fit to residuals, R2=0.59 (p8)",
+   "O": 1
+  },
+  {
+   "id": "C10",
+   "level": "L3",
+   "marker": "closely matched",
+   "tier": "T1",
+   "basis": "full model in-sample fit (p9)",
+   "O": 1
+  },
+  {
+   "id": "C11",
+   "level": "L4",
+   "marker": "than any",
+   "tier": "T0",
+   "basis": "no GCM output analyzed (absence attested)",
+   "O": 3
+  },
+  {
+   "id": "C12",
+   "level": "L3",
+   "marker": "We further found no",
+   "tier": "T1",
+   "basis": "residuals of fitted model (p13)",
+   "O": 1
+  },
+  {
+   "id": "C13",
+   "level": "L3",
+   "marker": "we can see that ... is",
+   "tier": "T1",
+   "basis": "in-sample cycle amplitudes versus residuals (p19)",
+   "O": 1
+  },
+  {
+   "id": "C14",
+   "level": "L3",
+   "marker": "predicts",
+   "tier": "T1",
+   "basis": "full model fitted through 2010, in-sample (p16)",
+   "O": 1
+  },
+  {
+   "id": "C15",
+   "level": "L3",
+   "marker": "we have shown",
+   "tier": "T1",
+   "basis": "single in-sample decomposition only (p19)",
+   "O": 1
+  },
+  {
+   "id": "C16",
+   "level": "Conditional",
+   "marker": "If ... then",
+   "tier": "link",
+   "basis": "attribution accounting; link follows from decomposition",
+   "O": 0
+  },
+  {
+   "id": "C17",
+   "level": "L3",
+   "marker": "is",
+   "tier": "T1",
+   "basis": "in-sample decomposition demonstration (p20)",
+   "O": 1
+  },
+  {
+   "id": "C18",
+   "level": "L1",
+   "marker": "might",
+   "tier": "T0",
+   "basis": "citation to Loehle & Singer only (p20)",
+   "O": 0
+  },
+  {
+   "id": "C19",
+   "level": "L3",
+   "marker": "give",
+   "tier": "T1",
+   "basis": "cycle phasing from in-sample fit (p20)",
+   "O": 1
+  },
+  {
+   "id": "C20",
+   "level": "L2",
+   "marker": "likely",
+   "tier": "T0",
+   "basis": "UHI-adjusted 0.4\u00b0C figure not derived in paper",
+   "O": 1
+  },
+  {
+   "id": "C21",
+   "level": "L3",
+   "marker": "will be",
+   "tier": "T1",
+   "basis": "extrapolated in-sample-fitted cycle (p20)",
+   "O": 1
+  }
+ ],
+ "items": {
+  "E1": 2,
+  "E1b": 1,
+  "P1a": 1,
+  "P1b": 0,
+  "P2a": 1,
+  "P2b": 0,
+  "P3": 1,
+  "P4": 1,
+  "P6": 0,
+  "P7": 0
+ },
+ "item_basis": {
+  "E1": "States IPCC AR4 fig 9.5a/b position (>90% anthropogenic) and argues against it (p19)",
+  "E1b": "Load-bearing rebuttal citation is self-citation '[Scafetta, 2010]' (p19)",
+  "P1a": "Cycles fit to pre-1950 data, extrapolated forward (p6; executed p8)",
+  "P1b": "Headline attribution split and 2100 forecast rest on in-sample fit (p8, p15)",
+  "P2a": "Table 1 gives parameter standard errors; residual slope 0.66+/-0.08 (SI p29; p8)",
+  "P2b": "No interval on abstract's 'half of IPCC' or '<1 \u00baC by 2100' (p2, p15)",
+  "P3": "Table 1/Figs 1-2 show fits under two calibration periods; Fig. 6 two TSI inputs (p29, p17)",
+  "P4": "HadCRUT3 dated dataset and cited public proxy/TSI sources named (p30, SI p39-42)",
+  "P6": "Cycle mechanisms 'not understood yet'; only speculation offered (p5)",
+  "P7": "No autocorrelation/effective-df correction; SI noise test uses fitted model as null (p8, SI p38)"
+ }
+}

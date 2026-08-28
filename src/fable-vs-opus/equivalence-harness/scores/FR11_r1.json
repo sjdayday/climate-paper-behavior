@@ -1,0 +1,148 @@
+{
+ "paper": "FR11",
+ "part0_abstract_claims": [
+  "All five series show consistent global warming trends ranging from 0.014 to 0.018 K yr-1.",
+  "the global warming signal becomes even more evident as noise is reduced",
+  "Lower-troposphere temperature responds more strongly to El Nino/southern oscillation and to volcanic forcing than surface temperature data.",
+  "The adjusted data show warming at very similar rates to the unadjusted data, with smaller probable errors, and the warming rate is steady",
+  "In all adjusted series, the two hottest years are 2009 and 2010."
+ ],
+ "claims": [
+  {
+   "id": "F1",
+   "level": "L3",
+   "marker": "show",
+   "tier": "T3",
+   "basis": "five records; autocorrelation-corrected trend errors, table 1",
+   "O": 0
+  },
+  {
+   "id": "F2",
+   "level": "L3",
+   "marker": "becomes",
+   "tier": "T3",
+   "basis": "five records; reduced probable errors after adjustment",
+   "O": 0
+  },
+  {
+   "id": "F3",
+   "level": "L3",
+   "marker": "responds",
+   "tier": "T3",
+   "basis": "regression coefficients, 2-sigma error bars, figure 3",
+   "O": 0
+  },
+  {
+   "id": "F4",
+   "level": "L3",
+   "marker": "show",
+   "tier": "T3",
+   "basis": "table 1 errors; start-year trends, 2-sigma, figure 6",
+   "O": 0
+  },
+  {
+   "id": "F5",
+   "level": "L4",
+   "marker": "hottest (superlative)",
+   "tier": "T3",
+   "basis": "all five adjusted series converge, figures 4-5",
+   "O": 0
+  },
+  {
+   "id": "F6",
+   "level": "L3",
+   "marker": "confirms",
+   "tier": "T3",
+   "basis": "five datasets, coefficients with 2-sigma errors",
+   "O": 0
+  },
+  {
+   "id": "F7",
+   "level": "L3",
+   "marker": "is affected",
+   "tier": "T3",
+   "basis": "figure 3 coefficients, LT vs surface, error bars",
+   "O": 0
+  },
+  {
+   "id": "F8",
+   "level": "L3",
+   "marker": "enables",
+   "tier": "T3",
+   "basis": "regression removal across five records, figures 4-5",
+   "O": 0
+  },
+  {
+   "id": "F9",
+   "level": "L4",
+   "marker": "clearly",
+   "tier": "T3",
+   "basis": "start-year trends 2-sigma plus quadratic tests",
+   "O": 0
+  },
+  {
+   "id": "F10",
+   "level": "L4",
+   "marker": "no ... any",
+   "tier": "T3",
+   "basis": "figure 6 within 2-sigma; quadratic fits, five sets",
+   "O": 0
+  },
+  {
+   "id": "F11",
+   "level": "L4",
+   "marker": "none ... can be expected",
+   "tier": "T1",
+   "basis": "in-sample coefficients only; future decades unverified, no interval",
+   "O": 2
+  },
+  {
+   "id": "F12",
+   "level": "L2",
+   "marker": "suggests",
+   "tier": "T3",
+   "basis": "agreement of five independent adjusted records",
+   "O": 0
+  },
+  {
+   "id": "F13",
+   "level": "L4",
+   "marker": "true / is",
+   "tier": "T3",
+   "basis": "composite of five adjusted records, quantified errors",
+   "O": 0
+  },
+  {
+   "id": "F14",
+   "level": "L3",
+   "marker": "is powerful evidence",
+   "tier": "T1",
+   "basis": "in-sample trend extrapolated; no interval on forecast",
+   "O": 1
+  }
+ ],
+ "items": {
+  "E1": 2,
+  "E1b": 0,
+  "P1a": 0,
+  "P1b": 0,
+  "P2a": 1,
+  "P2b": 1,
+  "P3": 1,
+  "P4": 1,
+  "P6": 1,
+  "P7": 1
+ },
+ "item_basis": {
+  "E1": "Engages 'warming stopped' claim (Easterling and Wehner 2009) with start-year trend analysis, p4",
+  "E1b": "Rebuttal rests on paper's own five-dataset analysis, not self-citations, p4",
+  "P1a": "No held-out data or cross-validation; lags chosen by best in-sample fit, p2",
+  "P1b": "Headline steady-trend claim rests on in-sample regression fits, pp2-3",
+  "P2a": "Coefficients with 2-sigma error bars (figure 3); trend standard errors, table 1, p3",
+  "P2b": "Headline trend rates quoted with autocorrelation-corrected probable errors, table 1/appendix, pp3,7-8",
+  "P3": "SOI, Ammann AOD, sunspot substitutions plus factor-omission checks, p2",
+  "P4": "All temperature and forcing sources given with public URLs, data footnotes pp1-2",
+  "P6": "ENSO, volcanic aerosol, solar irradiance drivers physically identified with citations, pp1-2",
+  "P7": "ARMA(1,1) effective-df correction on residuals, Lee and Lund (2004), appendix pp7-8"
+ }
+}

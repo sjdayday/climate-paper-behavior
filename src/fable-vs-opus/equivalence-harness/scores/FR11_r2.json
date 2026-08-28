@@ -1,0 +1,148 @@
+{
+ "paper": "FR11",
+ "part0_abstract_claims": [
+  "All five series show consistent global warming trends ranging from 0.014 to 0.018 K yr-1.",
+  "When the data are adjusted to remove the estimated impact of known factors, the global warming signal becomes even more evident as noise is reduced.",
+  "Lower-troposphere temperature responds more strongly to El Nino/southern oscillation and to volcanic forcing than surface temperature data.",
+  "The adjusted data show warming at very similar rates to the unadjusted data, with smaller probable errors, and the warming rate is steady over the whole time interval.",
+  "In all adjusted series, the two hottest years are 2009 and 2010."
+ ],
+ "claims": [
+  {
+   "id": "F1",
+   "level": "L3",
+   "marker": "show",
+   "tier": "T3",
+   "basis": "Five datasets, autocorrelation-corrected trend errors, table 1",
+   "O": 0
+  },
+  {
+   "id": "F2",
+   "level": "L3",
+   "marker": "becomes",
+   "tier": "T3",
+   "basis": "Five records; reduced probable errors, table 1",
+   "O": 0
+  },
+  {
+   "id": "F3",
+   "level": "L3",
+   "marker": "responds",
+   "tier": "T3",
+   "basis": "Regression coefficients with 2-sigma errors, figure 3",
+   "O": 0
+  },
+  {
+   "id": "F4",
+   "level": "L3",
+   "marker": "show",
+   "tier": "T3",
+   "basis": "Five records; ARMA(1,1) errors; start-year analysis",
+   "O": 0
+  },
+  {
+   "id": "F5",
+   "level": "L3",
+   "marker": "are",
+   "tier": "T3",
+   "basis": "All five adjusted series, annual averages figure 5",
+   "O": 0
+  },
+  {
+   "id": "F6",
+   "level": "L3",
+   "marker": "confirms",
+   "tier": "T3",
+   "basis": "Five datasets, regression coefficients with 2-sigma errors",
+   "O": 0
+  },
+  {
+   "id": "F7",
+   "level": "L4",
+   "marker": "much more strongly",
+   "tier": "T3",
+   "basis": "Figure 3 coefficients, 2-sigma errors, five records",
+   "O": 0
+  },
+  {
+   "id": "F8",
+   "level": "L3",
+   "marker": "enables",
+   "tier": "T3",
+   "basis": "Adjusted series with reduced errors across five records",
+   "O": 0
+  },
+  {
+   "id": "F9",
+   "level": "L4",
+   "marker": "clearly",
+   "tier": "T3",
+   "basis": "Start-year trends, quadratic test, ARMA errors, five sets",
+   "O": 0
+  },
+  {
+   "id": "F10",
+   "level": "L4",
+   "marker": "no indication of any",
+   "tier": "T3",
+   "basis": "Figure 6 2-sigma trends plus quadratic fits",
+   "O": 0
+  },
+  {
+   "id": "F11",
+   "level": "L2",
+   "marker": "can be expected",
+   "tier": "T3",
+   "basis": "Figure 7 magnitudes of exogenous influences, five records",
+   "O": 0
+  },
+  {
+   "id": "F12",
+   "level": "L2",
+   "marker": "suggests",
+   "tier": "T3",
+   "basis": "Five-record agreement quantified, adjusted trend ranges",
+   "O": 0
+  },
+  {
+   "id": "F13",
+   "level": "L4",
+   "marker": "true",
+   "tier": "T3",
+   "basis": "Composite of five adjusted records, quantified errors",
+   "O": 0
+  },
+  {
+   "id": "F14",
+   "level": "L3",
+   "marker": "is powerful evidence",
+   "tier": "T1",
+   "basis": "Extrapolation of fitted trend; no out-of-sample test",
+   "O": 1
+  }
+ ],
+ "items": {
+  "E1": 2,
+  "E1b": 0,
+  "P1a": 0,
+  "P1b": 0,
+  "P2a": 1,
+  "P2b": 1,
+  "P3": 1,
+  "P4": 1,
+  "P6": 1,
+  "P7": 1
+ },
+ "item_basis": {
+  "E1": "Engages 'warming stopped' claims (Easterling and Wehner) with own trend analysis, p4",
+  "E1b": "Load-bearing citations Easterling and Wehner 2009, Lean and Rind; no self-citations, p4",
+  "P1a": "No held-out data, cross-validation, or verified extrapolation; regression in-sample only, pp2-3",
+  "P1b": "Headline steady-trend claim rests on in-sample regression fits, p3-4",
+  "P2a": "Regression coefficients with 2-sigma error bars, figure 3; trend standard errors, table 1",
+  "P2b": "Trend rates quoted with autocorrelation-corrected probable errors, table 1, appendix pp7-8",
+  "P3": "SOI, Ammann AOD, sunspot substitutions; leave-one-factor-out checks, p2",
+  "P4": "All data sources listed with public URLs, data footnotes pp1-2",
+  "P6": "ENSO, volcanic aerosols, solar irradiance each cited physical drivers, pp1-2",
+  "P7": "ARMA(1,1) effective-df correction on residuals, appendix pp7-8"
+ }
+}
