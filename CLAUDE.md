@@ -19,3 +19,14 @@ the next git command fail.
   When it reports CLEANUP SUGGESTED (over 100 files or 20 MB), offer Steve
   a cleanup. He can empty `.git/_stale-locks/` himself, or approve deletion
   for that session.
+
+## Repo map
+
+- `sources/paper-behavior-codebook_v0.2.md`: Stage 1 instrument (papers). v0.1 is kept for history.
+- `sources/communication-behavior-protocol_v0.1.md`: Stage 2 protocol (public communications about the papers). Stage 2 runs only after Stage 1 is scored and frozen (protocol §2).
+- `sources/lexicons/`: per-language certainty-marker lexicons (English lives in the codebook; German starter list here).
+- `sources/study-design-explainer_draft1.md`: study-design explainer draft.
+- `pilot/`: Stage 1 pilot exhibits (LS11, FR11) and Connolly et al. 2021 results.
+- `pilot/communications/`: Stage 2 pilot (inventory, Exhibit 4, German review packet, verbatim source captures). See its README.
+- `src/fable-vs-opus/`: scorer-model equivalence harness (v2 is the reference implementation).
+- `scripts/`: repo housekeeping (see above).
