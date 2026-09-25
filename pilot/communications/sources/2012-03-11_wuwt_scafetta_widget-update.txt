@@ -1,0 +1,178 @@
+SOURCE: https://wattsupwiththat.com/2012/03/11/scafetta-prediction-widget-update/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; post body)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Scafetta prediction widget update - Watts Up With That?
+By Dr. Nicola Scafetta
+
+It is time to update my widget comparing the global surface temperature, HadCRUT3 (red and blue), the IPC 2007 projection (green) and my empirical model (black thick curve and cyan area) based on a set of detected natural harmonics (period of approximately: 9.1, 10-11, 20 and 60 years) which are based on astronomical cycles, plus a corrected anthropogenic warming projection of about 0.9 oC/century. The yellow curve represents the harmonic model alone without the corrected anthropogenic warming projection and represents an average lower limit.
+
+The proposed astronomically-based empirical model represents an alternative methodology to reconstruct and forecast climate changes (on a global scale, at the moment) which is alternative to the analytical methodology implemented in the IPCC general circulation models. All IPCC models are proven in my paper to fail to reconstruct all decadal and multidecadal cycles observed in the temperature since 1850. See details in my publications below.
+
+As the figure shows, the temperature for Jan/2012 was 0.218 oC, which is a cooling respect to the Dec/2011 temperature, and which is about 0.5 oC below the average IPCC projection value (the central thin curve in the middle of the green area). Note that this is a very significant discrepancy between the data and the IPCC projection.
+
+On the contrary, the data continue to be in reasonable agreement with my empirical model, which I remind, is constructed as a full forecast since Jan/2000.
+
+In fact the amplitudes and the phases of the four cycles are essentially determined on the basis of the data from 1850 to 2000, and the phases are found to be in agreement with appropriate astronomical orbital dates and cycles, while the corrected anthropogenic warming projection is estimated by comparing the harmonic model, the temperature data and the IPCC models during the period 1970-2000. The latter finding implies that the IPCC general circulation models have overestimated the anthropogenic warming component by about 2.6 time on average, within a range between 2 to 4. See original papers and the dedicated blog article for details: see below.
+
+The widget also attracted some criticisms from some readers of WUWT’s blog and from skepticalscience
+
+Anthony asked me to respond to the criticism, and I am happy to do so. I will respond five points.
+
+Criticism from Leif Svalgaard.
+
+As many readers of this blog have noted, Leif Svalgaard continuously criticizes my research and studies. In his opinion nothing that I do is right or worth of consideration.
+
+About my widget, Leif claimed many times that the data already clearly contradict my model: see here 1, 2, 3, etc.
+
+In any case, as I have already responded many times, Leif’s criticism appears to be based on his confusing the time scales and the multiple patterns that the data show. The data show a decadal harmonic trending plus faster fluctuations due to ElNino/LaNina oscillations that have a time scale of a few years. The ENSO induced oscillations are quite large and evident in the data with periods of strong warming followed by periods of strong cooling. For example, in the above widget figure the January/2012 temperature is out of my cyan area. This does not mean, as Leif misinterprets, that my model has failed. In fact, such pattern is just due to the present La Nina cooling event. In a few months the temperature will warm again as the El Nino warming phase returns.
+
+My model is not supposed to reconstruct such fast ENSO induced oscillations, but only the smooth decadal component reconstructed by a 4-year moving average as shown in my original paper figure: see here for the full reconstruction since 1850 where my models (blue and black lines) well reconstruct the 4-year smooth (grey line); the figure also clearly highlights the fast and large ENSO temperature oscillations (red) that my model is not supposed to reconstruct.
+
+As the widget shows, my model predicts for the imminent future a slight warming trending from 2011 to 2016. This modulation is due to the 9.1 year (lunar/solar) and the 10-11 year (solar/planetary) cycles that just entered in their warming phase. This decadal pattern should be distinguished from the fast ENSO oscillations that are expected to produce fast periods of warming and fast period of cooling during these five years as it happened from 2000 to 2012. Thus, the fact that during LaNina cooling phase, as right now, the temperature may actually be cooling, does not constitute a “proof” that my model is “wrong” as Leif claimed.
+
+Of course, in addition to twist numerous facts, Leif has also never acknowledged in his comments the huge discrepancy between the data and the IPCC projection which is evident in the widget. In my published paper [1], I did report in figure 6 the appropriate statistical test comparing my model and the IPCC projection against the temperature. The figure 6 is reported below
+
+The figure reports a kind of chi-squared statistical test between the models and the 4-year smooth temperature component, as time progress. Values close to zero indicate that the model agrees very well with the temperature trending within their error range area; values above 1 indicate a statistically significant divergence from the temperature trending. It is evident from the figure above that my model (blue curve) agrees very well with the temperature 4-year smooth component, while the IPCC projection is always worst, and statistically diverges from the temperature since 2006.
+
+I do not expect that Leif changes his behavior against me and my research any time soon. I just would like to advise the readers of this blog, in particular those with modest scientific knowledge, to take his unfair and unprofessional comments with the proper skepticism.
+
+Criticism about the baseline alignment between the data and the IPCC average projection model.
+
+A reader dana1981 claimed that “I believe Scafetta’s plot is additionally flawed by using the incorrect baseline for HadCRUT3. The IPCC data uses a baseline of 1980-1999, so should HadCRUT.”
+
+This reader also referred to a figure from skepticalscience, shown below for convenience,
+
+that shows a slight lower baseline for the IPCC model projection relative to the temperature record, which give an impression of a better agreement between the data and the IPCC model.
+
+The base line position is irrelevant because the IPCC models have projected a steady warming at a rate of 2.3 oC/century from 2000 to 2020, see IPCC figure SPM.5. See here with my lines and comments added
+
+On the contrary, the temperature trending since 2000 has been almost steady as the figure in the widget clearly shows. Evidently, the changing of the baseline does not change the slope of the decadal trending! So, moving down the baseline of the IPCC projection for giving the illusion of a better agreement with the data is just an illusion trick.
+
+In any case, the baseline used in my widget is the correct one, while the baseline used in the figure on skepticalscience is wrong. In fact, the IPCC models have been carefully calibrated to reconstruct the trending of the temperature from 1900 to 2000. Thus, the correct baseline to be used is the 1900-2000 baseline, that is what I used.
+
+To help the readers of this blog to check the case by themselves, I sent Anthony the original HadCRUT3 data and the IPCC cmip3 multimodel mean reconstruction record from here . They are in the two files below:
+
+HadCRUT3-month-global-data
+
+itas_cmip3_ave_mean_sresa1b_0-360E_-90-90N_na-data
+
+As everybody can calculate from the two data records that the 1900-2000 average of the temperature is -0.1402, while the 1900-2000 average of the IPCC model is -0.1341.
+
+This means that to plot the two records on the common 1900-2000 baseline, there is the need to use the following command in gnuplot
+
+plot “HadCRUT3-month-global.dat”, “itas_cmip3_ave_mean_sresa1b_0-360E_-90-90N_na.dat” using 1:($2 – 0.0061)
+
+which in 1850-2040 produces the following graph
+
+The period since 2000 is exactly what is depicted in my widget.
+
+The figure above also highlights the strong divergences between the IPCC model and the temperature, which are explicitly studied in my papers proving that the IPCC model are not able to reconstruct any of the natural oscillations observed at multiple scales. For example, look at the 60-year cycle I extensively discuss in my papers: from 1910 to 1940 a strong warming trending is observed in the data, but the warming trending in the model is far lower; from 1940 to 1970 a cooling is observed in the data while the IPCC model still shows a warming; from 1970 to 2000, the two records present a similar trending (this period is the one originally used to calibrate the sensitivities of the models); the strong divergence observed in 1940-1970, repeats since 2000, with the IPCC model projecting a steady warming at 2.3 oC/century , while the temperature shows a steady harmonically modulated trending highlighted in my widget and reproduced in my model.
+
+As explained in my paper the failure of the IPCC model to reconstruct the 60-year cycle has large consequences for properly interpreting the anthropogenic warming effect on climate. In fact, the IPCC models assume that the 1970-2000 warming is 100% produced by anthropogenic forcing (compare figures 9.5a and 9.5b in the IPCC report) while the 60-year natural cycle (plus the other cycles) contributed at least 2/3 of the 1970-2000 warming, as proven in my papers.
+
+In conclusion, the baseline of my widget is the correct one (baseline 1900-2000). My critics at skepticalscience are simply trying to hide the failure of the IPCC models in reconstructing the 60-year temperature modulation by just plotting the IPCC average simulation just since 2000, and by lowering the baseline apparently to the period 1960-1990, which is not where it should be because the model is supposed to reconstruct the 1900-2000 period by assumption.
+
+It is evident that by lowering the base line a larger divergence would be produced with the temperature data before 1960! So, skepticalscience employed a childish trick of pulling a too small coversheet from a too large bed. In any case, if we use the 1961-1990 baseline the original position of the IPCC model should be shifted down by 0.0282, which is just 0.0221 oC below the position depicted in the figure above, not a big deal.
+
+In any case, the position of the baseline is not the point; the issue is the decadal trend. But my 1900-2000 baseline is in the optimal position.
+
+Criticism about the chosen low-high boundary levels of the IPCC average projection model (my width of the green area in the widget).
+
+Another criticism, in particular by skepticalscience, regards the width of the boundary (green area in the widget) that I used, They have argued that
+
+“Most readers would interpret the green area in Scafetta’s widget to be a region that the IPCC would confidently expect to contain observations, which isn’t really captured by a 1-sigma interval, which would only cover 68.2% of the data (assuming a Gaussian distribution). A 2-sigma envelope would cover about 95% of the observations, and if the observations lay outside that larger region it would be substantial cause for concern. Thus it would be a more appropriate choice for Scafetta’s green envelope.”
+
+There are numerous problems with the above skepticalscience’s comment.
+
+First, the width of my green area (which has a starting range of about +/- 0.1 oC in 2000) coincides exactly with what the IPCC has plotted in his figure figure SPM.5. Below I show a zoom of IPCC’s figure SPM.5
+
+The two red lines added by me show the width at 2000 (black vertical line). The width between the two horizontal red lines in 2000 is about 0.2 oC as used in my green area plotted in the widget. The two other black lines enclosing the IPCC error area represent the green area enclosure reported in the widget. Thus, my green area accurately represents what the IPCC has depicted in its figure, as I explicitly state and show in my paper, by the way.
+
+Second, skepticalscience claims that the correct comparison needed to use a 2-sigma envelope, and they added the following figure to support their case
+
+The argument advanced by skepticalscience is that because the temperature data are within their 2-sigma IPCC model envelope, then the IPCC models are not disproved, as my widget would imply. Note that the green curve is not a faithful reconstruction of my model and it is too low: compare with my widget.
+
+However, it is a trick to fool people with no statistical understanding to claim that by associating a huge error range to a model, the model is validated.
+
+By the way, contrary to the claim of sckepticalscience, in statistics it is 1-sigma envelope width that is used; not 2-sigma or 3-sigma. Moreover, the good model is the one with the smallest error, not the one with the largest error.
+
+In fact, as proven in my paper, my proposed harmonic model has a statistical accuracy of +/- 0.05 oC within which it well reconstructs the decadal and multidecadal modulation of the temperature: see here.
+
+On the contrary, if we use the figure by skepticalscience depicted above we have in 2000 a 1-sigma error of +/- 0.15 oC and a 2-sigma error of +/- 0.30 oC. These robust and fat error envelope widths are between 3 and 6 times larger than what my harmonic model has. Thus, it is evident from the skepticalscience claims themselves that my model is far more accurate than what the IPCC models can guarantee.
+
+Moreover, the claim of skepticalscience that we need to use a 2-sigma error envelope indirectly also proves that the IPCC models cannot be validated according the scientific method and, therefore, do not belong to the realm of science. In fact, to be validated a modeling strategy needs to guarantee a sufficient small error to be capable to test whether the model is able to identify and reconstruct the visible patterns in the data. These patterns are given by the detected decadal and multi-decadal cycles, which have amplitude below +/- 0.15 oC: see here. Thus, the amplitude of the detected cycles is well below the skepticalscience 2-sigma envelope amplitude of +/- 0.30 oC, (they would even be below the skepticalscience 1-sigma envelope amplitude of +/- 0.15 oC).
+
+As I have also extensively proven in my paper, the envelope of the IPCC model is far larger than the amplitude of the temperature patterns that the models are supposed to reconstruct. Thus, those models cannot be properly validated and are useless for making any useful decadal and multidecadal forecast/projection for practical society purpose because their associated error is far too large by admission of skepticalscience itself.
+
+Unless the IPCC models can guarantee a precision of at least +/- 0.05 oC and reconstruct the decadal patterns, as my model does, they cannot compete with it and are useless, all of them.
+
+Criticism about the upcoming HadCRUT4 record.
+
+Skepticalscience has also claimed that
+
+“Third, Scafetta has used HadCRUT3 data, which has a known cool bias and which will shortly be replaced by HadCRUT4.”
+
+HadCRUT4 record is not available yet. We will see what happens when it will be available. From the figures reported here it does not appear that it will change drastically the issue: the difference with HadCRUT3 since 2000 appears to be just 0.02 oC.
+
+In any case for an optimal matching the amplitudes of the harmonics of my model may need to be slightly recalibrated, but HadCRUT4 already shows a clearer cooling from 1940 to 1970 that further supports the 60-year natural cycle of my model and further contradicts the IPCC models. See also my paper with Mazzarella where the HadSST3 record is already studied.
+
+Criticism about the secular trending.
+
+It has been argued that the important issue is the upward trending that would confirm the IPCC models and their anthropogenic warming theory.
+
+However, as explained in my paper, once that 2/3 of the warming between 1970 and 2000 is associated to a natural cycle with solar/astronomical origin (or even to an internal ocean cycle alone) the anthropogenic warming trending reproduced by the models is found to be spurious and strongly overestimated. This leaves most of the secular warming tending from 1850 to 2012 as due to secular and millennial natural cycles, which are also well known in the literature.
+
+In my published papers, as clearly stated there, the secular and millennial cycles are not formally included in the harmonic model for the simple reason that they need to be accurately identified: they cannot be put everywhere and the global surface temperature is available only since 1850, which is a too short period for accurately locate and identify these longer cycles.
+
+In particular, skepticalscience has argued that the proposed model (by Loehle and Scafetta) based only on the 60-year and 20-year cycles plus a linear trending from 1850 to 1950 and extrapolated up to 2100 at most, must be wrong because when the same model is extrapolated for 2000 years it clearly diverges from reasonable patterns deduced from temperature proxy reconstructions. Their figure is here and reproduced below
+
+Every smart person would understand that this is another skepticalscience’s trick to fool the ignorant.
+
+It is evident that if, as we have clearly stated in our paper, we are ignoring the secular and millennial cycles and we just approximate the natural millennial harmonic trending with a first order linear approximation that we assume can be reasonable extended up to 100 years and no more, it is evident that it is stupid, before than being dishonest, to extrapolate it for 2000 years and claim that our result is contradicted by the data. See here for extended comment by Loehle and Scafetta.
+
+As said above in those models the secular and millennial cycles were excluded for purpose. However, I already published in 2010 a preliminary reconstruction with those longer cycles included here (sorry in Italian), see figure 6 reported below
+
+However, in the above model the cycles are not optimized, which will be done in the future. But this is sufficient to show how ideologically naïve (and false) is the claim from skepticalscience.
+
+In any case, the secular trending and its association to solar modulation is extensively addressed in my previous papers since 2005. The last published paper focusing on this topic is discussed here and more extensively here where the relevant figure is below
+
+The black curves represent empirical reconstruction of the solar signature secular trending since 1600. The curve with the upward trending since 1970 is made using the ACRIM TSI composite (which would be compatible with the 60-year cycle) and the other signature uses the PMOD TSI composite which is made by manipulating some of the satellite records with the excuse that they are wrong.
+
+Thus, until the secular and millennial cycles are accurately identified and properly included in the harmonic models, it is the studies that use the TSI secular proxy reconstructions that need to be used for comparison to understand the secular trending, like my other publications from 2005 to 2010. Their results are in perfect agreement with what can be deduced from the most recent papers focusing on the astronomical harmonics, and would imply that no more that 0.2-0.3 oC of the observed 0.8 oC warming since 1850 can be associated to anthropogenic activity. (Do not let you to be fooled by Benestad and Schmidt 2009 criticism that is filled with embarrassing mathematical errors and whose GISS modelE performance is strongly questioned in my recent papers, together with those of the other IPCC models) .
+
+I thank Anthony for the invitation and I apologize for my English errors, which my above article surely contains.
+
+Relevant references:
+
+[1] Nicola Scafetta, “Testing an astronomically based decadal-scale empirical harmonic climate model versus the IPCC (2007) general circulation climate models.” Journal of Atmospheric and Solar-Terrestrial Physics, (2012). DOI: 10.1016/j.jastp.2011.12.005
+
+[2] Adriano Mazzarella and Nicola Scafetta, “Evidences for a quasi 60-year North Atlantic Oscillation since 1700 and its meaning for global climate change.” Theor. Appl. Climatol. (2011). DOI: 10.1007/s00704-011-0499-4
+
+[3] Craig Loehle and Nicola Scafetta, “Climate Change Attribution Using Empirical Decomposition of Climatic Data.” The Open Atmospheric Science Journal 5, 74-86 (2011). DOI: 10.2174/1874282301105010074
+
+[4] Nicola Scafetta, “A shared frequency set between the historical mid-latitude aurora records and the global surface temperature.” Journal of Atmospheric and Solar-Terrestrial Physics 74, 145-163 (2012). DOI: 10.1016/j.jastp.2011.10.013
+
+[5] Nicola Scafetta, “Empirical evidence for a celestial origin of the climate oscillations and its implications.” Journal of Atmospheric and Solar-Terrestrial Physics 72, 951–970 (2010). DOI: 10.1016/j.jastp.2010.04.015
+
+Additional News and Links of Interest:
+
+Global Warming? No, Natural, Predictable Climate Change, Larry Bell
+
+http://www.forbes.com/sites/larrybell/2012/01/10/global-warming-no-natural-predictable-climate-change/
+
+http://wattsupwiththat.com/2012/01/09/scaffeta-on-his-latest-paper-harmonic-climate-model-versus-the-ipcc-general-circulation-climate-models/
+
+http://scienceandpublicpolicy.org/images/stories/papers/reprint/astronomical_harmonics.pd
+
+The climate data they don't want you to find — free, to your inbox.
+Join readers who get 5–8 new articles daily — no algorithms, no shadow bans.
+Email Address
+By subscribing, you agree to our privacy policy and terms of service.
+0
+Article Rating
+Share this:
+Print
+Email
+More

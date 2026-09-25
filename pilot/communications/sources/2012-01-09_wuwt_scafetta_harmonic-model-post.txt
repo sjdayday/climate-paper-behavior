@@ -1,0 +1,206 @@
+SOURCE: https://wattsupwiththat.com/2012/01/09/scaffeta-on-his-latest-paper-harmonic-climate-model-versus-the-ipcc-general-circulation-climate-models/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; post body)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Scafetta on his latest paper: Harmonic climate model versus the IPCC general circulation climate models - Watts Up With That?
+Guest Post by Dr. Nicola Scafetta
+
+Herein, I would like to briefly present my latest publication that continues my research about the meaning of natural climatic cycles and their implication for climate changes:
+
+Nicola Scafetta, “Testing an astronomically based decadal-scale empirical harmonic climate model versus the IPCC (2007) general circulation climate models” Journal of Atmospheric and Solar-Terrestrial Physics (2011).
+
+http://www.sciencedirect.com/science/article/pii/S1364682611003385
+
+Also, a booklet version (PDF) with this comment is here
+
+The main results of this new paper are summarized in the paper’s highlights:
+
+1) The IPCC (CMIP3) climate models fail in reproducing observed decadal and multidecadal limate cycles. 2) Equivalent cycles are found among the major oscillations of the solar system.
+
+3) A correction for the projected anthropogenic warming for the 21st century is proposed.
+
+4) A full empirical model is developed for forecasting climate change for a few decades since 2000.
+
+5) The climate will likely stay steady until 2030/2040 and may warm by about 0.3-1.2 °C by 2100.
+
+About our climate, is the science really settled, as nobody really believes but too many have said, and already implemented in computer climate models, the so-called general circulation models (GCMs)? Can we really trust the GCM projections for the 21st century?
+
+These projections, summarized, by the IPCC in 2007, predict a significant warming of the planet unless drastic decisions about greenhouse gases emissions are taken, and perhaps it is already too late to fix the problem, people have being also told.
+
+However, the scientific method requires that a physical model fulfills two simple conditions: it has to reconstruct and predict (or forecast) physical observations. Thus, it is perfectly legitimate in science to check whether the computer GCMs adopted by the IPCC fulfill the required scientific tests, that is whether these models reconstruct sufficiently well the 20th century global surface temperature and, consequently, whether these models can be truly trusted in their 21st century projections. If the answer is negative, it is perfectly legitimate to look for the missing mechanisms and/or for alternative methodologies.
+
+One of the greatest difficulties in climate science, as I see it, is in the fact that we cannot test the reliability of a climate theory or computer model by controlled lab experiments, nor we can study other planets’ climate for comparison. How it could be easy to quantify the anthropogenic effect on climate if we could simply observe the climate on another planet identical to the Earth in everything by without humans! But we do not have this luxury.
+
+Unfortunately, we can only test a climate theory or computer model against the available data, and when these data refer to a complex system, it is well known that an even apparently minor discrepancy between a model outcome and the data may reveal major physical problems.
+
+In some of my previous papers, for example,
+
+Scafetta (2011): http://www.sciencedirect.com/science/article/pii/S1364682611002872
+
+Scafetta (2010): http://www.sciencedirect.com/science/article/pii/S1364682610001495
+
+Loehle & Scafetta (2011): http://www.benthamscience.com/open/toascj/articles/V005/74TOASCJ.htm Mazzarella & Scafetta (2011): http://www.springerlink.com/content/f637064p57n45023/
+
+we have argued that the global instrumental surface temperature records, which are available since 1850 with some confidence, suggest that the climate system is resonating and/or synchronized to numerous astronomical oscillations found in the solar activity, in the heliospheric oscillations due to planetary movements and in the lunar cycles.
+
+The most prominent cycles that can be detected in the global surface temperature records have periods of about 9.1 year, 10-11 years, about 20 year and about 60 years. The 9.1 year cycle appears to be linked to a Soli/Lunar tidal cycles, as I also show in the paper, while the other three cycles appear to be solar/planetary cycles ultimately related to the orbits of Jupiter and Saturn. Other cycles, at all time scales, are present but ignored in the present paper.
+
+The above four major periodicities can be easily detected in the temperature records with alternative power spectrum analysis methodologies, as the figure below shows:
+
+figure 1
+
+Similar decadal and multidecadal cycles have being observed in numerous climatic proxy models for centuries and millennia, as documented in the references of my papers, although the proxy models need to be studied with great care because of the large divergence from the temperature they may present.
+
+The bottom figure highlights the existence of a 60-year cycle in the temperature (red) which becomes clearly visible once the warming trend is detrended from the data and the fast fluctuations are filtered out. The black curves are obtained with harmonic models at the decadal and multidecadal scale calibrated on two non-overlapping periods: 1850-1950 and 1950-2010, so that they can validate each other.
+
+Although the chain of the actual physical mechanisms generating these cycles is still obscure, (I have argued in my previous papers that the available climatic data would suggest an astronomical modulation of the cloud cover that would induce small oscillations in the albedo that, consequently, would cause oscillations in the surface temperature also by modulating ocean oscillations), the detected cycles can surely be considered from a purely geometrical point of view as a description of the dynamical evolution of the climate system.
+
+Evidently, the harmonic components of the climate dynamics can be empirically modeled without any detailed knowledge of the underlying physics in the same way as the ocean tides are currently reconstructed and predicted by means of simple harmonic constituents, as Lord Kelvin realized in the 19th century. Readers should realize that Kelvin’s tidal harmonic model is likely the only geophysical model that has been proven to have good predicting capabilities and has being implemented in tidal-predicting machines: for details see
+
+http://en.wikipedia.org/wiki/Theory_of_tides#Harmonic_analysis
+
+In my paper I implement the same Kelvin’s philosophical approach in two ways:
+
+by checking whether the GCMs adopted by the IPCC geometrically reproduce the detected global surface temperature cycles;
+and by checking whether a harmonic model may be proposed to forecast climate changes. A comparison between the two methodologies is also added in the paper.
+
+I studied all available climate model simulations for the 20th century collected by the Program for Climate
+
+Model Diagnosis and Intercomparison (PCMDI) mostly during the years 2005 and 2006, and this archived data constitutes phase 3 of the Coupled Model Intercomparison Project (CMIP3). That can be downloaded from http://climexp.knmi.nl/selectfield_co2.cgi?
+
+The paper contains a large supplement file with pictures of all GCM runs and their comparison with the global surface temperature for example given by the Climatic Research Unit (HadCRUT3). I strongly invite people to give a look at the numerous figures in the supplement file to have a feeling about the real performance of these models in reconstructing the observed climate, which in my opinion is quite poor at all time scales.
+
+In the figure below I just present the HadCRUT3 record against, for example, the average simulation of the GISS ModelE for the global surface temperature from 1880 to 2003 by using all forcings, which can be downloaded from http://data.giss.nasa.gov/modelE/transient/Rc_jt.1.11.html
+
+figure 2
+
+The comparison clearly emphasizes the strong discrepancy between the model simulation and the temperature data. Qualitatively similar discrepancies are found and are typical for all GCMs adopted by the IPCC.
+
+In fact, despite a certain warming trend is reproduced in the model, which appears to agree with the observations, the model simulation clearly fail in reproducing the cyclical dynamics of the climate that presents an evident quasi 60-year cycle with peaks around 1880, 1940 and 2000. This pattern is further stressed by the synchronized 20-year temperature cycle.
+
+The GISS ModelE model also presents huge volcano spikes that are quite difficult to observe in the temperature record. Indeed, in the supplement file I plot the GISS ModelE signature of the volcano forcing alone against the same signature obtained with two proposed empirical models that extract the volcano signature directly from the temperature data themselves.
+
+figure 3
+
+The figure clearly shows that the GISS ModelE computer model greatly overestimates the volcano cooling signature. The same is true for the other GCMs, as shown in the supplement file of the paper. This issue is quite important, as I will explain later. In fact, thee exists an attempt to reconstruct climate variations by stressing the climatic effect of the volcano aerosol, but the lack of strong volcano spikes in the temperature record suggest that the volcano effect is already overestimated.
+
+In any case, the paper focuses on whether the GCMs adopted by the IPCC in 2007 reproduce the cyclical modulations observed in the temperature records. With a simple regression model based on the four cycles (about 9.1, 10, 20 and 60 year period) plus an upward trend, that can be geometrically captured by a quadratic fit of the temperature, in the paper I have proved that all GCMs adopted by the IPCC fail to geometrically reproduce the detected temperature cycles at both decadal and multidecadal scale.
+
+figure 4
+
+For example, the above figure depicts the regression model coefficients “a” (for the 60-year cycle) and “b” (for the 20 year cycle) as estimated for all IPCC GCMs runs which are simply numbered in the abscissa of the figure. Values of “a” and “b” close to 1 would indicate that the model simulation well reproduces the correspondent temperature cycle. As it is evident in the figure (and in the tables reported in the paper) all models fail the test quite macroscopically.
+
+The conclusion is evident, simple and straightforward: all GCMs adopted by the IPCC fail in correctly reproducing the decadal and multidecadal dynamical modulation observed in the global surface temperature record, thus they do not reproduce the observed dynamics of the climate. Evidently, the “science is settled” claim is false. Indeed, the models are missing important physical mechanisms driving climate changes, which may also be still quite mysterious and which I believe to ultimately be astronomical induced, as better explained in my other papers.
+
+But now, what can we do with this physical information?
+
+It is important to realize that the “science is settled” claim is a necessary prerequisite for efficiently engineering any physical system with an analytical computer model, as the GCMs want to do for the climate system. If the science is not settled, however, such an engineering task is not efficient and theoretically impossible. For example, an engineer can not build a functional electric devise (a phone or a radio or a TV or a computer), or a bridge or an airplane if some of the necessary physical mechanisms were unknown. Engineering does not really work with a partial science, usually. In medicine, for example, nobody claims to cure people by using some kind of physiological GCM! And GCM computer modelers are essentially climate computer engineers more than climate scientists.
+
+In theoretical science, however, people can attempt to overcome the above problem by using a different kind of models, the empirical/phenomenological ones., which have their own limits, but also numerous advantages. There is just the need to appropriately extracting and using the information contained in the data themselves to model the observed dynamics.
+
+Well, in the paper I used the geometrical information deduced from the temperature data to do two things:
+
+I propose a correction of the proposed net anthropogenic warming effect on the climate
+I implement the above net anthropogenic warming effect in the harmonic model to produce an approximate forecast for the 21st century global surface temperature by assuming the same IPCC emission projections.
+
+To solve the first point we need to adopt a subtle reasoning. In fact, it is not possible to directly solving the natural versus the anthropogenic component of the upward warming trend observed in the climate since 1850 (about 0.8 °C) by using the harmonic model calibrated on the same data because with 161 years of data at most a 60-year cycle can be well detected, but not longer cycles.
+
+Indeed, what numerous papers have shown, including some of mine, for example
+
+http://www.sciencedirect.com/science/article/pii/S1364682609002089 , is that this 1850-2010 upward warming trend can be part of a multi-secular/millenarian natural cycle, which was also responsible for the Roman warming period, the Dark Ages, the Medieval Warm Period and the Little Ica Age.
+
+The following figure from Hulum et al. (2011), http://www.sciencedirect.com/science/article/pii/S0921818111001457 ,
+
+figure 5
+
+gives an idea of how these multi-secular/millenarian natural cycles may appear by attempting a reconstruction of a pluri-millennial record proxy model for the temperature in central Greenland.
+
+However, an accurate modeling of the multi-secular/millenarian natural cycles is not currently possible. The frequencies, amplitudes and phases are not known with great precision because the proxy models of the temperature look quite different from each other. Essentially, for our study, we want only to use the real temperature data and these data start in 1850, which evidently is a too short record for extracting multi-secular/millenarian natural cycles.
+
+To proceed I have adopted a strategy based on the 60-year cycle, which has been estimate to have amplitude of about 0.3 °C, as the first figure above shows.
+
+To understand the reasoning a good start is the IPCC’s figures 9.5a and 9.5b which are particularly popular among the anthropogenic global warming (AGW) advocates: http://www.ipcc.ch/publications_and_data/ar4/wg1/en/figure-9-5.html
+
+These two figures are reproduced below:
+
+figure 6
+
+The above figure b shows that without anthropogenic forcing, according to the IPCC, the climate had to cool from 1970 to 2000 by about 0.0-0.2 °C because of volcano activity. Only the addition of anthropogenic forcings (see figure a) could have produced the 0.5 °C warming observed from 1970 to 2000. Thus, from 1970 to 2000 anthropogenic forcings are claimed to have produced a warming of about 0.5-0.7 °C in 30 years. This warming is then extended in the IPCC GCMs’ projections for the 21st century with an anthropogenic warming trend of about 2.3 °C/century, as evident in the IPCC’s figure SPM5 shown below
+
+figure 7
+
+But our trust about this IPCC’s estimate of the anthropogenic warming effect is directly challenged by the failure of these GCMs in reproducing the 60-year natural modulation which is responsible for at least about 0.3 °C of warming from 1970 to 2000. Consequently, by taking into account this natural variability the net anthropogenic warming effect should not be above 0.2-0.4 °C from 1970 to 2000, instead of the IPCC claimed 0.5-0.7 °C.
+
+This implies that the net anthropogenic warming effect must be reduced to a maximum within a range of 0.5-1.3 °C/century since 1970 to about 2050 by taking into account the same IPCC emission projections, as argued in the paper. In the paper this result is reached by taking also into account several possibilities including the fact that the volcano cooling is evidently overestimated in the GCMs, as we have seen above, and that part of the leftover warming from 1970 to 2000 could have still be due to other factors such as urban heat island and land use change.
+
+At this point it is possible to attempt a full forecast of the climate since 2000 that is made of the four detected decadal and multidecadal cycles plus the corrected anthropogenic warming effect trending. The results are depicted in the figures below
+
+figure 8
+
+The figure shows a full climate forecast of my proposed empirical model, against the IPCC projections since 2000. It is evident that my proposed model agrees with the data much better than the IPCC projections, as also other tests present in the paper show.
+
+My proposed model shows two curves: one is calibrated during the period 1850-1950 and the other is calibrated during the period 1950-2010. It is evident that the two curves equally well reconstruct the climate variability from 1850 to 2011 at the decadal /multidecadal scales, as the gray temperature smooth curve highlights, with an average error of just 0.05 °C.
+
+The propose empirical model would suggest that the same IPCC projected anthropogenic emissions would imply a global warming by about 0.3–1.2 °C by 2100, in opposition to the IPCC 1.0–3.6 °C projected warming. My proposed estimate also excludes an additional possible cooling that may derived from the multi-secular/millennial cycle.
+
+Some implicit evident consequences of this finding is that, for example, the ocean may rise quite less, let us say a third (about 5 inches/12.5 cm) by 2100, than what projected by the IPCC, and that we probably do not need to destroy our economy for attempting to reduce CO2 emissions.
+
+Will my forecast curve work, hopefully, for at least a few decades? Well, my model is not a “oracle crystal ball”. As it happens for the ocean tides, numerous other natural cycles may be present in the climate system at all time scales and may produce interesting interference patterns and a complex dynamics. Other nonlinear factors may be present as well, and sudden events such as volcano eruptions can always disrupt the dynamical pattern for a while. So, the model can be surely improved.
+
+Perhaps, the model I proposed in just another illusion, we do not know yet for sure. What can be done is to continue and improve our research and possibly add month after month new temperature dots to the graph to see how the proposed forecast performs, as depicted in the figure below:
+
+figure 9
+
+The above figure shows an updated graph than what published in the paper, where the temperature record in red stops in Oct/2011. The figure adds the Nov/2011 temperature value in blue color. The monthly temperature data are from http://www.cru.uea.ac.uk/cru/data/temperature/hadcrut3gl.txt
+
+The empirical curve forecast (black curve made of the harmonic component plus the proposed corrected anthropogenic warming trend) looks in good agreement with the data up to now. Ok, it is just one month somebody may say, but indeed the depicted forecasting model started in Jan/2000!
+
+By comparison, the figure shows in yellow the harmonic component alone made of the four cycles, which may be interpreted as a lower boundary for the natural variability, based on the same four cycles.
+
+figure 10
+
+In conclusion the empirical model proposed in the current paper is surely a simplified model that probably can be improved, but it already appears to greatly outperform all current GCMs adopted by the IPCC, such as the GISS ModelE. All of them fail in reconstructing the decadal and multidecadal cycles observed in the temperature records and have failed to properly forecast the steady global surface temperature observed since 2001.
+
+It is evident that a climate model would be useful for any civil strategic purpose only if it is proved capable of predicting the climate evolution at least at a decadal/multidecadal scale. The traditional GCMs have failed up to now this goal, as shown in the paper.
+
+The attempts of some of current climate modelers to explain and solve the failure of their GCMs in properly forecasting the approximate steady climate of the last 10 years are very unsatisfactory for any practical and theoretical purpose. In fact, some of the proposed solutions are: 1) a presumed underestimation of small volcano eruption cooling effects [Solomon et al., Science 2011] (while the GCM volcano effect is already evidently overestimated!), or 2) a hypothetical Chinese aerosol emission [Kaufmann et al., PNAS 2011](which, however, was likely decreasing since 2005!), or 3) a 10-year “red noise” unpredictable fluctuation of the climate system driven by an ocean heat content fluctuation [Meehl et al, NCC 2011] (that, however, in the model simulations would occur in 2055 and 2075!).
+
+Apparently, these GCMs can “forecast” climate change only “a posteriori”, that is, for example, if we want to know what may happen with these GCMs from 2012 to 2020 we need first to wait the 2020 and then adjust the GCM model with ad-hoc physical explanations including even an appeal to an unpredictable “red-noise” fluctuation of the ocean heat content and flux system (occurring in the model in 2055 and 2075!) to attempt to explain the data during surface temperature hiatus periods that contradict the projected anthropogenic GHG warming!
+
+Indeed, if this is the situation it is really impossible to forecast climate change for at least a few decades and the practical usefulness of these kind of GCMs is quite limited and potentially very misleading because the model can project a 10-year warming while then the “red-noise” dynamics of the climate system changes completely the projected pattern!
+
+The fact is that the above ad-hoc explanations appear to be in conflict with dynamics of the climate system as evident since 1850. Indeed, this dynamics suggests a major multiple harmonic influence component on the climate with a likely astronomical origin (sun + moon + planets) although not yet fully understood in its physical mechanisms, that, as shown in the above figures, can apparently explain also the post 2000 climate quite satisfactorily (even by using my model calibrated from 1850 to 1950, that is more than 50 years before the observed temperature hiatus period since 2000!).
+
+Perhaps, a new kind of climate models based, at least in part, on empirical reconstruction of the climate constructed on empirically detected natural cycles may indeed perform better, may have better predicting capabilities and, consequently, may be found to be more beneficial to the society than the current GCMs adopted by the IPCC.
+
+So, is a kind of Copernican Revolution needed in climate change research, as Alan Carlin has also suggested? http://www.carlineconomics.com/archives/1456
+
+I personally believe that there is an urgent necessity of investing more funding in scientific methodologies alternative to the traditional GCM approach and, in general, to invest more in pure climate science research than just in climate GCM engineering research as done until now on the false claim that there is no need in investing in pure science because the “science is already settled”.
+
+About the other common AGW slogan according to which the current mainstream AGW climate science cannot be challenged because it has been based on the so-called “scientific consensus,” I would strongly suggest the reading of this post by Kevin Rice at the blog Catholibertarian entitled “On the dangerous naivety of uncritical acceptance of the scientific consensus”
+
+http://catholibertarian.com/2011/12/30/on-the-dangerous-naivete-of-uncritical-acceptance-of-the-scientific-consensus/
+
+It is a very educational and open-mind reading, in my opinion.
+
+Nicola Scafetta, “Testing an astronomically based decadal-scale empirical harmonic climate model versus the IPCC (2007) general circulation climate models” Journal of Atmospheric and Solar-Terrestrial Physics (2011).
+
+http://www.sciencedirect.com/science/article/pii/S1364682611003385
+
+http://scienceandpublicpolicy.org/reprint/astronomical_harmonics_testing.html
+
+Abstract:
+
+We compare the performance of a recently proposed empirical climate model based on astronomical harmonics against all CMIP3 available general circulation climate models (GCM) used by the IPCC (2007) to interpret the 20th century global surface temperature. The proposed astronomical empirical climate model assumes that the climate is resonating with, or synchronized to a set of natural harmonics that, in previous works (Scafetta, 2010b, 2011b), have been associated to the solar system planetary motion, which is mostly determined by Jupiter and Saturn. We show that the GCMs fail to reproduce the major decadal and multidecadal oscillations found in the global surface temperature record from 1850 to 2011. On the contrary, the proposed harmonic model (which herein uses cycles with 9.1, 10–10.5, 20–21, 60–62 year periods) is found to well reconstruct the observed climate oscillations from 1850 to 2011, and it is shown to be able to forecast the climate oscillations from 1950 to 2011 using the data covering the period 1850–1950, and vice versa. The 9.1-year cycle is shown to be likely related to a decadal Soli/Lunar tidal oscillation, while the 10–10.5, 20–21 and 60–62 year cycles are synchronous to solar and heliospheric planetary oscillations. We show that the IPCC GCM’s claim that all warming observed from 1970 to 2000 has been anthropogenically induced is erroneous because of the GCM failure in reconstructing the quasi 20-year and 60-year climatic cycles. Finally, we show how the presence of these large natural cycles can be used to correct the IPCC projected anthropogenic warming trend for the 21st century. By combining this corrected trend with the natural cycles, we show that the temperature may not significantly increase during the next 30 years mostly because of the negative phase of the 60-year cycle. If multisecular natural cycles (which according to some authors have significantly contributed to the observed 1700–2010 warming and may contribute to an additional natural cooling by 2100) are ignored, the same IPCC projected anthropogenic emissions would imply a global warming by about 0.3–1.2 °C by 2100, contrary to the IPCC 1.0–3.6 °C projected warming. The results of this paper reinforce previous claims that the relevant physical mechanisms that explain the detected climatic cycles are still missing in the current GCMs and that climate variations at the multidecadal scales are astronomically induced and, in first approximation, can be forecast.
+
+The climate data they don't want you to find — free, to your inbox.
+Join readers who get 5–8 new articles daily — no algorithms, no shadow bans.
+Email Address
+By subscribing, you agree to our privacy policy and terms of service.
+5
+Article Rating
+Share this:
+Print
+Email
+More

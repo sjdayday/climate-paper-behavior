@@ -1,0 +1,26 @@
+SOURCE: https://www.sciencedaily.com/releases/2012/11/121128093911.htm
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; summary + story text)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Sea levels rising faster than IPCC projections | ScienceDaily
+Sea levels are rising 60 per cent faster than the Intergovernmental Panel on Climate Change's central projections, new research suggests. While temperature rises appear to be consistent with the projections made in the IPCC's fourth assessment report (AR4), satellite measurements show that sea levels are actually rising at a rate of 3.2 mm a year compared to the best estimate of 2 mm a year in the report.
+Sea levels are rising 60 per cent faster than the Intergovernmental Panel on Climate Change's (IPCC) central projections, new research suggests.
+
+While temperature rises appear to be consistent with the projections made in the IPCC's fourth assessment report (AR4), satellite measurements show that sea levels are actually rising at a rate of 3.2 mm a year compared to the best estimate of 2 mm a year in the report.
+
+The researchers, from the Potsdam Institute for Climate Impact Research, Tempo Analytics and Laboratoire d'Etudes en Géophysique et Océanographie Spatiales, believe that findings such as these are important for keeping track of how well past projections match the accumulating observational data, especially as projections made by the IPCC are increasingly being used in decision making.
+
+The study, which has been published November 28, in IOP Publishing's journal Environmental Research Letters, involved an analysis of global temperatures and sea-level data over the past two decades, comparing them both to projections made in the IPCC's third and fourth assessment reports.
+
+Results were obtained by taking averages from the five available global land and ocean temperature series.
+
+After removing the three known phenomena that cause short-term variability in global temperatures -- solar variations, volcanic aerosols and El Nino/Southern Oscillation -- the researchers found that the overall warming trend at the moment is 0.16°C per decade, which closely follows the IPCC's projections.
+
+Satellite measurements of sea levels showed a different picture, however, with current rates of increase being 60 per cent faster than the IPCC's AR4 projections.
+
+Satellites measure sea-level rise by bouncing radar waves back off the sea surface and are much more accurate than tide gauges as they have near-global coverage; tide gauges only sample along the coast. Tide gauges also include variability that has nothing to do with changes in global sea level, but rather with how the water moves around in the oceans, such as under the influence of wind.
+
+The study also shows that it is very unlikely that the increased rate is down to internal variability in our climate system and also shows that non-climatic components of sea-level rise, such as water storage in reservoirs and groundwater extraction, do not have an effect on the comparisons made.
+
+Lead author of the study, Stefan Rahmstorf, said: "This study shows once again that the IPCC is far from alarmist, but in fact has under-estimated the problem of climate change. That applies not just for sea-level rise, but also to extreme events and the Arctic sea-ice loss."

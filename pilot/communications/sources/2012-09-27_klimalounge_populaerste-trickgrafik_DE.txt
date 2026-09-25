@@ -1,0 +1,80 @@
+SOURCE: https://scilogs.spektrum.de/klimalounge/die-populaerste-trickgrafik-der-klimaskeptiker-vahrenholt/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; post body (German))
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Die populärste Trickgrafik der Klimaskeptiker - KlimaLounge
+SciLogs » KlimaLounge » Klimadaten » Die populärste Trickgrafik der Klimaskeptiker
+27. Sep. 2012Von Stefan RahmstorfLesedauer ca. 5 Minuten53 Kommentare
+Die populärste Trickgrafik der Klimaskeptiker
+BLOG: KLIMALOUNGE
+
+Die wohl beliebteste Täuschgrafik der Klimaskeptiker ist das „world climate widget“ des US-Bloggers Anthony Watts. Wir nehmen es unter die Lupe und zeigen, wie die Grafik korrekt aussehen würde.
+
+Die sogenannten „Klimaskeptiker“ verfügen ja über ein Arsenal an irreführenden Grafiken, mit denen der Einfluss des Menschen auf das Klima heruntergespielt werden soll (zwei Beispiele). Besonders verbreitet ist das folgende Bild, das – regelmäßig aktualisiert – auf vielen Klimaskeptikerwebsites reproduziert ist.
+
+Das „world climate widget“ des US-Klimaskeptikers Anthony Watts mit unseren Erläuterungen (grün). Das Original findet man bei Watts Blog.
+
+Wie würde eine seriöse Zusammenschau von Temperatur, CO2 und Sonnenflecken aussehen?
+
+1. Man sollte dazu Jahreswerte der bodennahen Lufttemperatur nehmen. Die sind relevant für uns Menschen; wir leben nicht irgendwo weiter oben in der Troposphäre. Die von Watts gezeigten satellitenbasierten Troposphärentemperaturen zeigen übrigens praktisch den gleichen Erwärmungstrend wie die von den Wetterstationen gemessenen bodennahen Temperaturen (in beiden Fällen 0,17 °C pro Jahrzehnt über die letzten 30 Jahre). Allerdings ist die Variabilität bei den Troposphärendaten wesentlich größer, insbesondere die Reaktion auf El Niño (wie 1998) und die Sonnenzyklen (wir zeigen das in Foster & Rahmstorf, ERL 2011). Vor lauter Rauschen sieht man den Trend optisch weniger, zumal wenn man auch noch Monatswerte zeigt statt Jahreswerte. Wir nehmen also den bekannten Datensatz der globalen Jahrestemperaturen des Goddard Institute for Space Studies der NASA. (Mehr zu den globalen Temperaturdaten bei Spektrum.de.)
+
+2. Man muss die Skala der CO2-Messdaten korrekt wählen für einen seriösen Vergleich mit den Temperaturdaten, damit sie dem tatsächlich von der Klimaforschung vorhergesagten CO2-Effekt entspricht. Man kann den kompliziert mit einem Klimamodell berechnen; man kann aber auch eine einfache Überschlagsrechnung machen. Heraus kommt: ein CO2-Anstieg von 280 auf 380 ppm  (entsprechend 1,7 Watt pro Quadratmeter Strahlungsantrieb) führt unmittelbar zu etwa 0,8 Grad globaler Erwärmung („unmittelbar“ weil es später noch einen zeitverzögerten Nachlauf gibt, aber wir vergleichen hier ja Temperatur und CO2 zeitgleich). So ist es z.B. in unserem Buch Wie bedroht sind die Ozeane (Seite 111) vorgerechnet.
+
+In unserer Grafik müssen also für eine seriöse Gegenüberstellung 100 ppm CO2 auf der rechten Achse 0,8 Grad auf der linken Achse entsprechen. Das entspricht auch der besten IPCC-Abschätzung des „Transient Climate Response“ (TCR) von 2,1 °C zum Zeitpunkt der CO2-Verdopplung, denn 2,1 °C bei 280 ppm Anstieg ergibt wieder 0,8 °C pro 100 ppm, siehe IPCC Kap. 9.6.2.3. Der TCR ist kleiner als die Klimasensitivität (beste Abschätzung 3 °C für CO2-Verdoppelung), weil die Erwärmung Zeit braucht und hinter dem späteren Gleichgewichtswert „hinterher hinkt“.
+
+Wir zeigen die Jahreswerte der berühmten CO2-Messreihe auf dem Mauna Loa in Hawaii, die 1958 begann.
+
+3. Und zu guter letzt sollte man ehrlicherweise die Zeitreihe der Sonnenflecken zeigen (ebenfalls Jahreswerte) und nicht nur eine Momentaufnahme. Auch hier stellt sich die Frage der richtigen Skalierung (wenn sie auch nicht so wichtig ist, weil die Sonnenaktivität nur Zyklen und keinen nennenswerten Trend aufweist). Wir wählen die Skalierung, die nach der Korrelationsanalyse von Lean und Rind (2008) dem tatsächlich in den Daten feststellbaren Effekt auf die globale Temperatur entspricht, d.h. eine Amplitude des Sonnenfleckenzyklus von ca. 0,05 °C. (Mehr zum Einfluss der Sonne auf die Temperatur bei Spektrum.de.)  
+
+Und so sieht das Bild dann aus:
+
+(Grafik: Prof. Stefan Rahmstorf, Creative Commons BY-ND)
+
+Die Trends der CO2- und Temperatur-Kurven stimmen erstaunlich gut überein. Erstaunlich ist das, weil CO2 ja nicht der einzige Einflussfaktor auf die Temperatur ist. Diese Übereinstimmung hat zwei Gründe:
+
+(1) Die weiteren anthropogenen Einflüsse sind teilweise erwärmend (andere Treibhausgase wie Methan), teilweise abkühlend (Luftverschmutzung durch Aerosole). Beides hält sich in etwa die Waage. (Der IPCC-Bericht gibt den anthropogenen Strahlungsantrieb des CO2 alleine mit 1,7 Watt/m2 an, den aller anthropogenen Faktoren zusammengenommen mit 1,6 W/m2.)
+
+(2) Die natürlichen Einflüsse (Vulkane, Sonnenzyklen) auf den Trend sind verschwindend gering im Vergleich zum anthropogenen CO2 (siehe z.B. Lean & Rind 2008, Foster & Rahmstorf 2011).
+
+Die kurzfristigen Temperaturschwankungen um den Trend herum haben natürlich andere Ursachen und haben nichts mit CO2 zu tun; ich habe sie hier näher erläutert.
+
+Da gehört schon einiges dazu, um aus der gezeigten Datenlage eine Grafik zu machen, die dem Laien vorgaukelt, CO2 sei unwichtig und die Sonne wichtig für die globale Temperaturentwicklung über die letzten sechzig Jahre! Wer mit dieser Grafik hausieren geht, hat sich aus jeder ernsthaften Sachdiskussion verabschiedet und den Weg der Täuschung beschritten.
+
+Und wer verbreitet in Deutschland nach Kräften die unseriöse Trickgrafik von Anthony Watts? Es ist der ehemalige RWE-Manager Fritz Vahrenholt, auf dessen Kalte Sonne home page diese Grafik als Dauerillustration immer vorne drauf ist. Da staunt der Laie und der Fachmann wundert sich: Wie kann jemand, der sich als Wissenschaftler präsentiert (ich bin Chemieprofessor!) mit solchen Bauernfängertricks arbeiten? Und wie kann jemand, der mit solchen Bauernfängertricks arbeitet (es ist ja keineswegs der einzige), in das Lenkungsgremium für einen Klimabericht der Technikakademie Acatech berufen werden?
+
+p.s. Herr Vahrenholt hat jetzt eine gute Gelegenheit zu beweisen, dass er nicht absichtlich sondern nur aus Unkenntnis der grundlegenden Klimadaten mit dieser irreführenden Grafik arbeitet. Er sollte umgehend die Watts-Grafik durch unsere seriöse Darstellung der Datenkurven ersetzen. Wir stellen sie gerne zur Verfügung (creative commons, siehe oben). Hoffnung macht uns dabei, dass Vahrenholt nach unserem jüngsten Beitrag seine Falschbehauptung korrigiert hat, das diesjährige Rekordminimum beim arktischen Meereis habe nur 2% unter dem von 2007 gelegen.
+
+Update 28.9.: Ich stolperte gerade über ein passendes Zitat, aus einer Rede des US-Kongressabgeordneten Ed Markey diese Woche zum 50. Jahrestag des Erscheinens von Rachel Carsons Silent Spring:
+
+Rachel Carson was attacked by the chemical industry using a playbook that the tobacco industry first developed: Discredit the messenger, foster doubt and denial about the science, and call for additional research.
+
+Whether it’s harmful chemicals, tobacco use, or climate science, all too often the affected industries employ a three-D strategy: discredit, deny, and delay.
+
+Vielleicht erinnert es Herrn Vahrenholt an seine Jugend (Seveso ist überall).
+
+Update 30.9.: Einer unserer Leser, Bernd Herd, hat hier ein Widget aus der obigen Grafik programmiert, das sich in der Größe anpassen lässt und transparent ist, sodass man es auf jeden Hintergrund machen kann. Siehe seine Kommentare hier und hier. So entsteht aus dem Bloggen ein echter Mehrwert – vielen Dank dafür!
+
+
+
+
+
+In eigener Sache: vorgestern ist unser Buch Wolken, Wind & Wetter von der Deutschen Umweltstiftung zum Umweltbuch des Jahres 2012 gekürt worden!
+
+                
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Veröffentlicht in: Klimadaten
+Veröffentlicht von Stefan Rahmstorf
+www.pik-potsdam.de/~stefan/
+
+Stefan Rahmstorf ist Klimatologe und Abteilungsleiter am Potsdam-Institut für Klimafolgenforschung und Professor für Physik der Ozeane an der Universität Potsdam. Seine Forschungsschwerpunkte liegen auf Klimaänderungen in der Erdgeschichte und der Rolle der Ozeane im Klimageschehen.

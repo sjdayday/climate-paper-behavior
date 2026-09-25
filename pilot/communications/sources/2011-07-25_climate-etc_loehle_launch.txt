@@ -1,0 +1,42 @@
+SOURCE: https://web.archive.org/web/20170711213953/https://judithcurry.com/2011/07/25/loehle-and-scafetta-on-climate-change-attribution/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (Wayback capture 2017-07-11 (live URL returned "Not found" on 2026-09-25); post body (.entry-content))
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+by Craig Loehle
+
+How do we detect the influence of humans on the climate system?  Current methods based on climate models are unfortunately circular: their estimate of human effects is only valid if the models are correct, but the models make certain assumptions and also are fitted to the historical temperature record.  A model-independent estimate of climate response is needed and is provided by this study.
+
+Loehle, C. and N. Scafetta. 2011. Climate Change Attribution Using Empirical Decomposition of Historical Time Series.  Open Atmospheric Science Journal 5:74-86.
+
+The study is available free at http://benthamscience.com/open/toascj/articles/V005/74TOASCJ.htm
+
+The climate change attribution problem was addressed using empirical decomposition.  Previously observed cycles in solar motion and activity of 60 and 20 years were used to develop an empirical model of Earth temperature variations.  The model was fit to the Hadley global temperature data up to 1950 (the time period before anthropogenic (GHG+Aerosol) emissions became a significant forcing mechanism), and then extrapolated from 1951 to 2010 (Fig. 1A).  The residuals (Fig.1B) showed an approximate linear upward trend after 1942.  It is assumed that this residual upward warming has been mostly induced by anthropogenic emissions, urbanization and land use change.  The warming observed before 1942 is relatively small and is assumed to have been mostly naturally induced because anthropogenic (warming + cooling) forcing would approximately compensate each other before 1950.
+
+Figure 1.
+
+The resulting full natural plus anthropogenic model (below, Fig. 2) fits the entire 160 year record very well.  Residual analysis does not provide any evidence for a substantial cooling effect due to sulfate aerosols from 1940 to 1970.  In fact, the cooling observed during that period is well predicted by a natural 60-year cycle, which from 1940 to 1970 was in its cooling phase and contributed about 0.3 oC cooling, plus an estimated +0.66 oC/century anthropogenic warming, which is visible in the global temperature since 1850 and has been observed also in numerous multisecular climatic records.  New solar activity proxy models developed in the paper suggest a mechanism for both the 60-year climate cycle and a portion of the long-term warming trend.  About 60% of the warming observed from 1970 to 2000 was very likely caused by this natural 60-year climatic cycle during its warming phase.  Figure 2B shows the components of the signal in our model.
+
+Figure 2.
+
+A 21st Century forecast (below, Fig. 3) suggests that climate may remain approximately steady until 2030-2040, and may at most warm 0.5-1.0°C by 2100 at the estimated 0.66°C/century anthropogenic warming rate, which is about 3.5 times smaller than the average 2.3°C/century anthropogenic warming rate projected by the IPCC during the first decades of the 21st century.
+
+Figure 3.
+
+Conclusions:
+
+1) The estimated AGW component matches theory, since the log of an exponential rise in carbon dioxide should give an approximatelinear trend (as in fact the climate models do).  The timing of AGW effects (beginning in 1942) also matches expectations.
+
+2) The fitted components match solar model forcings within their uncertainty.
+
+3) The estimated sensitivity matches a no-amplification (neutral) climate sensitivity, or even a slight negative feedback case.
+
+4) Warming due to anthropogenic GHG+Aerosol of 0.66  oC/Century is not alarming, in comparison to the IPCC protected 2.3 oC/Century  This 0.66 value is an upper bound in our estimation (due to possible poorly corrected UHI and LULC effects that may explain part of the observed warming trend since 1950).
+
+5) Cooling/flat temperatures till 2030 are likely (as also predicted by others).
+
+6) Our result matches the historical record better than any other attribution study and better than GCM outputs.
+
+SHARE THIS:
+EmailTwitterFacebookPrintRedditTumblr
+Loading...

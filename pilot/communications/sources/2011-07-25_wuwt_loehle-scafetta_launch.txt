@@ -1,0 +1,99 @@
+SOURCE: https://web.archive.org/web/20200213070301/https://wattsupwiththat.com/2011/07/25/loehle-and-scafetta-calculate-0-66ccentury-for-agw/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (Wayback capture 2020-02-13; post body + sampled author comments)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Loehle and Scafetta calculate 0.66°C/century for AGW | Watts Up With That?
+Guest post by Craig Loehle and Nicolas Scafetta
+
+Human Effect on Climate Clearly Detected
+
+(but is 0.66 deg C/100yr since ~1950!)
+
+Loehle, C. and N. Scafetta. 2011. Climate Change Attribution Using Empirical Decomposition of Historical Time Series. Open Atmospheric Science Journal 5:74-86.
+
+The study is available via free open access at http://benthamscience.com/open/toascj/articles/V005/74TOASCJ.htm (links to full paper and supplemental information, both PDF, follow at the end of this post)
+
+How do we detect the influence of humans on the climate system? Current methods based on climate models are unfortunately circular: their estimate of human effects is only valid if the models are correct, but the models make certain assumptions and also are fitted to the historical temperature record. A model-independent estimate of climate response is needed and is provided by this study.
+
+The climate change attribution problem was addressed using empirical decomposition. Previously observed cycles in solar motion and activity of 60 and 20 years were used to develop an empirical model of Earth temperature variations. The model was fit to the Hadley global temperature data up to 1950 (the time period before anthropogenic (GHG+Aerosol) emissions became a significant forcing mechanism), and then extrapolated from 1951 to 2010 (Fig. 1A). The residuals (Fig.1B) showed an approximate linear upward trend after 1942. It is assumed that this residual upward warming has been mostly induced by anthropogenic emissions, urbanization and land use change. The warming observed before 1942 is relatively small and is assumed to have been mostly naturally induced because anthropogenic (warming + cooling) forcing would approximately compensate each other before 1950.
+
+Figure 1.
+
+The resulting full natural plus anthropogenic model (below, Fig. 2) fits the entire 160 year record very well. Residual analysis does not provide any evidence for a substantial cooling effect due to sulfate aerosols from 1940 to 1970. In fact, the cooling observed during that period is well predicted by a natural 60-year cycle, which from 1940 to 1970 was in its cooling phase and contributed about 0.3 oC cooling, plus an estimated +0.66 oC/century anthropogenic Note that a quasi 60-year cycle is visible in the global temperature since 1850 and has been observed also in numerous multisecular climatic records. New solar activity proxy models developed in the paper suggest a mechanism for both the 60-year climate cycle and a portion of the long-term warming trend. About 60% of the warming observed from 1970 to 2000 was very likely caused by this natural 60-year climatic cycle during its warming phase. Figure 2B shows the components of the signal in our model.
+
+Figure 2.
+
+A 21st Century forecast (below, Fig. 3) suggests that climate may remain approximately steady until 2030-2040, and may at most warm 0.5-1.0°C by 2100 at the estimated 0.66°C/century anthropogenic warming rate, which is about 3.5 times smaller than the average 2.3°C/century anthropogenic warming rate projected by the IPCC during the first decades of the 21st century.
+
+Figure 3.
+
+Conclusions
+
+1) The estimated AGW component matches theory, since the log of an exponential rise in carbon dioxide should give an approximatelinear trend (as in fact the climate models do). The timing of AGW effects (beginning in 1942) also matches expectations.
+
+2) The fitted components match solar model forcings within their uncertainty.
+
+3) The estimated sensitivity matches a no-amplification (neutral) climate sensitivity, or even a slight negative feedback case.
+
+4) Warming due to anthropogenic GHG+Aerosol of 0.66 oC/Century is not alarming, in comparison to the IPCC protected 2.3 oC/Century This 0.66 value is an upper bound in our estimation (due to possible poorly corrected UHI and LULC effects that may explain part of the observed warming trend since 1950).
+
+5) Cooling/flat temperatures till 2030 are likely (as also predicted by others).
+
+6) Our result matches the historical record better than any other attribution study and better than GCM outputs.
+
+============================================================
+
+Loehle & Scafetta 2011 (full paper PDF)
+
+Loehle & Scafetta Supplemental Info (PDF)
+
+Advertisements
+Share this:
+PrintEmailTwitterFacebookPinterestLinkedInReddit
+Like this:
+Loading...
+
+=== AUTHOR COMMENTS (sample: first 6 distinct of 40 Loehle/Scafetta-attributed comment nodes located; thread not exhaustively captured) ===
+
+Craig Loehlec July 25, 2011 at 12:24 pm
+
+Some reminders:
+1) 0.66 deg C is per century, the sensitivity to doubling is more like 1 to 1.2 which matches Spencer and other low-end estimates
+2) This is not a polynomial fit to the data. We factor out the natural cycles based on solar activity first, then identify the human signal.
+3) People really should read it first, it is a paper rich with data and citations.
+
+---
+
+Craig Loehlec July 25, 2011 at 12:26 pm
+
+Mosh: You call it calibration, I call it fitting. One of the most glaring examples is the correlation between model sensitivity and the amount of sulfate aerosols assumed as input (which keeps sensitive models from running away from the data).
+
+---
+
+Craig Loehlec July 25, 2011 at 12:48 pm
+
+Please take a look at the signal components we detected. The amplitude for the 60 yr cycle is 3x larger than the 20 in the solar wobble data, and also in the fitted model to temperature. Quite a coincidence. The linear anthropogenic signal starts in 1942, which makes sense, is linear which matches GCM output (look at IPCC graphs, they are linear) and matches theory since log saturation of an exponentially rising CO2 level will be linear. The slope matches what we expect for sensitivity in the absence of feedbacks. The model predicted the downturn at 2000 based on fitting only up to 1950. So there sure are a lot of coincidences in the results if it is just garbage.
+
+---
+
+Craig Loehlec July 25, 2011 at 1:25 pm
+
+Don D.: we do mention that the 0.1 deg/century upward trend may be part of a long cycle.
+Bruce Cobb: we argue that the 0.66 deg C/century is an upper bound–the reviewers made us take out our attempt to estimate and subtract this factor
+Willem de Lange: thanks for the reference. We see a reason to split the data because of the introduction of a new forcing (human) around mid-century. This is what allows us to detect it.
+
+---
+
+Craig Loehle July 25, 2011 at 1:44 pm
+
+Thank you Andrew for the citation to Kiehl
+Septic Mathew: there are many complications that no doubt deserve investigation
+
+---
+
+Craig Loehle July 25, 2011 at 4:13 pm
+
+Willis & Mosher: we did not fit the cycles to the whole data set, we did as you suggested: fit the cycles to the first period to 1950 then applied them to the second half. The residuals (lack of fit) after 1950 suggested an unidentified forcing which we attributed to human activity.
+We do not ascribe “magical properties” to a fitted curve. We observe that there is a regular orbital oscillation of the sun–this orbit pattern is fixed and calculable. We assume that this MAY somehow affect solar output/magnetic field etc. We then test if this pattern matches the temperature pattern. So you object to something we did not do. If there are even longer cycles, this would give the long slow rise. We show in figure 1 that the “linear + cycles” model gives a bad fit, which is fixed when we assume that human forcing started around roughly mid-century. Given the long fit period and the match up with Scafetta’s new solar model, we do not think our extrapolation of 90 years is outlandish.
+The effect of the newly released SST data by Hadley looks to me by eye like it would enhance the 60 yr signal, but I only learned of it last week.

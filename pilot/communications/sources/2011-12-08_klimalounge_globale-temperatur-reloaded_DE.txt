@@ -1,0 +1,63 @@
+SOURCE: https://scilogs.spektrum.de/klimalounge/globale-temperatur-reloaded/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; post body (German))
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Globale Temperatur Reloaded - KlimaLounge
+SciLogs » KlimaLounge » Klimadaten » Globale Temperatur Reloaded
+08. Dez. 2011Von Stefan RahmstorfLesedauer ca. 5 Minuten30 Kommentare
+Globale Temperatur Reloaded
+BLOG: KLIMALOUNGE
+
+Es gibt drei interessante Nachrichten über die globale Temperatur: einen gänzlich neuen Datensatz, eine neue Analyse der fünf etablierten Datenreihen und eine erste Abschätzung des Wertes für 2011.
+
+Als vor eineinhalb bis zwei Jahren eine Welle von Angriffen gegen die Klimaforschung durch die Blogs rollte (angebliche Skandale wie ‚Climategate‘, ‚Amazongate‘, ‚Africagate‘ usw.) und von dort auch in die Mainstream-Medien schwappte, da ging es im Kern um die Verlässlichkeit der Aussagen des ‚Klimarats‘ IPCC und der Daten über die globale Temperaturentwicklung (siehe z.B. die KlimaLounge-Kommentare hier, hier und hier). Die Skandal- und Manipulationsvorwürfe wurden gründlich untersucht und stellten sich bald als falsch heraus. Dennoch hat die Wissenschaft die Vorgänge intensiv selbstkritisch analysiert und Konsequenzen gezogen, z.B. in Form einer Reihe von Reformen des IPCC. Auch eine Reihe von Medien hat später durchaus selbstkritisch einen Blick zurück auf die Vorwürfe geworfen und festgestellt, dass praktisch nichts dran war, z.B. die Frankfurter Rundschau, die Berliner tageszeitung und die ZEIT. (Dass es auch Journalisten gibt, die auf Kritik mit Verklagen oder Diffamieren reagieren, sei hier nur am Rande vermerkt; differenzierte Kommentare dazu sind u.a. hier und hier zu finden.)
+
+Doch ein Aspekt der Aufarbeitung stand noch aus: wie zuverlässig sind nun die globalen Temperaturdaten? Im Berkeley Earth Surface Temperature (BEST) Projekt wurde ein gänzlich neuer globaler Temperaturdatensatz erarbeitet – von Wissenschaftlern, die vorher nichts mit Klimaforschung zu tun hatten und sich im Vorfeld dezidiert skeptisch gegenüber der globalen Erwärmung positioniert hatten. Zudem wurde das Projekt teilweise von der Ölindustrie finanziert (mehr Hintergründe z.B. bei BBC Online). Inzwischen liegt das Ergebnis für den globalen Temperaturverlauf über Land vor. Was keinen Klimaforscher überrascht haben dürfte, die beteiligten Wissenschaftler aber offenbar schon: es kommt wieder ziemlich genau das Gleiche heraus wie bei den schon existierenden Datensätzen (siehe Grafik). Der Physiker und Projektleiter Richard Muller kommentierte das so:
+
+Unsere größte Überraschung war, dass die neuen Resultate so eng mit den Erwärmungswerten übereinstimmen, die andere Arbeitsgruppen in den USA und Großbritannien vorher publiziert haben.
+
+Für mich ein schönes Beispiel dafür, wie Wissenschaft funktionieren sollte und zum Glück in der Regel auch funktioniert: egal welche Vorurteile die beteiligten Forscher auch gehabt haben mögen und wer das Ganze bezahlt, das Ergebnis ist davon unabhängig.
+
+
+(Grafik reproduziert mit Erlaubnis von BBC online)
+
+Auf der Grafik erkennt man auch, dass die neuen BEST-Daten deutlich näher an jenen von NASA GISS und NOAA liegen als an den HadCRU-Daten, die am Ende etwas kühler sind – eine Diskrepanz, die wir u.a. hier schon früher erörtert haben. Dabei stellten wir fest, dass es mitnichten eine Pause in der globalen Erwärmung gibt (was in einem Nachrichtenmagazin damals prompt als „Schwarzrechnerei“ abgetan wurde). Die neuen BEST-Daten zeigen übrigens auch keinerlei Anzeichen für eine rezente Verlangsamung der Klimaerwärmung, die immer wieder einmal in den Medien vorgebracht wird (dies wird im Detail bei Open Mind gezeigt).
+
+Damit sind wir schon beim zweiten Thema: gerade hat Environmental Research Letters ein Paper vom Statistiker Grant Foster und mir publiziert, in dem wir die fünf verfügbaren Datenreihen der globalen Temperatur (Land + Meer) seit 1979 analysieren. Durch eine Korrelationsanalyse filtern wir den Effekt der drei bekannten kurzfristigen Schwankungsfaktoren heraus: El Niño, Sonnenaktivität und Vulkanausbrüche. Zum Trend tragen diese praktisch nichts bei, aber wenn man diese Schwankungen herausrechnet, stimmen die fünf Datenreihen deutlich besser überein als vorher (siehe nächste Grafik). Das liegt daran, dass die Unterschiede zwischen den Datenreihen nicht im Klimatrend liegen sondern in den kurzfristigen Schwankungen. So fällt z.B. die Reaktion auf ein El Niño Ereignis in den Satellitendaten (rot und orange) rund doppelt so stark aus wie in den Bodendaten. Nimmt man diese Schwankungen heraus, reduzieren sich daher auch die Unterschiede zwischen den Datenreihen.
+
+Wegen der kleineren zwischenjährlichen Schwankungen kann man jetzt auch über kürzere Zeiträume statistisch signifikante Trendberechnungen machen. So ist in allen fünf Datenreihen selbst der Erwärmungstrend ab dem Jahr 2000 statistisch signifikant, und die beste Schätzung für diesen Trend liegt in allen Datenreihen sehr nah am Langzeittrend seit 1979 (Abb. 6 des Papers). Also auch hier keinerlei Hinweise auf eine Verlangsamung oder gar Pause in der globalen Erwärmung. In allen fünf Datenreihen sind die beiden wärmsten Jahre 2009 und 2010.
+
+Einen ersten Vorausblick auf den Jahreswert 2011 hat derweil die Meteorologische Weltorganisation WMO vor einigen Tagen geliefert, in ihrem vorläufigen Statusbericht zum globalen Klima 2011 (siehe nächste Grafik).
+
+Die WMO erwartet aufgrund des kühlenden Effekts von La Niña im Pazifik, dass das Jahr 2011 relativ kühl wird – konsistent mit der Analyse in unserem Paper. Relativ heißt, dass es trotzdem noch unter die zehn wärmsten Jahre seit Beginn der Aufzeichnungen zählen dürfte. Und es wird offenbar das wärmste La Niña-Jahr bisher – das sind die blauen Jahre in der obigen Grafik.
+
+Update 16.12.: Ein Leser hat nach Kommentar zu Durban gefragt. Ich empfehle Herrn Schellnhubers FAZ-Interview: Die Weltkarte des Klimaschutzes hat sich verändert.
+
+Update 19.12.: Da inzwischen doch einiges an seriöser Diskussion zu meiner „Africagate“-Kritik hinzugekommen ist, auf die ich im Artikel oben kurz angespielt habe, sind hier ein paar Links zusammengestellt:
+
+Klimaforscher Wolfgang Cramer, Autor eines PNAS-Artikels zum Thema, analysiert die fachlichen Hintergründe zu den afrikanischen Dürrerisiken und das jüngste Medienecho im Vielfalterblog.
+
+Der Heidelberger Astrophysiker Markus Pössel untersucht in Rahmstorf im Zerrspiegel die Machart der Spiegel-Online-Geschichte zum Thema. In einem zweiten Teil dann geht er den wissenschaftlichen Fragen hinter der ganzen Geschichte nach, und wie diese in den Artikeln von Irene Meichsner und Markus Lehmkuhl dargestellt wurden.
+
+Der Sprachwissenschaftler Anatol Stefanowitsch diskutiert einige interessante sprachliche Aspekte und vergleicht Meichsners Artikel mit ihren beiden Quellen in Kritiklos abgeschrieben?
+
+Hier findet man die Stellungnahme des Potsdam-Instituts.
+
+Literatur
+
+G. Foster, and S. Rahmstorf, „Global temperature evolution 1979–2010“, Environmental Research Letters, vol. 6, 2011, 044022. DOI.
+
+Presse zum Paper
+
+Süddeutsche Zeitung
+
+New Scientist
+
+Washington Post
+
+Veröffentlicht in: Klimadaten
+Veröffentlicht von Stefan Rahmstorf
+www.pik-potsdam.de/~stefan/
+
+Stefan Rahmstorf ist Klimatologe und Abteilungsleiter am Potsdam-Institut für Klimafolgenforschung und Professor für Physik der Ozeane an der Universität Potsdam. Seine Forschungsschwerpunkte liegen auf Klimaänderungen in der Erdgeschichte und der Rolle der Ozeane im Klimageschehen.

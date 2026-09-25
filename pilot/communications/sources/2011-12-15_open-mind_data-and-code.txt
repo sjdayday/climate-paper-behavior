@@ -1,0 +1,61 @@
+SOURCE: https://tamino.wordpress.com/2011/12/15/data-and-code-for-foster-rahmstorf-2011/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; post body)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Data and Code for Foster & Rahmstorf 2011 | Open Mind
+This post is only to provide access to the data and the code (all computations were done using R) used in Foster & Rahmstorf 2011 (blogged about here).
+
+
+One change has been made to the programs. Since they make use of some custom subroutines which are usually accessed through the start-up file when launching R, these subroutines have been placed in a file called “subrouts.r” and the main programs have this line inserted:
+
+source(“subrouts.r”)
+
+in order to load those functions. It’s possible (but I don’t think so) that I’ve omitted one of the functions, in which case the R programs will fail — if that happens please let me know.
+
+There are three programs. “allfit.r” performs computations for the globe, “nhfit.r” for the northern hemisphere, and “shfit.r” for the southern hemisphere. All the input data are in the single file “allfit.csv”.
+
+I’ve also included the output from running “allfit.r” on the data, the two files “Adjusted.dat” which contains the adjusted temperature series (as well as the raw data, the model fit, and residuals), and “rates.txt” which gives the coefficients for each factor in the model. The coefficient labeled “tau” is the time coefficient. If you run the program “allfit.r” then it will overwrite these files, but they should be the same (except that in the included versions, I moved the headers around so they would be aligned with the data colums).
+
+Advertisement
+
+Unfortunately wordpress won’t allow me to upload a zip file. So I’ve pulled a little trick. I renamed the file “allfit.zip” to “allfit.xls” in order to fool the wordpress software into believing that it’s an Excel file. You will need to rename this file, back to the name “allfit.zip”, in order to unzip it and access the programs and data.
+
+Here it is:
+
+allfit
+
+If you find a bug, please let me know. But I don’t want to answer everybody’s questions or explain how the regression or the programs work. If you know enough to make it work, great. If you need a tutorial, sorry.
+
+I have also discovered that there is a minor error in one of the graphs in the paper. In figure 3, the y-axis labels for the coefficient due to TSI (total solar irradiance) are incorrect. They run from -0.05 to +0.25, but they should run from -0.05 to +0.20. Here is the figure with the mistake:
+
+Here is a corrected figure:
+
+
+
+
+Note that it’s the same except for the axis labels at the bottom left on the y-axis.
+
+Advertisement
+
+UPDATE:
+
+I was notified that one of the subroutines was missing from the “subrouts.r” file. So, I’ve posted a new version which includes it. The correct file should be “allfit2.xls” which you must re-name to “allfit2.zip”
+
+Advertisement
+SHARE THIS:
+ Bluesky Facebook X
+Loading...
+RELATED
+
+Test My Code
+January 17, 2025
+In "Global Warming"
+
+The Real Global Warming Signal
+December 6, 2011
+In "climate change"
+
+Seasonal Niño
+September 11, 2013
+In "climate change"

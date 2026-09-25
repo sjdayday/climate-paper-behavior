@@ -1,0 +1,77 @@
+SOURCE: https://web.archive.org/web/20120413172650/http://wattsupwiththat.com/reference-pages/scafettas-solar-lunar-cycle-forecast-vs-global-temperature/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (Wayback capture 2012-04-13; page body)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Scafetta’s solar-lunar cycle forecast -vs- global temperature | Watts Up With That?
+UPDATE: The March 2012 update has been posted here. Note that updates lag 30 days or more do to lag in release of HadCRUT3 data.
+
+By Dr. Nicola Scafetta:
+
+In my recent publications I proposed an harmonic model of the global temperature made of four major decadal and multidecadal cycles (period 9.1, 10.4, 20 and 60 years), which are approximately consistent with four major solar/lunar/astronomical cycles, plus a corrected anthropogenic net warming contribution.
+
+This was also published on WUWT here: Scafetta on his latest paper: Harmonic climate model versus the IPCC general circulation climate models
+
+The model was able not only to reconstruct the decadal patterns of the temperature since 1850 better than any general circulation model (GCM) adopted by the IPCC in 2007, but it is apparently able to better forecast the temperature decadal/multidecadal pattern observed since 2000. Note that since 2000 my proposed model is a full forecast.
+
+However, will the forecast hold, or my proposed model is just another failed attempt to forecast climate change at least roughly? Time will tell.
+
+The original figure equivalent to the data (up to October 2011) as reported in my paper [1] is below
+
+Because the faster harmonic of the model has a period of 9.1 years, and the slower one has a period of 60 years, the model is not supposed to reconstruct/forecast the large and fast multi-annual scale fluctuations such as those associated to El-Nino/La-Nina  events, nor the  variations occurring in secular/millennial time scales.
+
+The updated insert figure with the latest HadCRUT3 (2012-01-18) global surface temperature record updated to Dec/2011 is shown below.
+
+JANUARY 2012 FORECAST COMPARED TO ACTUAL GLOBAL TEMPERATURE
+
+The original published temperature record is in red, while the updated version is in blue. The black curve is the proposed harmonic component plus the proposed corrected anthropogenic warming trend. The figure shows in yellow the harmonic component alone made of the four cycles, which may be interpreted as a lower boundary limit for the natural variability. The green area represents the range of the IPCC 2007 GCM projections.
+
+Comment: the astronomical/harmonic model forecast since 2000 looks in good agreement with the data up to now, while the IPCC model projection has failed to predict steady temperature observed since 2000.
+
+This image will be updated here on WUWT monthly soon after the HadCRUT global temperature data is compiled and released.
+
+WIDGET FOR USE ON YOUR BLOG:
+
+There is also an icon with a permanent link to this page on the right sidebar, which is shown below and is suitable for use on any blog that wishes to link to this page. Just copy and paste it into your blog/website.
+
+HTML code for the icon:
+
+<a href="http://wp.me/P7y4l-eF0" target="_blank">
+<img title="Scafetta_model_icon"
+src="http://wattsupwiththat.files.wordpress.com/2012/02/scafetta_model_icon.png"
+alt="" width="170" height="135" /></a>
+
+Simply cut and paste the code into Notepad (or other text editor) to clear any formatting then paste into your website sidebar section as HTML.
+
+Relevant references:
+
+[1] Nicola Scafetta, “Testing an astronomically based decadal-scale empirical harmonic climate model versus the IPCC (2007) general circulation climate models.” Journal of Atmospheric and Solar-Terrestrial Physics, (2012). DOI: 10.1016/j.jastp.2011.12.005
+
+[2] Adriano Mazzarella and Nicola Scafetta, “Evidences for a quasi 60-year North Atlantic Oscillation since 1700 and its meaning for global climate change.” Theor. Appl. Climatol. (2011). DOI: 10.1007/s00704-011-0499-4
+
+[3] Craig Loehle and Nicola Scafetta, “Climate Change Attribution Using Empirical Decomposition of Climatic Data.” The Open Atmospheric Science Journal 5, 74-86 (2011). DOI: 10.2174/1874282301105010074
+
+[4] Nicola Scafetta, “A shared frequency set between the historical mid-latitude aurora records and the global surface temperature.” Journal of Atmospheric and Solar-Terrestrial Physics 74, 145-163 (2012). DOI: 10.1016/j.jastp.2011.10.013
+
+[5] Nicola Scafetta, “Empirical evidence for a celestial origin of the climate oscillations and its implications.” Journal of Atmospheric and Solar-Terrestrial Physics 72, 951–970 (2010). DOI: 10.1016/j.jastp.2010.04.015
+
+Additional News and Links of Interest:
+
+Global Warming? No, Natural, Predictable Climate Change, Larry Bell
+
+http://www.forbes.com/sites/larrybell/2012/01/10/global-warming-no-natural-predictable-climate-change/
+
+http://wattsupwiththat.com/2012/01/09/scaffeta-on-his-latest-paper-harmonic-climate-model-versus-the-ipcc-general-circulation-climate-models/
+
+http://scienceandpublicpolicy.org/images/stories/papers/reprint/astronomical_harmonics.pdf
+
+
+
+Rate this:
+Share this:
+Twitter
+Facebook
+StumbleUpon
+Reddit
+Digg
+Email

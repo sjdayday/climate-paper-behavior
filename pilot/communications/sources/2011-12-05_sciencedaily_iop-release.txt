@@ -1,0 +1,28 @@
+SOURCE: https://www.sciencedaily.com/releases/2011/12/111205191724.htm
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; summary + story text)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Global warming 'not slowing down,' say researchers | ScienceDaily
+Researchers have added further clarity to the global climate trend, proving that global warming is showing no signs of slowing down and that further increases are to be expected in the next few decades.
+Researchers have added further clarity to the global climate trend, proving that global warming is showing no signs of slowing down and that further increases are to be expected in the next few decades.
+
+They revealed the true global warming trend by bringing together and analysing the five leading global temperature data sets, covering the period from 1979 to 2010, and factoring out three of the main factors that account for short-term fluctuations in global temperature: El Niño,volcanic eruptions and variations in the Sun's brightness.
+
+After removing these known short-term fluctuations, the researchers, statisticians and climate experts from Tempo Analytics and the Potsdam Institute for Climate Impact Research, showed that the global temperature has increased by 0.5°C in the past 30 years. In all of the five global data sets, 2009 and 2010 were the two hottest years. In the average over all five data sets, 2010 is the hottest year on record.
+
+Their study, published Dec. 6 in IOP Publishing's journal Environmental Research Letters, comes at a time when global warming is at the forefront of the political agenda, with the United Nations Framework Convention on Climate Change (UNFCCC) currently taking place in Durban.
+
+It is well known that temperatures have been rising since the early 20th Century and the effects have become visible in shrinking mountain glaciers, accelerating ice loss and sea level rise. In recent years, however, there have been claims by some that the global warming trend has slowed or even paused over the last decade or so.
+
+"Our approach shows that the idea that the global warming trend has slowed or even paused over the last decade or so is a groundless misconception. It shows that differences between the five data sets reside, to a large extent, in their short-term variability and not in the climatic trend. After the variability is removed, all five data sets are very similar," said study co-author Stefan Rahmstorf.
+
+As global temperatures are constantly being measured by several different scientific teams, each adopting different methods for dealing with their data, it is clear that no single record is free of complications, uncertainties and corrections.
+
+By bringing together and analysing the five records -- three surface records and two lower-troposphere records -- the researchers were able to clarify the discrepancies between each one and, when factoring out the naturally occurring variability, show the excellent agreement between all five data sets.
+
+The three surface temperature data sets analysed by the researchers were from NASA, the National Oceanic and Atmospheric Administration (NOAA) and the Hadley Centre/Climate Research Unit in the UK. Data representing the lower troposphere temperatures was based on satellite microwave sensors.
+
+El Niño is a naturally and irregularly occurring warming of surface ocean waters in the eastern tropical Pacific, whilst solar variation is the change in the amount of radiation emitted by the sun, dominated by an approximately 11-year-long cycle. Volcanic eruptions predominantly have a cooling effect lasting a few years, due to the very tiny erupted particles and droplets shielding light from hitting Earth.
+
+"The unabated warming is powerful evidence that we can expect further temperature increase in the next few decades, emphasizing the urgency of confronting the human influence on the climate," says Grant Foster, lead author of the study.

@@ -1,0 +1,52 @@
+SOURCE: https://tamino.wordpress.com/2012/12/01/sea-level-rise-faster-than-projected/
+RETRIEVED: 2026-09-25 via Claude desktop in-app browser, DOM innerText of the article element (live page; post body)
+NOTE: verbatim text extraction; images/figures not captured; site furniture (share buttons, newsletter prompts) left as extracted.
+========================================================================
+
+Sea Level Rise: Faster than Projected | Open Mind
+A new paper by Rahmstorf et al. compares observed climate changes, specifically global temperature and sea level rise, to projections from IPCC reports. The result: temperature is rising in outstanding agreement with IPCC projections, while sea level is rising faster than expected.
+
+
+The new research doesn’t reveal any new data to supplant older observations. It simply compares data which are already freely available, to projections which were made years ago in previous reports from IPCC, namely the 3rd and 4th IPCC assessment reports.
+
+When it comes to temperature, some of the computer models which form the basis of IPCC projections can realistically simulate factors like the el Nino southern oscillation (ENSO) which cause short-term fluctuations in temperature. But even though the events themselves can be realistically simulated, their timing doesn’t coincide with actual observed timing. It’s like correctly simulating how often it will rain, and how much — but not getting the actual dates of rainfall correct. The IPCC models also don’t include the volcanic eruptions which also cause fluctuations in temperature, or short-term variations in the energy output of the sun.
+
+In short, they can’t be expected to get the short-term fluctuations right but can (we hope) correctly characterize their average influence. And that’s the best we can hope for. We don’t expect computer model simulations to predict the weather years, decades, or centuries in advance, but we do hope that they will correctly simulate what the average and variation of weather will be — which is the definition of climate.
+
+Advertisement
+
+Because the projections are the average of a great many model runs, they end up including the average influence of those fluctuations, but the fluctuations themselves are “smoothed out” by the averaging process. Hence actual observed temperature will show much larger year-to-year and even decade-to-decade variation than projected temperature, even if the models are performing correctly. In order properly to compare model projections to observed temperature change, we need to remove the influence of those short-term fluctuations from the observed data. That’s exactly what was done in Foster & Rahmstorf, so that analysis was updated through the end of 2011. It was also updated to use the new HadCRUT4 data set from the Hadley Centre rather than the older HadCRUT3v data set.
+
+And when observed temperature, corrected for short-term fluctuations, is compared to IPCC projections, what’s the result? This:
+
+Clearly (unless you’re in denial) observed temperature change has proceeded in excellent agreement with IPCC projections. Of course, fake “skeptics” prefer to compare long-term trend projections from IPCC with short-term fluctuations in observed temperature so they can deny what’s really happening.
+
+The other process studied was sea level rise. We have over a century of global sea level data based on tide gauge measurements, and about 20 years of data from satellite altimetry. Both tide gauges and satellite data indicate that the present rate of sea level rise is about 3 mm/yr. But the IPCC models center around a projection of 2 mm/yr over recent decades. The comparison between the rates of sea level rise, projected and observed, looks like this:
+
+Advertisement
+
+Even the high end of IPCC projections for sea level rise rate fall short of what’s been observed. Simply put, sea level is rising faster than projected.
+
+The IPCC projections don’t include dynamical processes which contribute to sea level rise, specifically the complexities inherent in the wasting of ice sheets. That’s why most researchers already considered the projections to be too conservative. The most recent report gave an upper limit to sea level rise by the year 2100 of about 59 cm, but if you were to poll those who are actively researching this issue you’d probably get a consensus nearer to 1 full meter increase by that time.
+
+The sea level result garnered much more press than the temperature result. There are probably two reasons for this. First, the observed result really is faster than what was suggested by recent IPCC reports — and when observations are worse than expected, that’s news. Second, the recent devastation of the U.S. east coast caused by hurricane Sandy was made worse by the sea level rise we’ve already experienced, and that drives home the seriousness of possible future sea level rise. The issue of the danger caused by rising seas was already news.
+
+Like it or not, sea level is rising and it’s probably going to be worse than the upper limit given in recent IPCC reports. Like it or not, it’s even possible that this century the oceans will rise even more than the not-so-conservative 1 meter many researchers expect. Like it or not — and nobody likes it — sea level rise has devastating consequences, not just for low-lying areas in third-world countries but for urban centers in the industrialized world. Let’s hope that our society has the wisdom and foresight to do something about it.
+
+Advertisement
+SHARE THIS:
+ Bluesky Facebook X
+Loading...
+RELATED
+
+(One of) the Problem(s) with Judith Curry
+January 21, 2014
+In "climate change"
+
+Judith Curry responds … sort of
+January 28, 2014
+In "climate change"
+
+The Rise and Fall of Judith Curry
+January 24, 2014
+In "climate change"
