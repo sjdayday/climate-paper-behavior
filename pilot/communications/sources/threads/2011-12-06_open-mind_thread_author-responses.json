@@ -1,0 +1,278 @@
+{
+ "url": "https://tamino.wordpress.com/2011/12/06/the-real-global-warming-signal/",
+ "nComments": 197,
+ "nItems": 54,
+ "items": [
+  {
+   "replyTo": "toto",
+   "date": "December 6, 2011 at 3:31 pm",
+   "text": "[Response: No condition is imposed on the residuals. However, the regression also includes a constant term (the “intercept” rather than the “slope”) so the residuals will show zero mean.]"
+  },
+  {
+   "replyTo": "Alden Griffith",
+   "date": "December 6, 2011 at 5:15 pm",
+   "text": "[Response: When you regress against MEI (and nothing else), notice two things. First, the fit is not statistically significant at all (taking autocorrelation into account). Second, the *sign* is wrong. That tells you that leaving out the linear trend causes its variance (which dominates the variance of the temperature signal) to overwhelm the influence of MEI.\n\nPerhaps I’ll do a post about this.]"
+  },
+  {
+   "replyTo": "BigTexan",
+   "date": "December 6, 2011 at 3:40 pm",
+   "text": "[Response: There’s a built-in function in R called “acf”.]"
+  },
+  {
+   "replyTo": "MikeCoombes",
+   "date": "December 6, 2011 at 4:54 pm",
+   "text": "[Response: The present method includes a linear time trend to represent global warming, which is valid because the global warming impact since 1979 is approximately linear. But if you extent the analysis before about 1975, the global warming trend is no longer approximately linear. In that case you should use climate forcing rather than a linear trend to represent the man-made influence.\n\nWhich is exactly what was done by Lean & Rind (see references in the Foster & Rahmstorf paper).]"
+  },
+  {
+   "replyTo": "Steve L",
+   "date": "December 6, 2011 at 5:08 pm",
+   "text": "[Response: You don’t have to use temperature to define ENSO. You can use the southern oscillation index SOI instead (which is based on pressure rather than temperatue), and in fact the paper tested using SOI and it didn’t change the results. And MEI isn’t exclusively temperature either, it’s a combination of a *lot* of things.]"
+  },
+  {
+   "replyTo": "Koeny",
+   "date": "December 6, 2011 at 5:21 pm",
+   "text": "[Response: Check out the papers by Lean & Rind referenced in this paper.]"
+  },
+  {
+   "replyTo": "Jos Hagelaars",
+   "date": "December 6, 2011 at 6:09 pm",
+   "text": "[Response: The previous analysis used different data sets, including for temperature, because RSS released a revised data set in the interim which shows slightly less warming. It also used volcanic forcing from Ammann et al. for aerosols rather than AOD from Sato et al., and used sunspot counts as a proxy for solar activity rather than TSI.\n\nThe trend of the 5-data-set average (in figure 8 of the article) is 0.16 deg.C/decade.]"
+  },
+  {
+   "replyTo": "KenM",
+   "date": "December 6, 2011 at 6:42 pm",
+   "text": "[Response: Did you not look at the error bars? There is ZERO evidence of any recent decline in the rate, for ANY of the data sets. Period. But if you’d rather believe in temperature trends over 6-year time spans, I certainly understand why.]"
+  },
+  {
+   "replyTo": "Ken",
+   "date": "December 7, 2011 at 12:19 am",
+   "text": "[Response: If measurement 1 indicates you’re at a particular Starbuck’s in downtown Seattle, then measurement 2 says you’re somewhere in the Washington-Oregon area, you’d be mistaken to conclude that there’s evidence of having moved.]"
+  },
+  {
+   "replyTo": "Slioch",
+   "date": "December 7, 2011 at 9:23 am",
+   "text": "[Response: No significance period. And KenM only thinks he noticed a recent decline in the rate for surface vs satellite measurements — there’s zero evidence of any such physical event.\n\nI would say that the 1998 el Nino had a stronger-than average temperature effect, *in addition* to being a stronger-than-average el Nino. So by removing the *average* effect of el Nino, the model doesn’t get all of the 1998 event out of the temperature record.]"
+  },
+  {
+   "replyTo": "KenM",
+   "date": "December 7, 2011 at 8:11 pm",
+   "text": "[Response: The dot represents the best single estimate based on the available data. But the error bars represent a better evaluation — they give an idea of the precision of the estimate. You could well say “I’m in or near Seattle” because that’s the best single location estimate, but if we only know your location within several hundred miles then “I’m probably in the state of Washington” is a much more realistic portrayal, whereas declaring “I’m probably in Seattle” is stretching a point way beyond reasonable limits.]"
+  },
+  {
+   "replyTo": "Ed Davies",
+   "date": "December 6, 2011 at 7:23 pm",
+   "text": "[Response: I am the principal author. I thought I had been “outed” so many times that everybody knew by now. Apparently you do.]"
+  },
+  {
+   "replyTo": "CM",
+   "date": "December 6, 2011 at 8:39 pm",
+   "text": "[Response: Just use the residuals to define the uncertainty of the trend estimate.]"
+  },
+  {
+   "replyTo": "BobN",
+   "date": "December 6, 2011 at 10:28 pm",
+   "text": "[Response: No. Each series is offset from the others for greater clarity. If they matched up as well as the adjusted data, that wouldn’t be necessary.]"
+  },
+  {
+   "replyTo": "R James",
+   "date": "December 6, 2011 at 10:42 pm",
+   "text": "[Response: This worries me. So does this.]"
+  },
+  {
+   "replyTo": "Chris",
+   "date": "December 7, 2011 at 1:06 am",
+   "text": "[Response: The x-axis goes up to 2005. Look at 2000, and note the range of the error bars.]"
+  },
+  {
+   "replyTo": "Chris",
+   "date": "December 7, 2011 at 3:23 am",
+   "text": "[Response: I find your terminology confusing. I have no idea what you mean by “cluster about the mean.” What do you mean by “the solid line”? Are you referring to the line connecting the dots which have error bars extending above and below them?\n\nThe true value is what it is. The dots indicate the best estimate for each possible starting time. The error bars indicate roughly the 95% confidence interval. Perhaps the best interpretation of the graph is that for each starting time, the trend since then is “somewhere between the limits of the error bars” — but it’s not possible to assign it to the central estimate (the dot) with any confidence.\n\nFor later start times (shorter time spans) the uncertainty gets larger so the estimates will likely be *more* different from the true value.]"
+  },
+  {
+   "replyTo": "Chris",
+   "date": "December 7, 2011 at 9:54 pm",
+   "text": "[Response: Each point represents the trend estimate from that particular starting time until the end of 2010. Later start times correspond to shorter time spans, therefore the uncertainty in the trend estimate grows larger.]"
+  },
+  {
+   "replyTo": "Chris",
+   "date": "December 8, 2011 at 12:43 am",
+   "text": "[Response: Indeed, many post-2000 values do not establish statistically significant warming.]"
+  },
+  {
+   "replyTo": "mt",
+   "date": "December 7, 2011 at 2:02 am",
+   "text": "[Response: The lag is estimated by the analysis, as the value which gives the best-fit model. It’s an approximation based on the data, different data sets give different approximations.]"
+  },
+  {
+   "replyTo": "mt",
+   "date": "December 7, 2011 at 2:02 am",
+   "text": "[Response: We used PMOD TSI. The values we used were kindly transmitted to us by Dr. Frohlich since their online data wasn’t up-to-date when we started the analysis.]"
+  },
+  {
+   "replyTo": "mt",
+   "date": "December 7, 2011 at 2:02 am",
+   "text": "[Response: You seem to be confused. Of course TSI is always positive, as is its forcing. But TSI varies, when it’s higher it causes higher temperature, when it’s lower it leads to lower temperature.]"
+  },
+  {
+   "replyTo": "mt",
+   "date": "December 7, 2011 at 2:02 am",
+   "text": "[Response: Note that the AOD data are constantly being updated. We used what was available when we started our analysis (back in early February).]"
+  },
+  {
+   "replyTo": "KR",
+   "date": "December 7, 2011 at 3:27 pm",
+   "text": "[Response: The linear trend is only an approximation, but since the residuals were scrutinized for nonlinearity it’s certainly a good one for this time span.\n\nMathematically, of course you can regress temperature on anything you like. But when you include a lot of predictors you can run into problems with collinearity (when predictors are very similar). Another approach is, instead of using a linear time trend, use net climate forcing estimate — as was done by Lean & Rind (see their papers listed in the reference list). This enables you to include a longer time span, for which the temperature trend is demonstrably nonlinear.]"
+  },
+  {
+   "replyTo": "Colin Aldridge",
+   "date": "December 9, 2011 at 7:49 pm",
+   "text": "[Response: IPCC projections do *not* forecast steady warming throughout the century, or even over the next several decades — that’s a misrepresentation often claimed by those who deny the reality and/or danger of global warming. They project “about 0.2 degC/decade” (note the “about”) over the next several decades, but it’s expected that the warming rate will increase from its present value. And (also contrary to misrepresentations) a lot depends on what we do.]"
+  },
+  {
+   "replyTo": "toto",
+   "date": "December 9, 2011 at 10:54 pm",
+   "text": "[Response: I don’t know. Interesting question, though.]"
+  },
+  {
+   "replyTo": "Salamano",
+   "date": "December 10, 2011 at 11:39 pm",
+   "text": "[Response: There’s no single “reference point” (or “zero point”) for temperature anomaly time series. In fact each of the 5 major data sets uses a different zero point, chosen as the average value during a baseline period (and each uses a different baseline period). So, each data set is offset from the others by an arbitrary constant, which really doesn’t give any information about how temperature has changed. It’s common, when comparing data sets (as in the last graph to which you link), to re-set the data values so they’re all on a common baseline.\n\nThe important thing is the temperature change, so the choice of zero point (and of baseline) isn’t very important.]"
+  },
+  {
+   "replyTo": "Henk Lankamp",
+   "date": "December 11, 2011 at 12:41 am",
+   "text": "[Response: The difference between the two methods is small, but I’d say the first method (separate values for each month) is better. As you say, if you want to study how the seasonal cycle has changed there are other ways.]"
+  },
+  {
+   "replyTo": "S Basinger",
+   "date": "December 12, 2011 at 4:02 pm",
+   "text": "[Response: That would involve computing the trend from Jan. 2010 to Dec. 2010. Such a trend would be utterly meaningless. Any trend from later than 2005 to the present is too unreliable to be informative. Extending the graph will cause the estimated values to vary wildly while the error range expands greatly.]"
+  },
+  {
+   "replyTo": "dana1981",
+   "date": "December 15, 2011 at 8:24 pm",
+   "text": "[Response: Of course. I’m also preparing to post all the data and code (in R) used for the computations.]"
+  },
+  {
+   "replyTo": "Colin Aldridge",
+   "date": "December 16, 2011 at 2:57 pm",
+   "text": "[Response: The model assumes a linear growth due to global warming throughout. For the period studied this is certainly true (as tests for nonlinearity showed). But for earlier data it is demonstrably false, so the model will fail to reproduce the global warming signal. That’s why Lean & Rind, who did their regression over a much longer time span, used climate forcing rather than linear trend to model the global warming trend.]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 17, 2011 at 12:04 pm",
+   "text": "[Response: Is this a joke?]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 18, 2011 at 3:24 am",
+   "text": "[Response: Perhaps he interpreted your statement that “Otherwise the research is quite meaningless” as unjustified, ignorant, flippant, and downright insulting. As did I. Your indulgence in personal attacks makes your protest hypocritical.]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 20, 2011 at 1:30 am",
+   "text": "[Response: The global warming trend since 1950 is not even approximately linear. I recommend against using this methodology in that case. See the papers by Lean & Rind, as has been mentioned before.\n\nFrankly, I don’t trust your ability to be objective, I think you have a very strong bias, and whatever result you get I expect you’ll misinterpret it. I suggest that maybe this blog isn’t the right place for you.]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 20, 2011 at 3:24 am",
+   "text": "[Response: You came here demanding that I release the data and code, saying outright that otherwise the research is meaningless and you would assume it’s a joke. Screw you. You didn’t even bother to look around the site enough to notice that it was in the most recent post. That clearly indicates your intention to find fault whether it exists or not. Your “innocent” guise rings false.\n\nIt doesn’t flatter you that you failed to note the data are referenced in the paper, and all of it are available on the internet. I didn’t have to post it for you, you could have got it yourself.\n\nAnd it’s rather telling that you didn’t attempt to reproduce the result YOURSELF. The methodology is described in the paper (as well as the data) in more than sufficient detail for you to write your own goddamn computer program.\n\nYou got the cold shoulder because you came in demanding something that had been posted days before, blustering about how useless this research was without it, in grossly insulting and extremely arrogant fashion. Now you claim that you were insulted “simply because I seek more understanding.” I don’t believe you.]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 18, 2011 at 3:18 am",
+   "text": "[Response: Why would I think it’s a joke? Because I already posted the data and code, two days ago. Your willingness to assume the research is a joke, argues strongly against your ability to be objective.]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 18, 2011 at 10:18 pm",
+   "text": "[Response: I’m so surprised that you don’t find my work illuminating. Not.]"
+  },
+  {
+   "replyTo": "elspi",
+   "date": "December 20, 2011 at 12:10 am",
+   "text": "[Response: F&R2011 sticks to the recent time period because the trend is at least approximately linear, and because we wanted to include satellite data sets which don’t start until recently (that’s why the analysis starts with 1979). Those who simply must know what the application of similar analysis gives for prior data should read the papers by Lean & Rind (which are referenced in F&R2011).]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 20, 2011 at 12:24 am",
+   "text": "[Response: Didn’t one of your previous comments say it would be your last? Hope springs eternal.]"
+  },
+  {
+   "replyTo": "Bruce",
+   "date": "December 18, 2011 at 3:19 pm",
+   "text": "[Response: WUWT has criticized it? I’m shocked.]"
+  },
+  {
+   "replyTo": "Chris Carthew",
+   "date": "December 25, 2011 at 1:29 am",
+   "text": "[Response: Do you even know what the PDO is? How it’s defined? How it’s calculated? I’d say clearly not, or you wouldn’t say things like it “can also oscillate and go up (or down).”\n\nAnd that’s one of the problems. You presume to understand things you really don’t. Evidently you have a great deal to learn about climate science and about ocean oscillations before you can even get in the game. It doesn’t matter how smart you are or how good you are as a software developer — you’re a rank beginner in climate science so please don’t presume to tell us what can and can’t be happening. And don’t even think about telling the real experts how they might be wrong.\n\nAnother problem is that you clearly don’t know how science really works. You came here demanding that I release my code and data, claiming that “Science is only meaningful if other people can reproduce the results.” You don’t even know what reproducing results means! It doesn’t mean running my program and getting the same numbers I got. It means repeating the study independently, with your own program, to discover whether the method works.\n\nFurthermore, your original comment was — there’s no polite way to put it. How come you demand the data when all the data are linked to and referenced in the paper? Did you even read it? Did you not notice the links to data in the post itself? It’s all out there, I even provided links to it, yet you demand I release it? As for the code, I released that two days before your “request.” But if you read the paper then you’ll find the method described sufficiently to write your own program. Or do you not have the mathematical savvy to do that? If not, then how dare you tell me that my result is “quite meaningless”?\n\nThe hubris you have shown, the staunch refusal to admit (to yourself) that you are simply not ready to criticize modern climate science, is appalling.\n\nIf you really want to learn about this stuff, step one is to admit that you are nowhere near knowledgeable enough yet. Step two is to read The Discovery of Global Warming by Spencer Weart. Step three is to find a decent book about climate science and digest that. Learn first, critique afterwards, cause right now you’ve got things ass-backwards. Otherwise you’ll waste your (and our) time with delusions of adequacy.]"
+  },
+  {
+   "replyTo": "Badnon Hepekl",
+   "date": "December 21, 2011 at 7:15 am",
+   "text": "[Response: The real reason is that they desperately want an excuse to deny that man-made greenhouse gases are the cause of the warming. Seriously — that’s why they do it.]"
+  },
+  {
+   "replyTo": "Badnon Hepekl",
+   "date": "December 21, 2011 at 7:15 am",
+   "text": "[Response: No, ENSO (el Nino Southern Oscillation, which we represented with MEI) and PDO are different “modes” of variability of Pacific climate patterns. And as you can see if you compare their data, they do indeed show different changes.\n\nBy the way, ENSO is not really a measure of Pacific temperature anomalies. It can be measured that way (the Nino3.4 index is a common way to do so), but it can also be represented entirely as a surface-pressure-difference index (the SOI), and the MEI actually represents it with a combination of six variables, including pressure, wind strength, temperature, and cloud fraction. At its heart, ENSO is a geographic *pattern* of climate rather than an absolute temperature index itself. So, ENSO isn’t really “temperature” in the usual sense — unlike AMO (Atlantic Multidecadal Oscillation), yet another phenomenon often purported to be responsible for modern warming, again by those who are desperate to deny that it’s due to man-made greenhouse gases.]"
+  },
+  {
+   "replyTo": "Colin Aldridge",
+   "date": "December 22, 2011 at 6:11 pm",
+   "text": "[Response: Why do critics keep asking me what aerosol data set was used? Did you not read the paper? Was the reference — or the link to the data — unclear?\n\nAs for AMO, unlike ENSO (or PDO for that matter) it IS temperature. Pure and simple, nothing more nothing less. Attributing temperature change to temperature change seems kinda stupid.]"
+  },
+  {
+   "replyTo": "Colin Aldridge",
+   "date": "December 23, 2011 at 8:47 am",
+   "text": "[Response: Bullshit. ENSO ain’t temperature. It can be (and perhaps most often is) characterized by a pressure-difference only index (SOI) which ignores temperature altogether, and MEI itself is a combination of 6 variables including pressure, wind strength, and cloud cover. AMO is just temperature.]"
+  },
+  {
+   "replyTo": "Colin Aldridge",
+   "date": "December 23, 2011 at 8:47 am",
+   "text": "[Response: In the paper, the global warming signal is NOT presumed to be linear over the entire time span which was used to define AMO, which is why AMO as defined is contaminated by global warming. I’m hardly the first to say this, it’s in the published literature. And since ENSO (and MEI) are NOT temperature, no there won’t be leakage into those.]"
+  },
+  {
+   "replyTo": "Colin Aldridge",
+   "date": "December 23, 2011 at 8:47 am",
+   "text": "[Response: Your comments are not exactly smart.]"
+  },
+  {
+   "replyTo": "Kevin C",
+   "date": "January 11, 2012 at 3:12 pm",
+   "text": "[Response: In the “fake forcing” post temperature is regressed against total forcing, so there’s no way for fast and slow terms to have different coefficients. In this post, volcanic and other terms have separate regression coefficients by design, so the regression itself accomplishes the compensation needed for the brief duration of volcanic forcing. It’s worth noting that since this post performs straight regression, without attempting to account for the time constants of the climate system, it shouldn’t be taken as giving realistic estimates of climate sensitivity.\n\nThe point of the “fake forcing” post was to show that using a separate coefficient for volcanic forcing is a clumsy but effective way to account for the time constants of the climate system, but it most certainly is not evidence of failure on the part of GISS ModelE. Unfortunately, whenever fake skeptics encounter something they don’t understand they interpret is as proof of incompetence, gross error, and/or fraud by mainstream climate scientists. They’re so intent on yelling “Gotcha!” they don’t consider the possibility that their own understanding might leave something to be desired.]"
+  },
+  {
+   "replyTo": "Michael Brown",
+   "date": "February 4, 2012 at 9:36 am",
+   "text": "[Response: Yes.]"
+  },
+  {
+   "replyTo": "Michael Brown",
+   "date": "February 5, 2012 at 10:29 pm",
+   "text": "[Response: It’s absurd. We didn’t do first (or any) differencing, you don’t have to do so to correct for autocorrelation (read the paper), and first-differencing doesn’t actually remove the effects of autocorrelation. If this is the level of nonsense we have to put up with …]"
+  },
+  {
+   "replyTo": "Erica",
+   "date": "April 29, 2012 at 8:04 am",
+   "text": "[Response: No. The effect of these natural factors on global temperature is reasonably well quantified. But that doesn’t mean we know how to predict el Nino, or the solar cycle, or volcanic eruptions — we just know about how much they affect temperature.]"
+  },
+  {
+   "replyTo": "Erica",
+   "date": "April 30, 2012 at 4:32 am",
+   "text": "[Response: No it doesn’t. El Nino doesn’t show long-term trend like global temperature has recently. El Nino has been in place as long as we’ve been measuring it, and according to proxy evidence for a lot longer. Rapid temperature change such as is presently observed has not. And when the impact of el Nino (and other known factors) is accounted for, what’s left is not from el Nino — that’s the man-made global warming part.\n\nThe idea that some or all of modern global warming can be attributed to el Nino is a pipe-dream of those who don’t want man-made global warming to be true.]"
+  },
+  {
+   "replyTo": "Erica",
+   "date": "April 30, 2012 at 7:02 am",
+   "text": "[Response: Of course. And it’s only one of myriad phenomena that aren’t completely understood. Some are reasonably well fathomed but details remain, for some we have but scratched the surface, for some the whole process is still a mystery. We are a very long way from complete understanding of earth’s climate. Mainstream climate scientists are aware of these limitations, in fact for most of them it’s what made them want to be climate scientists, so they could explore these unknowns and advance our knowledge, even if but a small step.\n\nClaims that climate scientists believe they have all the answers and “the book is closed”, are but propaganda from those who wish to discredit them. And — be especially wary the oft-claimed fallacy that what we don’t know invalidates what we *do* know.]"
+  },
+  {
+   "replyTo": "rafval",
+   "date": "May 4, 2012 at 1:28 pm",
+   "text": "[Response: What accusations?]"
+  }
+ ],
+ "_retrieved": "2026-09-25/26 via Claude desktop in-app browser; DOM extraction of author-attributed comments only (other commenters not captured); Wayback captures where noted in url"
+}

@@ -1,0 +1,313 @@
+{
+ "url": "https://web.archive.org/web/20200213070301/https://wattsupwiththat.com/2011/07/25/loehle-and-scafetta-calculate-0-66ccentury-for-agw/",
+ "nComments": 1356,
+ "nItems": 61,
+ "items": [
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 12:15 pm",
+   "text": "I would like to thank Antony for the post.\nIn brief one major issue addressed in our paper is to determine whether the “science is settled” argument advanced by the AGW climate modellers is accurate. The comment from the critical readers clearly suggest that they are having some problem in locating the physical cause of the ~20-year and ~60-year oscillation in their climate models they are familiar with.\nThese people are very right that those models do not reproduce those oscillations.\nHowever, as proven in our paper and in the numerous references of our paper, ~20-year and ~60-year oscillations are very clear and present in the climate system. Consequently, it appears that the “science is settled” argument is false.\nThe big problem is that because the current IPCC AGW models do not reproduce these cycles, a large part of the observed warming since 1970 is not due to AGW forcings, but to natural cycles. This in turn implies that the climate sensitivity to AGW emission has been largely overestimated, we believe by a factor of about 3.5.\nThus, for example, the climate sensitivity to CO2 doubling might be around 1 C, not about 3.3 C, which is the average estimate of the IPCC. However, the IPCC acknowledge an ancertenty between 1 and 10 C.\nSo, I woud invite the readers to objectively read our paper and our numerous references. If there are clear error, we are wrong. But if the climate does present the cycles we say that it presents, then I believe that the AGW supportes need to acknowledge that afterall their argument that “the science is settled” is false. So, everything should be studied with responsibility.\nI may also suggest the reader to give a look at the presentations at the 6ICCC conference. There is also a talk of mine about these cycles at\nhttp://climateconference.heartland.org/watch-live/"
+  },
+  {
+   "author": "Craig Loehlec",
+   "date": "July 25, 2011 at 12:24 pm",
+   "text": "Some reminders:\n1) 0.66 deg C is per century, the sensitivity to doubling is more like 1 to 1.2 which matches Spencer and other low-end estimates\n2) This is not a polynomial fit to the data. We factor out the natural cycles based on solar activity first, then identify the human signal.\n3) People really should read it first, it is a paper rich with data and citations."
+  },
+  {
+   "author": "Craig Loehlec",
+   "date": "July 25, 2011 at 12:26 pm",
+   "text": "Mosh: You call it calibration, I call it fitting. One of the most glaring examples is the correlation between model sensitivity and the amount of sulfate aerosols assumed as input (which keeps sensitive models from running away from the data)."
+  },
+  {
+   "author": "Craig Loehlec",
+   "date": "July 25, 2011 at 12:48 pm",
+   "text": "Please take a look at the signal components we detected. The amplitude for the 60 yr cycle is 3x larger than the 20 in the solar wobble data, and also in the fitted model to temperature. Quite a coincidence. The linear anthropogenic signal starts in 1942, which makes sense, is linear which matches GCM output (look at IPCC graphs, they are linear) and matches theory since log saturation of an exponentially rising CO2 level will be linear. The slope matches what we expect for sensitivity in the absence of feedbacks. The model predicted the downturn at 2000 based on fitting only up to 1950. So there sure are a lot of coincidences in the results if it is just garbage."
+  },
+  {
+   "author": "Craig Loehlec",
+   "date": "July 25, 2011 at 1:25 pm",
+   "text": "Don D.: we do mention that the 0.1 deg/century upward trend may be part of a long cycle.\nBruce Cobb: we argue that the 0.66 deg C/century is an upper bound–the reviewers made us take out our attempt to estimate and subtract this factor\nWillem de Lange: thanks for the reference. We see a reason to split the data because of the introduction of a new forcing (human) around mid-century. This is what allows us to detect it."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 25, 2011 at 1:44 pm",
+   "text": "Thank you Andrew for the citation to Kiehl\nSeptic Mathew: there are many complications that no doubt deserve investigation"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 2:43 pm",
+   "text": "To Willis Eschenbach,\nwhen this kind of anaslysis is done it is better to take the things easy.\n>The method depends critically on some unverified assumptions:\n>1. The assumption that the period 1850-1942 represents a constant unchanging “natural” upward >trend, with a rate of increase of 0.15°C per century.\nWe clearly state in the paper that there are other cycles such a the millennial one explaining the MWP and LIA. However, in this paper we are dealing only with the data since 1850. The first approximation that can be done with this data is a linear one which yields to an upper estimate for our 21st forecast.\n>2. The assumption that the signal can be meaningfully decomposed by assuming two linear trends.\nAgain we do the simplest assumption. Our figure 2 says that is not a bad assumption.\n>3. The assumption that the fit shown is statistically superior to the fit obtainable by using your 60- >and 20- year cycles plus a straight-line trend.\nWe show this in Figure 1."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 3:05 pm",
+   "text": "M.A.Vukcevic says:\nJuly 25, 2011 at 2:52 pm\n“The causes of the oscillation are currently unknown.”\nThe oscillation exists even if its causes are unknown."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 25, 2011 at 4:13 pm",
+   "text": "Willis & Mosher: we did not fit the cycles to the whole data set, we did as you suggested: fit the cycles to the first period to 1950 then applied them to the second half. The residuals (lack of fit) after 1950 suggested an unidentified forcing which we attributed to human activity.\nWe do not ascribe “magical properties” to a fitted curve. We observe that there is a regular orbital oscillation of the sun–this orbit pattern is fixed and calculable. We assume that this MAY somehow affect solar output/magnetic field etc. We then test if this pattern matches the temperature pattern. So you object to something we did not do. If there are even longer cycles, this would give the long slow rise. We show in figure 1 that the “linear + cycles” model gives a bad fit, which is fixed when we assume that human forcing started around roughly mid-century. Given the long fit period and the match up with Scafetta’s new solar model, we do not think our extrapolation of 90 years is outlandish.\nThe effect of the newly released SST data by Hadley looks to me by eye like it would enhance the 60 yr signal, but I only learned of it last week."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 4:39 pm",
+   "text": "Leif and his ‘cyclomania at its worst’\nJust a historical note from http://en.wikipedia.org/wiki/Heinrich_Schwabe\n“For 17 years, from 1826 to 1843, on every clear day, Schwabe would scan the sun and record its spots trying to detect Vulcan among them. He didn’t find the planet but noticed the regular variation in the number of sunspots and published his findings in a short article entitled “Solar Observations during 1843″. In it he made the suggestion of a probable ten year period (i.e. that at every tenth year the number of spots reached a maximum). This paper at first attracted little attention, but Rudolf Wolf who was at that time the director of Bern observatory, was impressed so he began regular observations of sunspots. Schwabe’s observations were afterwards utilized in 1851 by Alexander von Humboldt in the third volume of his Kosmos.”\nIf we were living in the middle of the 19th century, would Leif be more like Wolf or would he be more like the other solar scientists that at the time were believing that the sunspot occurred randomly and that no solar cycle existed and were accusing Schwabe of cyclomania?\nSee, Leif, Nature is not random nor unordered. It is ordered in some way. The fact that there might be cycles, in addition to be reveiled by data analysis, is probably the simplest of the hypotheses that can be made."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 5:44 pm",
+   "text": "Dear Eschenbach\nI am sorry that you are not impressed.\nHowever, the 20 and 60 year cycles are there. We califrated the model from 1850 to 1950 and predicted the temperature modulation since 1950."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 6:06 pm",
+   "text": "Mike Jonas does not understand how to read a paper.\nWe never said that a linear trend approximation should be appropriate for ever, but we also are talking about millenarian cycles. However, for modelling temperature since 1850 the linear approximation is fine enough if we do not go too far in the past nor in the future. Just for a few decades is fine enough."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 25, 2011 at 6:15 pm",
+   "text": "Geoff Sharp: look in the appendix and Scafetta’s other papers for your question.\nWillis: sorry a different POV on signal decomposition. It is known that GHG did not become significantly elevated until about mid century. That is, one of the factors in our model did not operate continuously over the entire period. We let the data decide exactly where that point is, and it says 1942–I did not pick 1942.\nMike Jonas: we assert that the linear warming from 1850 forwards is part of some long-term pattern which we do not choose to characterize. In my paper with Singer we show evidence for 1200 and 1500 year cycles–and not enough data to pick which (or both?) are more valid. A 1000 yr cycle over 100 yr looks linear. Thus you can’t back-extrapolate forever, it is out of the domain or our model."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 6:16 pm",
+   "text": "Max,\nperhaps you need to read “califrated” for “calibrated”. “F” and “B” are very close on the keyboard 🙂\nbe smater 🙂"
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 25, 2011 at 6:17 pm",
+   "text": "Max: if Nicola could write in Italian for you, the spelling errors would be fewer."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 25, 2011 at 6:50 pm",
+   "text": "We developed a hypothesis. The outcome of our analysis was not only a remarkable fit to the data, but a fulfilled prediction for flat temps after 1998, and a detected AGW signal that matches theory in terms of timing, shape etc. As well, the relative magnitudes of the 2 cycles were the same for the solar motion and temperature cases. This would be an extraordinary coincidence. But many people here seemed angry before they even read it. Why might that be?"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 25, 2011 at 7:07 pm",
+   "text": "Hi Willis Eschenbach,\ndid you note that your model is not too far from our model in figure 1?\ndid you note that a 62-year cycle and a 22-year cycle are not too far from our cycles?\nread my other 2010 paper, if you want more informations."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 25, 2011 at 7:16 pm",
+   "text": "Willis I would argue that your model has systematic error. Do you object to even the idea that there might be AGW? Plus you are assuming chaotic dynamics but we are asserting the possibility that the REGULAR 60 and 20 solar orbit (oscillation/wobble) cycles have an effect."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 6:07 am",
+   "text": "Dear Willis Eschenbach,\nI am sorry but you continue to say no-sense.\n1) you cannot disprove our research by simply using a model slightly different from our, for example using a 62-year cycle instead of a 60-year cycle, and claim we are wrong because you get similar results! Why don’t you use a 100-year cycle instead of a 62-year cycle?\n2) the existence of major quasi 60-year and quasi 20-year cycles are easily detected by power spectrum analysis, see figure 3, 10 & 11 in N. Scafetta, “Empirical evidence for a celestial origin of the climate oscillations and its implications”. Journal of Atmospheric and Solar-Terrestrial Physics 72, 951–970 (2010), doi:10.1016/j.jastp.2010.04.015"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 6:40 am",
+   "text": "Leif Svalgaard says:\nWolf was also a planetary cyclist in the beginning [originated the planetary hypothesis in fact], but in his later years came to his senses and realized that it didn’t held water…\nLeif, where is the reference, please?"
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 26, 2011 at 9:21 am",
+   "text": "Sorry late back to the party, in contrast to some of you I had to sleep.\nracookpe1978, Geoff, Peter Miller– thanks for your comments\nre: error bars. we report the confidence intervals on our model in Table 1. There is also unknown error in the underlying data with vast differences of opinion about what it is. As far as quantifying the UHI and adjustments component, the reviewer made us take it out as only an estimate. We were estimating between 0.1 and 0.2 deg C of the warming since 1970. This would obviously affect the 0.66 figure, which we labeled an upper bound.\nSeveral comments addressed the complexity of cycles (longer ones, etc) such as Richard Courtney and Mike Jonas. Yes of course. Much more study needed here. The GCM people have billion dollar budgets and huge teams. Nicola and I do not. I don’t even get full time on this. We hope we have stirred up thoughts and improved on some past analyses.\nWillis: apology accepted. We tried to develop a technique of signal detection for the anthropogenic effects that is not circular and does not involve GCMs. There are other attribution studies using different methods. Ours is just one. If you don’t think our methods are good, that is ok. I don’t feel like I need to issue a retraction or anything. I stand by what we have done."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 26, 2011 at 9:44 am",
+   "text": "Now someone is “gobsmacked” by our work, and not in a good way…and yet others find it interesting. Whatever the merits of our work, we got closer to the data with a lot less handwaving than any GCM, none of which predicted the post 1998 flat temps (but our model did)."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 26, 2011 at 10:11 am",
+   "text": "When an article like this is dismissed out of hand (with no actual criticism) as several commenters have done, I conclude that either they have a bias against the particular method (e.g., cycles can’t exist, regression is bad) or don’t like the answer we got. In any case, getting shot at from both sides would suggest we could not have been too biased or we would have made at least 50% of readers happy!!"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 11:01 am",
+   "text": "Ok Leif Svalgaard.\nThank you for your comments about planetary influence on the Sun. Please send me the exact reference about Wolf when you will be home.\nOf course you are not proving the planetary-sun relation to be false. You simply state that you are not capable to imagine the mechanism, as other solart scientists have done.\nWho knows what will happen in the future. 🙂"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 12:13 pm",
+   "text": "Leif Svalgaard says:\nRACookPE1978 says:\nJuly 26, 2011 at 11:38 am\nThey are not claiming that their analysis is valid back through the LIA and MWP.\nI think they claim that the analysis as far as the solar cycles are concerned is valid, but would like to see them deny/confirm that here.\nLeif, we are very clear that the model forecast cannot be extended to the LIA and MWP or the roman period or the Jurassic period, nor the model can be extended to the Capitan Kirk of Enterprise period and beyond for the simple reasons that the multisecular and millennial cycles have not being factorized in the model. This is clearly written in the paper, look at the last sentence of the abstract and the starting of section 6 and other locations.\nThe reason because those longer cycles have not been included in the present model is because their amplitude is not certain given to the fact that the temperature records start in 1850. Before that we have a lot of proxy models that look quite different from each other, so the amplitude of the multisecular cycles cannot be determined but with quite large errors. With only 160 year of data the largest cycle that could be detected [is] a 80-year cycle, we find a ~60-year cycle we use it.\nAbout our forecast for the 21st century, we clearly state that our estimate with a linear increase should be interpreted as an upper limit because the 1000-year cycle is going to decrease any time soon too."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 26, 2011 at 12:44 pm",
+   "text": "Leif: We think there are longer term cycles which are not in our model and thus we can not extrapolate more than 100 yrs or so. We do go back to 1850 the end of the LIA and do match that data.\nDave Springer and Nikfromnyc have some strong opinions and are exercising their vocabulary but not sure what they are saying. “nerdy fantasy” “ad hoc fabrications”– very colorful"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 1:25 pm",
+   "text": "Dear Leif Svalgaard,\nof course there are cycles in the solar activity before 1850. They just need to be well understood. In fact, there is not just one cycle, but many cycles.\nDo not be in hurry, Leif !\nKeep tuned 🙂"
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 26, 2011 at 1:35 pm",
+   "text": "Leif: yes one can extend the solar cycles backwards BUT as you try to get data to compare it to you are stuck with data taken at long intervals (like very 100 yrs), dating errors, measurement problems, sedimentation discontinuities (the lake dries out or sediment slumps or is dug by an animal) and proxies of unknown validity (like tree rings which I do not believe are valid)."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 26, 2011 at 2:03 pm",
+   "text": "Dave Springer: re “ad hoc” yeah, ha ha I know it is latin. Your claim about unfalsifiable “just so story” is not quite correct. Our modeled cycles, calibrated only on pre-1950 data, predict the flattening of temperatures after 2000, which is now a 12 yr prediction vs the GCMs which predict a 0.35 deg C/decade rise (depending on which model and scenario). They also match the pattern of wiggles after 1950 when we add in the linear AGW effect."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 3:00 pm",
+   "text": "Dear Leif Svalgaard,\nI am sorry but I need to agree with tallbloke on this Wolf’s issue.\nWolf, at the end of his life, simply stated that he tried an explanation supporting the planetary-sun theory and he was not able to find one. He did not abandon the theory or proved it false. He just could not prove it in a satisfactory way.\nI would guess that Wolf also tried to explain the energetic origin of the solar luminosity, and he could not find a satisfactory explanation too, being the Kelvin-Helmholtz theory in contradiction with geology. Did I guess right, Leif?"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 3:30 pm",
+   "text": "Hi Willis Eschenbach,\nsorry to contradict you, but the conjunctions of Jupiter and Saturn occur every ~20 years.\nThese things were known since ancient time, very very very ancient time by every street astrologer.\nTry to do the calculation by yourself:\nperiod of Jupiter =12 years\nperiod of saturn = 30 years\nsynodic period = 1/(1/12-1/30) = 20 years\nThe barycentric speed of the sun that I used has clearly these patterns.\nA 323-year cycle from a 160 year temperature record?\nare you sure that you understand the limits of the power spectrum analysis tools?\nDid you note that your 323 = ~ 2*160?\nYour knowledge shines as your logic!"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 3:49 pm",
+   "text": "Dear Dave Springer,\nunfortunately people sometime talk without any understanding, as in your case.\nThe mercury thermometer was invented in 1724. So what? the global surface temperature record measured by thermometer start in 1850. See here\nhttp://www.cru.uea.ac.uk/cru/data/temperature/"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 4:30 pm",
+   "text": "Willis Eschenbach, it is not a good idea to try to mislead readers with your insinuation.\nYou simply do not understand elementary astronomy.\nI never talked about a “perfect” 20 year cycle. The cycles varies a little bit, although less than what you plot. Your variability is likely due to the fact that you are taking the peaks due to very fast fluctuations due to the other planets.\nThe figure plotted by Geoff is clear enough\nhttp://tinyurl.com/2dg9u22/images/vel_am.jpg\nwhere the quasi 20-year cycle is clear to every unbiased reader"
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 26, 2011 at 4:38 pm",
+   "text": "Willis: please read the Geoff Sharp post just above your last one."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 4:56 pm",
+   "text": "Dear Willis Eschenbach the longest peak you see in the spectrum at ~320 year is an artifact due to the fact that the length of the data is only 160 year. So, you see 2*160=320. This is not a real cycle.\nIn my figure 11 of my paper 2010 the comparison is against the speed of the sun record itself.\nThe same is done in figure 12A.\nAs I said above I have never taked about a “perfectly periodic” 20-year cycle.\nYou are criticizing your own misunderstanding.\nA cycle that oscillates around 20 year can be in first approximation described by a 20-year harmonic cycle.\nPerhaps you do not know it, but also the so-called 11-year solar cycle is not a perfectly periodic 11-year cycle."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 5:57 pm",
+   "text": "Leif Svalgaard says:\nthe effect may be a combination of tides and solar movement.\nThe tides are clearly a physical forcing.\nThe solar wobbling is also a real phenomenon relative to the galaxy."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 6:09 pm",
+   "text": "Willis Eschenbach,\nplease read my paper\nN. Scafetta, “Empirical evidence for a celestial origin of the climate oscillations and its implications”. Journal of Atmospheric and Solar-Terrestrial Physics 72, 951–970 (2010),\nAll your questions are already unswered there.\nSorry, but you or did nor read my paper or you did not understand it at all."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 26, 2011 at 6:43 pm",
+   "text": "Leif Svalgaard says:\nMy major view is that the planetary influence on the sun is mostly tidal because tides are a real forcing acting on the Sun.\nHowever, the gravitational wobbling of the Sun would be totally irrilevant, as you say, only if the “gravitational” forces were the only forces that exist in nature, which is not the case because there are also electric/magnetic forces too and cosmic rays caming from the galaxy that cross the solar system. So, I prefer not to totally close a priory my mind to additional contributions unless they are explicitly confuted.\nI do not think that keeping an open mind is by itself a bad thing.\nDon’t you agree?"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 1:13 am",
+   "text": "Dear Willis Eschenbach,\nyour arguments above only prove that you are a very good sophist.\n1) I never said that the speed of the sun has a “perfect” 20 year cycle. And using a 20-year sinusoidal cycle instead of a varying 20-year cycle is good enough for our purpose.\n2) before 1950 the net anthropogenic forcing is negligible according GCM studies. Separating the two periods before and after 1950 in the way we did is good enough in first approximation.\nYou are complain that we did not use second or third or fourth order approximations. Fine! So what?\nFirst order approximations are good enough. Include in the model your second or third or fourth order approximations and show us that the result deeply depends on them."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 2:03 am",
+   "text": "Dear Leif Svalgaard,\nunfortunately you are a little bit confusing the issues.\nIn my paper under scrutiny I am specifically talking of the temperature of the Earth more than of solar activity.\nWhen I talk about the speed of the sun around the barycented I clearly say that I am using such an observable as a proxy for calculating a set of major frequencies that characterize the solar system oscillations. I do not need the barycentric speed ofthe sun at all to calculate such a set, but using such a record greatly facilitate the caculations.\nMy argument was not that the barycentric speed of the sun was “directly” responsible of the climate oscillations, but that it is an observable that depends on the solar system oscillations, so it can be used to determine such frequency set.\nWhat is causing the climate oscillations is a “still obscure” mechanism in those papers, but because I theorized that such “unknown” mechanism is also linked to the solar system oscillations I argued that it is made of the same set of oscillation frequencies as that found in the barycentric speed.\nSo, it is not true that for me “the solar velocity has nothing to do with anything”. As I said in my paper many times, the barycentric speed of the sun can be used as just a “proxy in the frequency domain” for what is causing the climate oscillations that may have multiple sources which in my interpretation are ultimately linked to the solar system oscillations, their resonances and sub and super harmonics, driven by the movement of the planets and in the way the sun and the heliosphere including the terrestrial magnetosphere respond to them within a surrounding galaxy and its incoming cosmic ray flux.\nA quasi 20-year cycle is for sure one of those astronomical cycles. Then the fact that this cycle is a variable cycle and not a perfect harmonic cycle, or that it may be split in two astronomical cycles close to 20 years such as a 20 and 22 year cycles throgh various mechanisms, etc. does not change the fact that a major quasi-20 year oscillation is a astronomical oscillation, such as the ~10 year oscillation and the ~60 year oscillation and the other oscillations I am talking in my paper. And the temperature records shows the same oscillations.\nMy argument is a perfectly valid argument, dear Leif, and it is supported by data analysis results.\nYour criticism appears in many cases to me to be just rooted in an “argumentum ad ignorantiam” which does not disprove anything.\nSo, open your mind.\nI really wonder on which side you will be if we were living in the 16-17th century about the traditional aristotelian geocentric theory vs. the new heliocentric theory.\nProbably in the 16-17th century and before you would also have strongly denied that the ocean tides were caused by a lunar influence."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 3:51 am",
+   "text": "Jamie says:\nJuly 27, 2011 at 2:06 am\n“Why not use the *actual* cycle lengths instead of 20 years for each of them?”\nBecause it has been already done in Scafetta 2010.\n“Empirical evidence for a celestial origin of the climate oscillations and its implications”. Journal of Atmospheric and Solar-Terrestrial Physics 72, 951–970"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 4:47 am",
+   "text": "tallbloke says:\n“I think you should see this as a ‘first foray’ to be followed up by many more studies.”\nExactly Tallbloke!\nThe problem is that there are two kind of scientists. Those who are in the frontier science where there exists a mix of known and unknown things, and those who simply learn science from the textbooks and published papers written by others. Both categories are very respectable people, of course.\nBut sometime the latter people think too much that science is about things already written in textbooks and fully understood, and never question their own understanding of the Nature because they do not look at the Nature at all for finding the answers, they look only at their textbooks and do not find the answers or find just wrong answers.\nThe only big problem occur when the second category of scientists systematically use their “confirmation biases” to try to stop and delay the scientific development by abusing the peer review process of new papers.\nPS: note that just looking at a textbook or just looking at a “computer climate model” is exactly the same thing because “computer climate model” is an electronic version of a textbook content."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 5:25 am",
+   "text": "Leif Svalgaard says:\n“Not many people in the 16th century would have said that that the tides were raised by the moon’s gravity. Name one for me.\nI tend to be more receptive to ideas that are supported by physics rather than by the “unknown” cosmic forces or processes you advocate. ”\nYou are very welcome: have you ever heard a guy named: Johannes Kepler?\nDear Leif, before Newton and the 17th century everybody, but a few people that reason like you, knew that the tides were raised by the moon. They did not need to wait Newton to reach that conclusion.\nThis is from the Tetrabiblos of Ptolemy, chapter II\n“The Moon, being of all the heavenly bodies the nearest to the Earth, also dispenses much influence; … By the changes of her illumination (that is as she waxes and wanes), rivers swell and are reduced; the tides of the sea are ruled by her rising and setting; …”\nWho would have questioned Ptolemy in the 16th century on something that has been easily observed by any fisherman and peasants?\nGalileo tried, but he was ridiculed on that single point.\nPeople were not using the word “gravity”, but the concept that there was an “influence” was well believed.\nI simply hope that you are more open minded in particular when you express opinions on others’works in the anonymity."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 27, 2011 at 7:15 am",
+   "text": "1) This is not “settled science” it is a hypothesis. When wegener proposed continental drift he could not explain it. Even when sea floor spreading data became available, it was not possible to “explain” fully what was going on. The 60 yr cycle in Earth climate is too pervasive to simply dismiss.\n2) The claim that the historical 100 yrs data to 1950 are too short to detect a 60 yr cycle is false — see appendix a in supplemental info. A reviewer already made that objection. Whether the characterization is precise enough will be a matter of purpose and judgement.\n3) Willis complaint that we are not responsive is curious. He seems to have been up all night, but I slept. Further, the questions he is asking would take a week to address. I can answer the following questions however: a) If you follow the procedure we used of splitting the data at 1950 but allow a freeform fit, the cycles come out very close to 60 and 20 yrs and the result is very similar. b) the cycle lengths are fixed by our assumption that solar system dynamics has an influence, so there are fewer params to fit than you imply. c) All other methods of attempting attribution do some sort of time-split or base attribution on a climate model (which seems circular to us). These other methods also introduce all sorts of assumptions such as that they can properly subtract the effects of volcanos and ENSO (how many params does that introduce?), whereas we have very few assumptions (as we noted in the text).\n4) Because we worked with simple models, everyone assumes they instantly understood our paper. The comments here suggest otherwise.\n5) Yes, we confess, this is an empirical relationship. It is a better empirical relationship than the GCMs produce and our model projection from 1950 clearly forecast the flattening of temperatures after 2000.\n6) Angry comments only indicate that you are angry, not that you are right. We may be wrong, but at least (as Willis shows) others can check our work."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 8:09 am",
+   "text": "Richard S Courtney says:\n“But at any time one cannot know if a cycle remains, has ceased, or has or is altering. Therefore, the cause of an observed change to a time series of the system could be a completely natural alteration to one or more of the apparent cycles. Hence, it is an improbable assumption to ascribe such a change to AGW or anything else.”\nPredicting the future with absolute precision is not easy for anybody. The 60-year modulation is seen in proxies since 1700 and before. So, it is reasonable to think that it will still be present in the future.\nIt is not possible to state with absolute precision whether the amplitude of this 60-year oscillation will stay the same, will increase or will decrease. In such a situation the simplest thing that can be done is simply to assume that it remains the same in a first approximation, which is our first approximation assumption."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 9:57 am",
+   "text": "Leif Svalgaard says:\n“With all due respect to Nicola, the planetary theory is not new or pioneering, nor a breakthrough in any way, but seems just to be a rehash of Brown’s work from”\nWith all due respect to Leif and to Brow, the planetary theory of climate change is as old as the civilizations are. The fact that so many scientists have found it interesting along hystory implies that it just needs to be properly explored without improper comments.\nThose you are not interested in it, can spend their time doing something else, for example, running AGW GCMs assuring them that the Earth will soon become like Venus."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 11:06 am",
+   "text": "Leif Svalgaard says: “This subject has been properly explored for 150 years and found wanting.”\nDear Leif, be patient !\nPerhaps you should start to encourage people and give them the possibility to develop a proper theory. Perhaps, you may also give some contribution to it too ! 🙂\nStart by respecting the others’ work and ideas even if you may not fully agree to them yet. Start accepting the idea that new things can be discovered, and, most importantly, do not demoralize people with an improper and dishonest behavior."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 27, 2011 at 11:37 am",
+   "text": "Terry Oldberg: if one has timeseries data without noise, even part of a cycle length (eg. 20 yrs for a 60 yr cycle) is sufficient to get perfect parameter estimates for a sin wave (try it). The more noise there is the longer data series is needed. 100 years of data is not a sample <2 for a 60 yr cycle if you use nonlinear least squares estimation."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 11:49 am",
+   "text": "yes, OK S.\nit was extremely well known to everybody that the tides were induced by the moon.\nPeople did not need “Newton” to know it. People were just looking at the Nature.\nToday, instead, many people (for example, Leif) believe that science is just to look in a textbook for mechanisms and believe that first Newton came with his gravitational theory and only after people realized that the tides were induced by the Moon, just because that is the order in which these things are written in their textbooks!\nNewton too was looking at the Nature when he proposed his gravitational law, he did not get it from a textbook 🙂"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 12:39 pm",
+   "text": "Dear Leif Svalgaard,\nplease. Control your fury.\nYou did not even known that before Newton everybody already knew that the tides were induced by the Moon.\nJust be more humble and more respectful.\nIf you are able to properly confute a proposed theory, you have plenty of resourses to do it in the proper way in the open scientific debate with valid and objective arguments by writing a proper comment/rebuttal. That is the right way to show to everybody that a proposed theory is wrong, so everybody will see it and move on."
+  },
+  {
+   "author": "Craig Loehle",
+   "date": "July 27, 2011 at 12:46 pm",
+   "text": "Leif and Nicola: there is no resolution to your present debate, which seems to be about metascience and expertise."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 12:48 pm",
+   "text": "Leif Svalgaard says:\n“Only when Newton produced his explanation of the tides, did it become science.”\nBeside the fact that scientists before Newton did not think in that way.\nTell me, Leif, which physical explanation did Newton himself produce to explain the origin of his force of gravity?\nIt was not, by any chance, that Newton did not give any “explanation” for his force of gravity and the only thing that he could do is to show that it empirically agreed with the ancient lunar/tidal theory and with the three laws of Kepler?"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 27, 2011 at 3:27 pm",
+   "text": "Craig and Tallbloke,\nyou are right. When somebody arrives to twist history and clear historical facts to support his own understanding of how science progress and how it is understood by historian and philosophers, it is useless to take him in consideration.\nLeif has always written several hundred comments criticizing my research during these last years, but he has never produced a single formal comment/rebuttal to my research in a scientific journal. So, I just invite Leif to make his criticism formal, if he believes that it is valid. So that we can discuss it in the proper forum.\nAbout Vuk’s idea concerning the Jupiter Saturn conjunctions towards the forward moving part of the heliopause, as I said it is an interesting idea that may well fit another idea that I add to explain the phenomenon. But I cannot talk about it now. Hopefully, we will have another occasion to discuss it extensively.\nAbout the 60 year cycles in the LOD, I talked about it in my 2010 paper. My current opinion, however is that LOD oscillation may be a consequence of the climate oscillation, more than vice versa. But the issue is open."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 28, 2011 at 4:35 pm",
+   "text": "Mike Jonas says:\nJuly 28, 2011 at 1:57 pm\nPlease remind me the questions by copy and past them in a new comment\n(I apologize for Leif’s behavior by disrupting this discussion! But I know him in person. He is a very good guy and I agree with him for about 50% he says. I just would like him to be more open-minded about the “surprises” of nature)."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 28, 2011 at 9:14 pm",
+   "text": "To Richard S Courtney & Mike Jonas says:\nNicola – The posts are long so rather than cut & paste here is a link to the main one:\nI tried to understand your argument. A accurate response is difficult. It seems to me that you are arguing that because a clear physical mechanism is still missing and the calculations were done on a short time series than the result of our analysis should be “rejected”.\nI believe that it would not be appropriate to reject our result on such bases. In fact, under those assumptions I believe that you may at most be entitled to search for an alternative interpretation of the data, but you cannot “reject” our result. The length of the data is short for everybody, not only for us and it is well known that clear physical mechanisms are still poorly understood, which is again a problem for everybody, not just for us.\n“Rejecting”, in fact, means to “prove” it false. Simply stating, “there might be another explanation” is not an evidence that a proposed theory is false.\nWhat is done in science when alternative theories are proposed is to compare them and see which of the two better reproduces the dynamical patterns emerging from the data.\nUnfortunately the alternative theory currently available is the one built on the IPCC GCMs and, as I shown in my 2010 paper, those models do not reproduce the 60-year modulation observed in the data since 1850. Thus, the IPCC theory is already not supported by the data.\nYou may say that the IPCC GCMs adopt forcings and climate sensitivities characterized by huge error, and perhaps it may be possible to find a combination of parameters that would produce computer model simulations that might better agree with the temperature. But a theory which needs huge errors-bars to agree with the data is not very useful, in my opinion.\nOn the contrary, we have shown that a quasi 60-year modulation is present in several proxy records before 1850, thus our hypothesis that the modulation observed from 1850 to 1950 was due to this 60-year cycle was supported by the available information.\nThen we used the temperature record from 1850 to 1950 to calibrate the amplitude of the cycle, and we used the model to check whether it could tell us something about the period 1950-2010. And the model was able to reproduce the observed modulation: cooling until 1970, warming from 1970 to 2000, and little cooling since 2000. The only difference was an upper quasi linear trend, that would be compatible with an exponential increase of GHG plus other anthropogenic contributions and possible UHI and other similar biases. This exercise shown that the model is potentially able of approximately forecast this climate variations. On the contrary the alternative IPCC theory did not reproduce the modulation of the temperature from 1850to 2000 and predicted a warming since 2000 at a rate of 2.3 C/century..\nSo, our model should be evaluated by “comparison” with the alternative available theories that claims that those cycles do not exist because they do not reproduce them.\nAnd in my opinion our model performs much better in interpreting the information embedded in both temperature and proxy records that we have. Finally, as I shown in my 2010 paper in more details the climate contains many oscillations, not just the 60-year one, that match astronomical cycles. So, it is there that one should more likely look for hoping to solve the issue.\nOf course, there are still several open issues that need to be further investigated that will eventually confirm or rebut our proposed interpretation of the climate record. We will see. In Italy we say: “Se sono rose, fioriranno” 🙂"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 29, 2011 at 7:46 pm",
+   "text": "To Richard S. Courtney and others.\nI am sorry, but I believe that Richard is not understanding the issue. To claim that a science is “bad” one needs to prove it, not just to claim it.\nI believe that the major problem of Richard and others like him is that they are not getting the big picture.\nThey are claiming that our calculations are wrong simply because they do not believe that since 1850 the climate is characterized by two quasi-60 year cycles. They claim that the amplitude of the cycle is highly questionable.\nOur calculations, by assuming that the two cycles from 1880-1940 and 1940-2000 are almost equal refer to an average estimate that yield to the claim that the IPCC has overestimated the anthropogenic effect on climate by a factor equal to 3.5, on average. It may be 3 or it may be 4, doesn’t matter much.\nThis in turn implies that the climate sensitivity to CO2 doubling is likely about 1 C. Perhaps it may be 0.5 C or 1.5 C, it doesn’t matter much\nWhat Richard and other like him do not realize is that the above claims must be interpreted within the bigger picture. I would say that there are three major issue.\n1) a quasi-60 year cycle has been detected in several proxy during the last centuries and for several millennia, For example in numerous Holocene records, such as in Davis J.C., and Bohling G., The Search for Patterns in Ice-Core Temperature Curves: in Gerhard, Lee C., William E. Harrison, and Bernold M. Hanson, eds., Geological Perspectives of Global Climate Change, 213-230 (2001). See figure\nhttp://i90.photobucket.com/albums/k247/dhm1353/DavisandBohlingFig7a.png\n2) Other studies are confirming a low climate sensitivity to CO2 doubling around 1 C, as the recent paper by Spencer.\n3) According to the IPCC the uncertainty of the climate sensitivity to CO2 doubling is huge. It goes from 1C to 10 C. See IPCC figure\nhttp://www.ipcc.ch/graphics/ar4-wg1/jpg/fig-9-20.jpg\nThe above huge error bars are not exactly what is called a “small” error.\nI would like to remind this from the gospel\n“Why do you see the speck in your brother’s eye, but fail to see the beam of wood in your own? How can you say to your brother, ‘Brother, let me remove the speck from your eye,’ while you yourself don’t see the beam in your own? You hypocrite! First remove the beam from your own eye, and then you can see clearly to remove the speck from your brother’s eye.”\nSurely our calculation can be refined, but the uncertainty that exists in the IPCC climate sensitivity to CO2 is a so huge beam of wood that cannot be ignored.\nSo I invite Richard and others like him to think better,"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 29, 2011 at 10:21 pm",
+   "text": "Mike Jonas says:\nJuly 29, 2011 at 9:02 pm\n“Nicola Scafetta – you say that “a quasi-60 year cycle has been detected in several proxy during the last centuries and for several millennia“, but I did not see in your paper where you analyse the cycle over those millennia to establish that calculations based on a difference between adjacent cycles can be meaningful. Without that, or something like it, I still maintain that your findings are – well – meaningless.”\nMike, it is not my intention to convince everybody. You can believe what you want.\nHowever, the facts do not change."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 30, 2011 at 3:04 am",
+   "text": "Richard S Courtney says:\nJuly 30, 2011 at 1:02 am\n“For example, there is another cycle of ~900-year duration that provides the Roman, Mediaeval and Present warm periods separated by the cool periods of the Dark Age and Little Ice Age. ”\nRichard, I am sorry, but I believe that you are mis-understanding the paper. The paper is not supposed to respond every question with absolute precision, but to give a first approximation.\nIn physics it is very common to do “rude” approximation of the type “let us suppose that this running horse is a rolling ball”.\nAbout the quasi-millennia cycle, we are very clear that is not implemented in the calculation. We have approximate it with a line (=the rolling ball instead of the horse), which would be fine in the limits of our paper, that is up to a few decades forecast. But a quasi-millennial cycle would not significantly interfer with the 60-year oscillation but would determine the long forecast.\nAs you say, the oscillations are not exactly constant, but should be understood as a chaotic dynamics around limit cycles. However, again we did the simplest hypothesis by measuring the average value of the oscillations.\nAdditional work will refine the issue."
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 30, 2011 at 3:22 am",
+   "text": "Mike Jonas says:\nJuly 30, 2011 at 2:44 am\n“Nicola – let me put it as a question : what grounds do you have for assuming that consecutive cycles would have the same or similar underlying slope given stable CO2?”\nSorry, I do not understand the question. Which slope are you talking about?"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 30, 2011 at 5:36 am",
+   "text": "Mike Jonas says:\nJuly 30, 2011 at 3:37 am\n“Nicola – your paper attributes the change in slope in the observed data, from one cycle to the next, to CO2. I think you expressed it as the difference between the observed data and the projected cycle, expressed as a slope (deg C per century). They are basically the same thing, because the base cycle is matched to its observed data.”\nMike, I believe that you are doing your best for not understanding what I am saying. Of course the result depend on the actual amplitude of the cycle. For example with our calculations we have determined that the anthropogenic component is on average +0.66 C/century.\nIf the real 60-year cyclical amplitude for the period 1940-2000 is smaller than our average estimated, the 0.66 C/century estimate has been underestimate. However, if the real 60-year cyclical amplitude for the period 1940-2000 is larger than our average estimate, the 0.66 C/century estimate has been overestimated.\nWhat is so difficult for you to understand that our estimate is an “average” estimate?\nAlso the IPCC plots and reason using “average” GCMs estimate and have concluded that anthropogenic component is on average +2.3 C/century (+/- a huge error).\nSo, our average estimate is the appropriate measure to be compared to the IPCC average estimate.\nDid I respond your question?"
+  },
+  {
+   "author": "nicola scafetta",
+   "date": "July 30, 2011 at 11:14 am",
+   "text": "Mike Jonas says:\nJuly 30, 2011 at 9:18 am\nI am sorry, but the error bars were calculated. They are not in the pictured but in the table 1.\nFor the 60 year cycle we get an amplitude of: 0.121 +/- 0.016 ºC\nFor the 20-year cycle we got an amplitude of: 0.041 +/- 0.016 ºC"
+  }
+ ],
+ "_retrieved": "2026-09-25/26 via Claude desktop in-app browser; DOM extraction of author-attributed comments only (other commenters not captured); Wayback captures where noted in url"
+}

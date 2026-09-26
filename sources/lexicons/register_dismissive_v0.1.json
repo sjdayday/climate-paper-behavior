@@ -1,0 +1,133 @@
+{
+  "version": "0.1",
+  "status": "starter lexicon; pin at freeze after audit on the pilot census",
+  "notes": "Case-insensitive regexes with word boundaries. Categories R1-R5. A hit counts once per match. Target (person / group / work) is coded per hit: mechanically first (rules in the .md), then audited. Quoted material (text inside quotation marks that the author attributes to someone else) is excluded before counting. v0.1 pilot fixes: R2 know/understand patterns are skipped when the grammatical subject is I/we or omitted (self-hedging); duplicate identical sentences within a unit (page titles, breadcrumbs) count once; quoted spans over 3 words in double or single typographic quotes are removed. German compounds (e.g. 'Skeptikerpropagande') are not matched by word-boundary patterns - a known limitation to resolve with a decompounding step before pinning.",
+  "en": {
+    "R1_group_label": [
+      "\\bdenier(s)?\\b",
+      "\\bdenialist(s)?\\b",
+      "\\bdeniers?\\b",
+      "\\bin denial\\b",
+      "\\bdeny the reality\\b",
+      "\\balarmis[mt]s?\\b",
+      "\\bwarmists?\\b",
+      "\\bfake[ -]?[\"“']?skeptics?\\b",
+      "\\bclimate church\\b",
+      "\\bcult(ist)?s?\\b",
+      "\\bcranks?\\b",
+      "\\bcyclomania\\b",
+      "\\bzealots?\\b",
+      "\\bgangsters?\\b"
+    ],
+    "R2_competence": [
+      "\\bstupid(ity)?\\b",
+      "\\bidiot(s|ic)?\\b",
+      "\\bignoran(t|ce)\\b",
+      "\\bincompeten(t|ce)\\b",
+      "\\bclueless\\b",
+      "\\b(do|does|did)n[’']?t (even )?(understand|know)\\b",
+      "\\b(do|does|did) not (even )?(understand|know)\\b",
+      "\\bnot able to (understand|read|look)\\b",
+      "\\brank beginner\\b",
+      "\\bdelusions? of adequacy\\b",
+      "\\breading comprehension\\b",
+      "\\b(did|have) you (even )?read\\b",
+      "\\bnot exactly smart\\b",
+      "\\bsophist\\b",
+      "\\byour knowledge shines\\b",
+      "\\bbroken (disk|record)\\b"
+    ],
+    "R3_motive_honesty": [
+      "\\bdishonest(y|ly)?\\b",
+      "\\bfraud(s|ulent|sters?)?\\b",
+      "\\bliars?\\b",
+      "(?<![-\\w])lying\\b",
+      "\\b(blatant|outright|big) (lie|untruth)s?\\b",
+      "\\bwe lied\\b",
+      "\\byou lied\\b",
+      "\\btrick(s|ery)?\\b",
+      "\\bdecei(t|ve|ved|ving)\\b",
+      "\\bdecepti(on|ve)\\b",
+      "\\bhoodwink(ed)?\\b",
+      "\\bcherry-?pick(s|ed|ing)?\\b",
+      "\\bagenda\\b",
+      "\\bpropaganda\\b",
+      "\\bsmear(s|ing)?\\b",
+      "\\bcensor(s|ed|ing|ship)\\b",
+      "\\bsuppress(ed|ing|ion)?\\b",
+      "\\bdesperate(ly)? (want|to deny)\\b",
+      "\\bpipe-?dream\\b",
+      "\\bcartoon science\\b",
+      "\\babuse of science\\b",
+      "\\bhide-and-seek\\b",
+      "\\bbiased\\b",
+      "\\bmisinformation\\b",
+      "\\bhypocri(te|tical|sy)\\b"
+    ],
+    "R4_ridicule_profanity": [
+      "\\bnonsense\\b",
+      "\\bno-?sense\\b",
+      "\\bgarbage\\b",
+      "\\brubbish\\b",
+      "\\babsurd(ity)?\\b",
+      "\\bsilly\\b",
+      "\\bchildish\\b",
+      "\\blaughable\\b",
+      "\\bis this a joke\\b",
+      "\\btooth fairy\\b",
+      "\\bstay classy\\b",
+      "\\bbullshit\\b",
+      "\\bhorseshit\\b",
+      "\\bscrew you\\b",
+      "\\bgoddamn\\b",
+      "\\bass-backwards\\b",
+      "\\bsure as shit\\b"
+    ],
+    "R5_exclusion_admonition": [
+      "\\byou won[’']?t be missed\\b",
+      "\\bnot the right place for you\\b",
+      "\\bcontrol (your fury|yourself)\\b",
+      "\\bbe (more )?humble\\b",
+      "\\bget a grip\\b",
+      "\\bspare us\\b",
+      "\\bhope springs eternal\\b"
+    ]
+  },
+  "de": {
+    "R1_group_label": [
+      "\\b(Klima)?[Ll]eugner\\w*\\b",
+      "\\bAlarmist\\w*\\b",
+      "\\b[„\"]Klimaskeptiker[“\"]",
+      "\\bsogenannten [„\"]Klimaskeptiker"
+    ],
+    "R2_competence": [
+      "\\bdumm\\w*\\b",
+      "\\bUnkenntnis\\b",
+      "\\bahnungslos\\w*\\b",
+      "\\binkompetent\\w*\\b"
+    ],
+    "R3_motive_honesty": [
+      "\\bT[äa]usch\\w*\\b",
+      "\\bTrick\\w*\\b",
+      "\\bBauernf[äa]nger\\w*\\b",
+      "\\bunseri[öo]s\\w*\\b",
+      "\\birref[üu]hrend\\w*\\b",
+      "\\bPropagand\\w*\\b",
+      "\\bDesinformation\\w*\\b",
+      "\\bL[üu]ge\\w*\\b",
+      "\\bl[üu]g(en|t)\\b",
+      "\\bvorgaukel\\w*\\b",
+      "\\bhausieren\\b",
+      "\\bFalschbehauptung\\w*\\b"
+    ],
+    "R4_ridicule_profanity": [
+      "\\bUnsinn\\b",
+      "\\bSchwachsinn\\b",
+      "\\bQuatsch\\b",
+      "\\blächerlich\\w*\\b"
+    ],
+    "R5_exclusion_admonition": [
+      "\\baus jeder ernsthaften Sachdiskussion verabschiedet\\b"
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+[
+ {
+  "author": "Scafetta",
+  "addressee": "Svalgaard",
+  "n": 36,
+  "seq": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1
+  ],
+  "first_half": 1.8,
+  "second_half": 2.8,
+  "span": "2011-07-25 16:39 \u2192 2012-03-13 12:48",
+  "threads": [
+   "WUWT-2011-07-25",
+   "WUWT-2012-01-09",
+   "WUWT-2012-03-11"
+  ]
+ },
+ {
+  "author": "Scafetta",
+  "addressee": "Eschenbach",
+  "n": 32,
+  "seq": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  "first_half": 3.8,
+  "second_half": 0.8,
+  "span": "2011-07-25 14:43 \u2192 2012-03-19 13:38",
+  "threads": [
+   "WUWT-2011-07-25",
+   "WUWT-2012-03-11"
+  ]
+ },
+ {
+  "author": "Scafetta",
+  "addressee": "Vukcevic",
+  "n": 9,
+  "seq": [
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "first_half": 0.0,
+  "second_half": 4.0,
+  "span": "2011-07-25 15:05 \u2192 2012-03-14 16:17",
+  "threads": [
+   "WUWT-2011-07-25",
+   "WUWT-2012-01-09",
+   "WUWT-2012-03-11"
+  ]
+ },
+ {
+  "author": "Foster",
+  "addressee": "Chris Carthew",
+  "n": 8,
+  "seq": [
+   1,
+   0,
+   2,
+   0,
+   1,
+   0,
+   2,
+   6
+  ],
+  "first_half": 36.6,
+  "second_half": 12.9,
+  "span": "2011-12-17 12:04 \u2192 2011-12-25 01:29",
+  "threads": [
+   "OM-2011-12-06a"
+  ]
+ },
+ {
+  "author": "Foster",
+  "addressee": "Colin Aldridge",
+  "n": 6,
+  "seq": [
+   1,
+   0,
+   1,
+   1,
+   0,
+   1
+  ],
+  "first_half": 9.7,
+  "second_half": 16.8,
+  "span": "2011-12-09 19:49 \u2192 2011-12-23 08:47",
+  "threads": [
+   "OM-2011-12-06a"
+  ]
+ },
+ {
+  "author": "Scafetta",
+  "addressee": "Jonas",
+  "n": 6,
+  "seq": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "first_half": 5.4,
+  "second_half": 0.0,
+  "span": "2011-07-25 18:06 \u2192 2011-07-30 11:14",
+  "threads": [
+   "WUWT-2011-07-25"
+  ]
+ },
+ {
+  "author": "Foster",
+  "addressee": "Chris",
+  "n": 4,
+  "seq": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "first_half": 0.0,
+  "second_half": 0.0,
+  "span": "2011-12-07 01:06 \u2192 2011-12-08 00:43",
+  "threads": [
+   "OM-2011-12-06a"
+  ]
+ },
+ {
+  "author": "Foster",
+  "addressee": "mt",
+  "n": 4,
+  "seq": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "first_half": 0.0,
+  "second_half": 0.0,
+  "span": "2011-12-07 02:02 \u2192 2011-12-07 02:02",
+  "threads": [
+   "OM-2011-12-06a"
+  ]
+ },
+ {
+  "author": "Loehle",
+  "addressee": "Eschenbach",
+  "n": 4,
+  "seq": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "first_half": 0.0,
+  "second_half": 0.0,
+  "span": "2011-07-25 16:13 \u2192 2011-07-27 07:15",
+  "threads": [
+   "WUWT-2011-07-25"
+  ]
+ },
+ {
+  "author": "Scafetta",
+  "addressee": "Courtney",
+  "n": 4,
+  "seq": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "first_half": 0.0,
+  "second_half": 0.0,
+  "span": "2011-07-27 08:09 \u2192 2011-07-30 03:04",
+  "threads": [
+   "WUWT-2011-07-25"
+  ]
+ },
+ {
+  "author": "Scafetta",
+  "addressee": "Fred",
+  "n": 4,
+  "seq": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "first_half": 0.0,
+  "second_half": 0.0,
+  "span": "2011-07-25 16:39 \u2192 2011-07-26 15:57",
+  "threads": [
+   "CE-2011-07-25"
+  ]
+ },
+ {
+  "author": "Foster",
+  "addressee": "Erica",
+  "n": 3,
+  "seq": [
+   0,
+   1,
+   1
+  ],
+  "first_half": 0.0,
+  "second_half": 8.1,
+  "span": "2012-04-29 08:04 \u2192 2012-04-30 07:02",
+  "threads": [
+   "OM-2011-12-06a"
+  ]
+ },
+ {
+  "author": "Loehle",
+  "addressee": "Svalgaard",
+  "n": 3,
+  "seq": [
+   0,
+   0,
+   0
+  ],
+  "first_half": 0.0,
+  "second_half": 0.0,
+  "span": "2011-07-26 12:44 \u2192 2011-07-27 12:46",
+  "threads": [
+   "WUWT-2011-07-25"
+  ]
+ },
+ {
+  "author": "Loehle",
+  "addressee": "Fred",
+  "n": 3,
+  "seq": [
+   0,
+   0,
+   0
+  ],
+  "first_half": 0.0,
+  "second_half": 0.0,
+  "span": "2011-07-25 16:40 \u2192 2011-07-25 17:21",
+  "threads": [
+   "CE-2011-07-25"
+  ]
+ }
+]

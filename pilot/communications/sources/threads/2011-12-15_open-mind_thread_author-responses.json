@@ -1,0 +1,27 @@
+{
+ "url": "https://tamino.wordpress.com/2011/12/15/data-and-code-for-foster-rahmstorf-2011/",
+ "nComments": 48,
+ "items": [
+  {
+   "replyTo": "Robert",
+   "date": "December 15, 2011 at 10:24 pm",
+   "text": "[Response: Actually we used the stratospheric AOD data from Sato et al., but when we started it only extended as far as 2000. They have since updated their data, and it now includes very small nonzero quantities during the 2000s. The new values are not large enough to affect the results substantively. You can of course substitute the new data for the old and run the program to find out just how much effect it has.]"
+  },
+  {
+   "replyTo": "Brian Crounse (@syphax)",
+   "date": "December 16, 2011 at 3:51 am",
+   "text": "[Response: Answering questions about the code is one of the things I want to avoid. It’ll never stop.\n\nThe “findstart” routine is necessary, and it missing. So I’ll post an updated zip file which includes it. Thanks for the notice.]"
+  },
+  {
+   "replyTo": "GregH",
+   "date": "December 17, 2011 at 1:49 am",
+   "text": "[Response: On my PC the file name is not case-sensitive. Perhaps on other systems that’s not so? In that case, you’ll need to change either the programs or the data file so the names match.]"
+  },
+  {
+   "replyTo": "John Brookes",
+   "date": "January 3, 2012 at 12:57 pm",
+   "text": "[Response: Didn’t consider doing that, but it might be a very good idea indeed. Then it would be more like Lean & Rind (who used climate forcing rather than linear trend).]"
+  }
+ ],
+ "_retrieved": "2026-09-25/26 via Claude desktop in-app browser; DOM extraction of author-attributed comments only (other commenters not captured); Wayback captures where noted in url"
+}

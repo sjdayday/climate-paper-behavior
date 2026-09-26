@@ -1,0 +1,260 @@
+SOURCE: https://wattsupwiththat.com/2021/09/10/false-and-misleading-fact-check-about-connolly-et-al-2021/
+RETRIEVED: 2026-09-26 via Claude desktop in-app browser, DOM innerText (live page; open letter as "lightly edited for brevity" by Andy May (secondary))
+NOTE: verbatim text extraction; images not captured; site furniture left as extracted.
+========================================================================
+
+By Andy May
+
+Dr. Ronan Connolly and his co-authors respond to obvious false claims, in a supposed “fact check” about their latest paper on how solar variability may be affecting the climate. We applaud Dr. Ronan Connolly, Dr. Willie Soon, and Dr. Michael Connolly for rapidly and publicly calling out this fraudulent fact check. Misinformation and opinion articles disguised as fact checks are all too common and when they receive support in the left-wing social media, the situation just gets worse.
+﻿
+
+Their response follows:
+
+Dear Drs. Vincent and Forrester,
+﻿
+
+We are writing this open letter to you because it has recently come to our attention that your Climate Feedback website has published an article making multiple false or misleading claims about an Epoch Times newspaper article (by Alex Newman) that reported on a new peer-reviewed paper we co-authored. Your website’s “fact-check”/”feedback” also made false or misleading claims about our paper.
+﻿
+
+This means your website is effectively spreading the very misinformation that you purport to be trying to fight. Additionally, because your website is currently one of Facebook’s approved “independent fact-checkers”, anybody who shared or tries to share a link to the Epoch Times article now receives a warning like the following:
+
+
+
+
+In other words, not only is your “fact-check” promoting misinformation, but you are effectively hindering the public from sharing important information with their friends and family.
+﻿
+
+We are writing to you to ask you to immediately correct this erroneous “fact-check” and to inform any groups that may have been using your website as an “independent fact-checker” (including Facebook) of the error.
+﻿
+
+We are also cc’ing and bcc’ing various parties who are either directly affected by the consequences of this “fact-check” or may be more generally concerned about the arbitrariness of the “fact-checks” offered by websites such as yours, and the problem of “who will ‘fact-check’ the fact-checkers?”
+﻿
+
+We believe the discussion below is of relevance for everybody given the recent trend of the media, social media and internet search engines towards using “independent fact-checkers” like yourselves for down-ranking, suppressing or even deleting content. Therefore, we have chosen to make this an open letter. We encourage people to share our letter and our accompanying “fact-check fact-check” with the public – although we ask people to first redact the e-mail addresses.
+﻿
+
+The article in question is this one edited by Dr. Lambert Baraut-Guinet: Link here
+﻿
+
+Dr. Baraut-Guinet claims to have “fact-checked” an Epoch Times newspaper article by Alex Newman which compared the findings of our recent scientific review paper to the findings of the UN Intergovernmental Panel on Climate Change (IPCC) Working Group 1’s recent 6th Assessment Report (AR6, link here).
+﻿
+
+Baraut-Guinet alleges that Newman made false claims that were “incorrect” and “misleading” in his reporting. He similarly asserts that several other media outlets publishing articles repeating some of Newman’s reporting were “incorrect” and “misleading”. Baraut-Guinet also asserts that our peer-reviewed paper makes “incorrect” and “misleading” claims.
+﻿
+
+Background to Newman’s article:
+﻿
+
+Our paper that Newman was reporting on is a detailed scientific review on the complex challenges of establishing how much of a role solar activity has played in Northern Hemisphere temperature trends since the 19th century (and earlier). It was co-authored by 23 experts in the fields of solar physics and of climate science from 14 different countries and was published in the peer-reviewed journal Research in Astronomy and Astrophysics (RAA). If you don’t have time to read the full article, here is a short press release summary: Link here
+﻿
+
+The title of our paper is, “How much has the Sun influenced Northern Hemisphere temperature trends? An ongoing debate“, and it was published online in early August. Coincidentally, a few days later, the UN’s IPCC AR6 was published. While the IPCC AR6 had concluded that it was “unequivocal” that recent climate change was human-caused, our findings were much more circumspect and cautious, e.g., from the abstract of our RAA paper:
+﻿
+
+“For all five Northern Hemisphere temperature series, different TSI estimates suggest everything from no role for the Sun in recent decades (implying that recent global warming is mostly human-caused) to most of the recent global warming being due to changes in solar activity (that is, that recent global warming is mostly natural). It appears that previous studies (including the most recent IPCC reports) which had prematurely concluded the former, had done so because they failed to adequately consider all the relevant estimates of TSI and/or to satisfactorily address the uncertainties still associated with Northern Hemisphere temperature trend estimates. Therefore, several recommendations on how the scientific community can more satisfactorily resolve these issues are provided.“
+
+
+That is, the IPCC was offering a remarkably confident claim about the “attribution” of recent climate change, whereas we were explicitly warning that it was too premature to be drawing such conclusions. Our analysis found an alarmingly wide range of plausible estimates for a solar contribution (in the paper itself we elaborate on how plausible estimates for the solar contribution range from 0%-100% of the long-term warming since the mid-19th century!).
+﻿
+
+Newman was apparently intrigued by the contrast between the two studies both coincidentally published at around the same time. He interviewed several of us to learn more about our findings. He also reached out to the IPCC for their response, as well as to other scientists who might disagree with our analysis as well as some who might agree. If you read his article, his efforts to carefully and openly present multiple perspectives are self-evident.
+﻿
+
+If you compare Newman’s ‘balanced reporting’ journalistic approach to the framework you provide at Science Feedback for informative reporting (Link here), it is clear that Newman was taking considerable care to avoid any of the aspects of misinformation that you identify as problematic. In contrast, as we will detail in the attached ‘fact-check fact-check’, Baraut-Guinet’s ‘fact-checking’ of Newman’s article is littered with almost all the hallmarks of misinformation which your framework warns against.
+﻿
+
+Yet, ironically, Baraut-Guinet’s “fact-check” is currently being used by Facebook (and probably other platforms) as a justification for censoring Newman’s article.
+﻿
+
+According to your website’s “About” page “Our first mission is to help create an Internet where users will have access to scientifically sound and trustworthy information. We also provide feedback to editors and journalists about the credibility of information published by their outlets.” Therefore, we hope you share at least some of our concern about the fact that this article by Baraut-Guinet on your website is now promoting misinformation – and as a result effectively misleading editors, journalists and also several of your partners & funders that you list on your website, e.g., Facebook’s “Third Party Fact Checking program”.
+﻿
+
+We hope that after reviewing the information in this e-mail, you will get Baraut-Guinet to correct his erroneous analysis, update his flawed verdict of “Incorrect” & “Misleading” to “Correct” & “Accurate”, and also to contact the various groups (including Facebook’s fact checking program) who have mistakenly used his flawed analysis to warn them that your website had posted an erroneous “fact-check”.
+﻿
+
+Our approach differs from the IPCC
+﻿
+
+In our “fact-check fact-check” we explain how the approach we took to reviewing the scientific literature in our RAA paper was fundamentally different to that taken by the IPCC. We also explain that our objectives were fundamentally different.
+﻿
+
+The IPCC explain on their website that they were set up by the UN Environment Program (UNEP) in conjunction with the World Meteorological Organization (WMO) with the primary objective of providing “scientific information that [governments] can use to develop climate policies” (https://www.ipcc.ch/about/, accessed 5th September 2021). As we explain in the fact-check fact-check, the specific climate policies the IPCC are interested in are those that will help the UNEP in arranging international agreements to reduce greenhouse gas emissions.
+﻿
+
+On the other hand, our primary objective was “to convey to the rest of the scientific community the existence of several unresolved problems, as well as to establish those points where there is general agreement”.
+﻿
+
+That is, the IPCC’s scientific assessments are carried out to help governments in implementing the UN’s political goals, while our scientific assessments are carried out to help the scientific community (of which all 23 of us are members) to improve our collective understanding of the causes of climate change.
+﻿
+
+So, different goals. But we also used different methods.
+﻿
+
+The IPCC’s approach is a “consensus-driven” one of trying to identify a “scientific consensus” on each of the key issues. This approach works very well when there is indeed universal scientific agreement on the point. However, it is problematic whenever there is scientific disagreement on a given issue. And ironically, most scientific research occurs when there is ongoing scientific disagreement on the subject. Therefore, this is a surprisingly common occurrence. The IPCC’s general approach to dealing with scientific disagreement appears to be to use “expert judgement” to identify the most “likely” perspective on the subject (ideally one which best suits the UNEP’s aims) and then use “expert judgement” to dismiss those studies which dissent from that perspective.
+﻿
+
+Several researchers have praised the IPCC for this “consensus-driven” approach as they say it allows the IPCC to “speak with one voice for climate science” (e.g., see Beck et al. 2014; Hoppe & Rödder 2019). This is very helpful for the UNEP’s goals, since it allows the governments to focus on their negotiations without being distracted by scientific disagreements within the scientific community. However, we believe that it is unfortunately hindering scientific progress and the process of scientific inquiry.
+﻿
+
+For this reason, we explicitly avoided the IPCC’s “consensus-driven” approach and instead chose “…to emphasize where dissenting scientific opinions exist as well as where there is scientific agreement“. As noted in the 17th century:
+﻿
+
+“if we begin with certainties, we shall end in doubts; but if we begin with doubts, and are patient in them, we shall end in certainties.” Francis Bacon.
+
+
+These are different goals and different methods. So ultimately, it is not that surprising that we came to different conclusions on several key scientific questions.
+﻿
+
+When different scientists come to different conclusions by following different scientific approaches, it is very challenging to decide which one is “factual” and which is not. We appreciate that this can create problems for an “independent fact-checker” like your organization when asked to weigh in on a scientific disagreement. However, as we will discuss later, maybe this is not something that you should even be trying to do.
+﻿
+
+Science thrives best when scientists are allowed to disagree with each other. Rather than trying to shut down one side of a given scientific disagreement as “incorrect” and promoting the other side as “correct”, maybe we should be welcoming the fact that scientists are still “doing science”. [Ed: Science is not consensus, science is the process used to disprove a consensus.]
+﻿
+
+Who has been cc’ed and bcc’ed
+﻿
+
+A major problem with the current set-up of your website is that you purport to provide “fact-checks” or “feedbacks” on articles, but if anybody disputes your “feedback”, the only formal mechanism you currently offer on the website is to submit a comment through your on-line “contact us” form. We were unable to find an e-mail address for Dr. Baraut-Guinet, the editor in charge of the article in question. However, you are currently listed on the Science Feedback website as the Founder & Director (Dr. Vincent) and Science Editor, Climate and Ecology (Dr. Forrester), and we were able to find your e-mails on-line. Therefore, we assume that you are the appropriate people from your website to contact, and that you can contact him.
+﻿
+
+We have also cc’ed and bcc’ed several people whose professional reputations have been directly attacked by Dr. Baraut-Guinet through his accusations, as well as several people whose reputations have directly or indirectly been used by Dr. Baraut-Guinet to justify his claims.
+﻿
+
+Specifically, we have cc’ed Alex Newman, since Dr. Baraut-Guinet is (falsely) accusing him of not having carried out his journalistic duties. We have also bcc’ed our 20 co-authors on the research paper in question since Dr. Baraut-Guinet is smearing our scientific reputations by falsely accusing us of making “incorrect” and “misleading” claims in our scientific research.
+﻿
+
+Additionally, we have bcc’ed Prof. Tim Osborn, Dr. Britta Voss and Prof. Patrick Brown. Dr. Baraut-Guinet has taken quotes from each of them from previous reviews on your website and copied-and-pasted them the “Scientists’ feedback” for his “fact-check” on Alex Newman’s article.
+﻿
+
+Your Science Feedback framework claims that the “Scientists’ feedback” is needed before the editor can reach a verdict:
+﻿
+
+“Process for deciding on a verdict
+﻿
+
+The final ruling regarding the verdict attributed to the claim is made by a Science Feedback editor based on suggestions by the scientists contributing to the review.”
+﻿
+
+Therefore, it should have been a warning flag that none of the three scientists listed in the “Scientists’ feedback” section had contributed suggestions specifically about Alex Newman’s reporting. Instead, their “feedback” was copied-and-pasted from feedback on previous articles or claims.
+﻿
+
+We appreciate that Baraut-Guinet did include an explanatory note for each of them saying, “[ This comment comes from a previous review…“. But many casual readers would miss this. Indeed, we have already heard from several friends who independently told us about the article and none of them had noticed this caveat.
+﻿
+
+At any rate, we have bcc’ed these three scientists to let them know that Baraut-Guinet is using quotes from them on different articles to imply that they had also directly commented on Alex Newman’s article.
+﻿
+
+We have also cc’ed Jonathan Lynn (Head of Communications and Media Relations of IPCC), the representative from the IPCC that provided statements to Alex Newman for his article, since Baraut-Guinet misleadingly implies in his article that Newman failed to present the IPCC’s position on the various points made. This is factually inaccurate as well as misleading, lacking in context and also a Strawman argument (i.e., 4 of the types of misinformation criticised by your framework), since Newman states clearly in his article that he specifically reached out to the IPCC for comment, and reported the IPCC’s responses. This included a clarifying statement from Prof. Panmao Zhai (co-chair of Working Group 1 AR6), who we have bcc’ed.
+﻿
+
+Finally, we have bcc’ed multiple people who we know are concerned about how influential “fact-checking” organizations like yours have become and are wondering “who will fact-check the fact-checkers?” We think they will find our fact-check of your fact-checker, Dr. Baraut-Guinet’s article helpful. We suspect they will also be interested to see how your organisation will respond to this problem.
+﻿
+
+Details on our “fact-check fact-check”
+﻿
+
+The detailed fact check of the fact check can be downloaded here. For convenience, it is summarized below:
+﻿
+
+Our immediate recommendations to Climate Feedback
+﻿
+
+         Recommendation 1: We recommend you correct the existing “fact-check”/”feedback” on Alex Newman’s article. Currently, your website asserts that his reporting was “Incorrect” and “Misleading”. This should be changed to “Correct” and “Accurate” immediately.
+﻿
+
+         Recommendation 2: Those groups that are using Climate Feedback as a “fact-checker” should be contacted to let them know of your website’s erroneous analysis of this article.
+﻿
+
+         Recommendation 3: All of your editors should be reminded that your “framework for claim-level reviews” was presumably not to be used as an inspiration for what to do, but rather for identifying misinformation.
+﻿
+
+However, once this is done, we would also encourage you (and others reading this open letter) to consider whether the very idea of “fact-checking” on science reporting is as good an idea as it might initially seem.
+﻿
+
+Commentary on whether this plan of “fact-checking” is working
+﻿
+
+Finally, we think that it is time for society to reflect on whether this recent trend in “fact-checking” is wise. We note that a lot of this trend can be specifically traced back to debates over journalistic approaches to the scientific reporting of climate change.
+﻿
+
+Specifically, in the early 2000s, some researchers who believed that the IPCC reports offered the definitive “scientific consensus” on climate change were frustrated that journalists would still report the perspectives of scientists who disagreed with the IPCC reports. In particular, the Boykoff & Boykoff (2004) paper argued that the journalistic norm of “balanced reporting” was leading to a ‘false balance’ by implying that the supporters of the IPCC reports and the critics represented a 50:50 split among the scientific community (abstract here; pdf here).
+﻿
+
+This study (and more generally the argument) was highly influential and convinced many journalists that they had a duty to stop carrying out what they assumed was ‘false balance’ and instead only report on the scientific perspectives they believed were “correct”. That is, on any given scientific disagreement, the journalists would be obliged to find out what the “scientific consensus” was. If a scientific study disagreed with this consensus, it was not to be reported on.
+﻿
+
+This alternative journalistic approach is often referred to by its supporters as “reliable reporting”, although critics might call it “narrative-driven journalism” (or “ideological reporting” if the critic disagreed with the journalist’s political ideology).
+﻿
+
+A major problem with relying on this “reliable reporting” approach to journalism is that it effectively requires the journalist to act as the arbiter of a complex scientific disagreement. When there is scientific disagreement, this puts a very heavy burden on the journalist. Nonetheless, over the years, the argument about ‘false balance’ has convinced many journalists to abandon the classical ‘balanced reporting’ approach.
+﻿
+
+Today, it is very rare to find journalists like Alex Newman who continue to apply the ‘balanced reporting’ approach when covering scientific disagreements. As a result, over the last decade or so, it has become increasingly difficult to find open-minded and honest discussions on these scientific issues in the traditional media.
+﻿
+
+However, until recently, it was still relatively easy to find those discussions elsewhere by using social media and internet searches. Therefore, social media platforms and internet search engines are now being criticised for still allowing people to find out about ongoing scientific disagreements. As a result, these platforms are being increasingly pressured to actively suppress “misinformation”. Essentially, they are being pressured to adopt the same techniques of suppression described above which were applied to the media.
+﻿
+
+But, since the original premise of most social media platforms and internet search engines was to allow users to share and search for the information they wanted, if these platforms engage in this suppression, it is an especially draconian form of censorship.
+﻿
+
+To try and justify this censorship as “reducing the spread of ‘fake news’ and ‘misinformation'”, platforms such as Facebook, Twitter, Google/Youtube and others have started relying on “independent fact-checkers” such as Climate Feedback. However, as we demonstrated in our “fact-check fact-check”, attempting to “fact-check” on issues where there are ongoing scientific disagreements (as Dr. Baraut-Guinet did here) is very risky – and can easily result in generating misinformation (as Dr. Baraut-Guinet did here).
+﻿
+
+Therefore, we suggest that it is time for a re-think on the current reliance on “fact-checkers”, and also for journalists to re-think the “reliable reporting” approach.
+﻿
+
+Personally, we think that a return to encouraging “balanced reporting” would be a good option. However, we note that there was a recent paper by the Danish philosopher, Prof. Mikkel Gerken, which presents several options: Gerken (2020), “How to balance Balanced Reporting and Reliable Reporting“, Philosophy Studies, https://doi.org/10.1007/s11098-019-01362-5 [The paper is paywalled. However, if you don’t have access, but are comfortable using the controversial “sci-hub” website, you could probably find a copy that way].
+﻿
+
+Gerken describes the above approaches to journalism when it comes to science reporting as follows:
+﻿
+
+1.       Balanced Reporting. Science reporters should, whenever feasible, report opposing hypotheses in a manner that does not favor any one of them.
+﻿
+
+2.       Reliable Reporting. Science reporters should, whenever feasible, report the most reliably based hypotheses and avoid reporting hypotheses that are not reliably based.
+﻿
+
+He agrees that there are valid concerns about both approaches. The first approach can potentially lead to “false balance”, while the second approach can potentially lead to narrative-driven journalism, or even propaganda.
+﻿
+
+Therefore, he suggests two potential compromises:
+﻿
+
+3.       Inclusive Reliable Reporting. Science reporters should, whenever feasible, report hypotheses in a manner that favors the most reliably based ones by indicating the nature and strength of their respective scientific justifications.
+﻿
+
+4.       Epistemically Balanced Reporting. Science reporters should, whenever feasible, report opposing hypotheses in a manner that reflects the nature and strength of their respective scientific justifications or lack thereof.
+﻿
+
+He favours the 4th option. However, either the 3rd or 4th option rules out the necessity for the 2nd option of suppressing the existence of genuine scientific disagreements, and also avoids the risk with the 1st option of potentially creating a ‘false balance’.
+﻿
+
+Arguably, Alex Newman’s approach in his Epoch Times article combines elements of Options 1, 3 and 4.
+﻿
+
+Importantly, it is only with Option 2 that there is a necessity for “independent fact-checkers” for science reporting. For the other options, the readers are made aware of the existence of differing scientific perspectives and it is up to them to investigate further if they are interested.
+﻿
+
+Regards,
+﻿
+
+Dr Ronan Connolly, Dr. Willie Soon and Dr. Michael Connolly
+﻿
+
+Andy May lightly edited the letter for brevity.
+﻿
+
+The more detailed fact check of the fact check can be downloaded here.
+
+The climate data they don't want you to find — free, to your inbox.
+Join readers who get 5–8 new articles daily — no algorithms, no shadow bans.
+Email Address
+By subscribing, you agree to our privacy policy and terms of service.
+4.8
+Article Rating
+Share this:
+Print
+Email
+More

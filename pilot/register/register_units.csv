@@ -1,0 +1,344 @@
+id,paper,side,author,lang,type,date,addressee,words,R1_group_label,R2_competence,R3_motive_honesty,R4_ridicule_profanity,R5_exclusion_admonition,total
+P-LS-WUWT-launch,LS11,K,Loehle+Scafetta,en,post,2011-07-25,,706,0,0,0,0,0,0
+P-LS-WUWT-2012-01-09,LS11*,K,Scafetta,en,post,2012-01-09,,4296,0,0,0,0,0,0
+P-LS-WUWT-2012-03-11,LS11*,K,Scafetta,en,post,2012-03-11,,3552,0,2,5,1,0,8
+P-LS-widget-page,LS11*,K,Scafetta,en,post,2012-04-13,,701,0,0,0,0,0,0
+P-FR-OM-2011-12-06a,FR11,M,Foster,en,post,2011-12-06,,844,3,0,0,1,0,4
+P-FR-OM-2011-12-06b,FR11,M,Foster,en,post,2011-12-06,,145,0,0,0,0,0,0
+P-FR-OM-2011-12-15,FR11,M,Foster,en,post,2011-12-15,,531,0,0,1,0,0,1
+P-FR-OM-2012-12-01,FR11*,M,Foster,en,post,2012-12-01,,896,2,0,0,0,0,2
+P-FR-KL-2011-12-08,FR11,M,Rahmstorf,de,post,2011-12-08,,1029,0,0,0,0,0,0
+P-FR-KL-2012-09-27,FR11,M,Rahmstorf,de,post,2012-09-27,,1146,1,1,14,0,1,17
+Q-FR-IOP-2011-Rahmstorf,FR11,M,Rahmstorf,en,press-quote,2011-12-05,,63,0,0,0,0,0,0
+Q-FR-IOP-2011-Foster,FR11,M,Foster,en,press-quote,2011-12-05,,29,0,0,0,0,0,0
+Q-FR-IOP-2012-Rahmstorf,FR11*,M,Rahmstorf,en,press-quote,2012-11-28,,42,1,0,0,0,0,1
+C-CN-release-CERESteam,CN21,K,CERES team (R.Connolly/Soon/M.Connolly),en,release-body,2021-08-06,,741,0,0,0,0,0,0
+Q-CN-release-Connolly,CN21,K,Ronan Connolly,en,release-quote,2021-08-06,,74,0,0,0,0,0,0
+Q-CN-release-Herrera,CN21,K,Víctor Manuel Velasco Herrera,en,release-quote,2021-08-06,,0,0,0,0,0,0,0
+Q-CN-release-Scafetta,CN21,K,Nicola Scafetta,en,release-quote,2021-08-06,,0,0,0,0,0,0,0
+Q-CN-release-Humlum,CN21,K,Ole Humlum,en,release-quote,2021-08-06,,8,0,0,0,0,0,0
+Q-CN-release-Henry,CN21,K,Gregory Henry,en,release-quote,2021-08-06,,14,0,0,0,0,0,0
+Q-CN-release-Fedorov,CN21,K,Valery M. Fedorov,en,release-quote,2021-08-06,,35,0,0,0,0,0,0
+Q-CN-release-Willson,CN21,K,Richard C. Willson,en,release-quote,2021-08-06,,127,0,0,0,0,0,0
+Q-CN-release-Zhang,CN21,K,WeiJia Zhang,en,release-quote,2021-08-06,,66,0,0,0,0,0,0
+Q-CN-release-Yan,CN21,K,Hong Yan,en,release-quote,2021-08-06,,9,0,0,0,0,0,0
+Q-CN-release-Elias,CN21,K,Ana G. Elias,en,release-quote,2021-08-06,,9,0,0,0,0,0,0
+Q-CN-release-Soon,CN21,K,Willie Soon,en,release-quote,2021-08-06,,103,0,0,0,0,0,0
+Q-CN-release-Szarka,CN21,K,László Szarka,en,release-quote,2021-08-06,,32,0,0,0,0,0,0
+Q-CN-ET-Connolly,CN21,K,Ronan Connolly,en,press-quote,2021-08-16,,146,0,0,0,0,0,0
+Q-CN-ET-Soon,CN21,K,Willie Soon,en,press-quote,2021-08-16,,168,0,0,6,1,0,7
+Q-CN-ET-Szarka,CN21,K,László Szarka,en,press-quote,2021-08-16,,73,0,0,0,0,0,0
+C-CN-open-letter,CN21,K,R.Connolly+Soon+M.Connolly,en,open-letter,2021-09-10,,3488,0,0,20,0,0,20
+OM-2011-12-06a#001,FR11,M,Foster,en,reply,2011-12-06 15:31,toto,29,0,0,0,0,0,0
+OM-2011-12-06a#002,FR11,M,Foster,en,reply,2011-12-06 17:15,Alden Griffith,64,0,0,0,0,0,0
+OM-2011-12-06a#003,FR11,M,Foster,en,reply,2011-12-06 15:40,BigTexan,11,0,0,0,0,0,0
+OM-2011-12-06a#004,FR11,M,Foster,en,reply,2011-12-06 16:54,MikeCoombes,79,0,0,0,0,0,0
+OM-2011-12-06a#005,FR11,M,Foster,en,reply,2011-12-06 17:08,Steve L,59,0,0,0,0,0,0
+OM-2011-12-06a#006,FR11,M,Foster,en,reply,2011-12-06 17:21,Koeny,12,0,0,0,0,0,0
+OM-2011-12-06a#007,FR11,M,Foster,en,reply,2011-12-06 18:09,Jos Hagelaars,77,0,0,0,0,0,0
+OM-2011-12-06a#008,FR11,M,Foster,en,reply,2011-12-06 18:42,KenM,45,0,0,0,0,0,0
+OM-2011-12-06a#009,FR11,M,Foster,en,reply,2011-12-07 00:19,Ken,40,0,0,0,0,0,0
+OM-2011-12-06a#010,FR11,M,Foster,en,reply,2011-12-07 09:23,Slioch,79,0,0,0,0,0,0
+OM-2011-12-06a#011,FR11,M,Foster,en,reply,2011-12-07 20:11,KenM,90,0,0,0,0,0,0
+OM-2011-12-06a#012,FR11,M,Foster,en,reply,2011-12-06 19:23,Ed Davies,23,0,0,0,0,0,0
+OM-2011-12-06a#013,FR11,M,Foster,en,reply,2011-12-06 20:39,CM,13,0,0,0,0,0,0
+OM-2011-12-06a#014,FR11,M,Foster,en,reply,2011-12-06 22:28,BobN,27,0,0,0,0,0,0
+OM-2011-12-06a#015,FR11,M,Foster,en,reply,2011-12-06 22:42,R James,7,0,0,0,0,0,0
+OM-2011-12-06a#016,FR11,M,Foster,en,reply,2011-12-07 01:06,Chris,19,0,0,0,0,0,0
+OM-2011-12-06a#017,FR11,M,Foster,en,reply,2011-12-07 03:23,Chris,125,0,0,0,0,0,0
+OM-2011-12-06a#018,FR11,M,Foster,en,reply,2011-12-07 21:54,Chris,34,0,0,0,0,0,0
+OM-2011-12-06a#019,FR11,M,Foster,en,reply,2011-12-08 00:43,Chris,12,0,0,0,0,0,0
+OM-2011-12-06a#020,FR11,M,Foster,en,reply,2011-12-07 02:02,mt,31,0,0,0,0,0,0
+OM-2011-12-06a#021,FR11,M,Foster,en,reply,2011-12-07 02:02,mt,31,0,0,0,0,0,0
+OM-2011-12-06a#022,FR11,M,Foster,en,reply,2011-12-07 02:02,mt,36,0,0,0,0,0,0
+OM-2011-12-06a#023,FR11,M,Foster,en,reply,2011-12-07 02:02,mt,24,0,0,0,0,0,0
+OM-2011-12-06a#024,FR11,M,Foster,en,reply,2011-12-07 15:27,KR,103,0,0,0,0,0,0
+OM-2011-12-06a#025,FR11,M,Foster,en,reply,2011-12-09 19:49,Colin Aldridge,77,1,0,0,0,0,1
+OM-2011-12-06a#026,FR11,M,Foster,en,reply,2011-12-09 22:54,toto,8,0,0,0,0,0,0
+OM-2011-12-06a#027,FR11,M,Foster,en,reply,2011-12-10 23:39,Salamano,120,0,0,0,0,0,0
+OM-2011-12-06a#028,FR11,M,Foster,en,reply,2011-12-11 00:41,Henk Lankamp,41,0,0,0,0,0,0
+OM-2011-12-06a#029,FR11,M,Foster,en,reply,2011-12-12 16:02,S Basinger,52,0,0,0,0,0,0
+OM-2011-12-06a#030,FR11,M,Foster,en,reply,2011-12-15 20:24,dana1981,20,0,0,0,0,0,0
+OM-2011-12-06a#031,FR11,M,Foster,en,reply,2011-12-16 14:57,Colin Aldridge,72,0,0,0,0,0,0
+OM-2011-12-06a#032,FR11,M,Foster,en,reply,2011-12-17 12:04,Chris Carthew,5,0,0,0,1,0,1
+OM-2011-12-06a#033,FR11,M,Foster,en,reply,2011-12-18 03:24,Chris Carthew,26,0,1,1,0,0,2
+OM-2011-12-06a#034,FR11,M,Foster,en,reply,2011-12-20 01:30,Chris Carthew,74,0,0,0,0,0,0
+OM-2011-12-06a#035,FR11,M,Foster,en,reply,2011-12-20 03:24,Chris Carthew,196,0,0,0,2,0,2
+OM-2011-12-06a#036,FR11,M,Foster,en,reply,2011-12-18 03:18,Chris Carthew,37,0,0,0,0,0,0
+OM-2011-12-06a#037,FR11,M,Foster,en,reply,2011-12-18 22:18,Chris Carthew,14,0,0,0,0,0,0
+OM-2011-12-06a#038,FR11,M,Foster,en,reply,2011-12-20 00:10,elspi,68,0,0,0,0,0,0
+OM-2011-12-06a#039,FR11,M,Foster,en,reply,2011-12-20 00:24,Chris Carthew,17,0,0,0,0,1,1
+OM-2011-12-06a#040,FR11,M,Foster,en,reply,2011-12-18 15:19,Bruce,8,0,0,0,0,0,0
+OM-2011-12-06a#041,FR11,M,Foster,en,reply,2011-12-25 01:29,Chris Carthew,409,0,5,0,1,0,6
+OM-2011-12-06a#042,FR11,M,Foster,en,reply,2011-12-21 07:15,Badnon Hepekl,31,0,0,1,0,0,1
+OM-2011-12-06a#043,FR11,M,Foster,en,reply,2011-12-21 07:15,Badnon Hepekl,164,0,0,1,0,0,1
+OM-2011-12-06a#044,FR11,M,Foster,en,reply,2011-12-22 18:11,Colin Aldridge,58,0,1,0,0,0,1
+OM-2011-12-06a#045,FR11,M,Foster,en,reply,2011-12-23 08:47,Colin Aldridge,46,0,0,0,1,0,1
+OM-2011-12-06a#046,FR11,M,Foster,en,reply,2011-12-23 08:47,Colin Aldridge,66,0,0,0,0,0,0
+OM-2011-12-06a#047,FR11,M,Foster,en,reply,2011-12-23 08:47,Colin Aldridge,7,0,1,0,0,0,1
+OM-2011-12-06a#048,FR11,M,Foster,en,reply,2012-01-11 15:12,Kevin C,187,1,2,1,0,0,4
+OM-2011-12-06a#049,FR11,M,Foster,en,reply,2012-02-04 09:36,Michael Brown,2,0,0,0,0,0,0
+OM-2011-12-06a#050,FR11,M,Foster,en,reply,2012-02-05 22:29,Michael Brown,50,0,0,0,2,0,2
+OM-2011-12-06a#051,FR11,M,Foster,en,reply,2012-04-29 08:04,Erica,43,0,0,0,0,0,0
+OM-2011-12-06a#052,FR11,M,Foster,en,reply,2012-04-30 04:32,Erica,114,0,0,1,0,0,1
+OM-2011-12-06a#053,FR11,M,Foster,en,reply,2012-04-30 07:02,Erica,134,0,0,1,0,0,1
+OM-2011-12-06a#054,FR11,M,Foster,en,reply,2012-05-04 13:28,rafval,3,0,0,0,0,0,0
+OM-2011-12-15#001,FR11,M,Foster,en,reply,2011-12-15 22:24,Robert,76,0,0,0,0,0,0
+OM-2011-12-15#002,FR11,M,Foster,en,reply,2011-12-16 03:51,Brian Crounse (@syphax),42,0,0,0,0,0,0
+OM-2011-12-15#003,FR11,M,Foster,en,reply,2011-12-17 01:49,GregH,38,0,0,0,0,0,0
+OM-2011-12-15#004,FR11,M,Foster,en,reply,2012-01-03 12:57,John Brookes,31,0,0,0,0,0,0
+OM-2012-12-01#001,FR11*,M,Foster,en,reply,2012-12-02 01:51,Tom Dayton,4,0,0,0,0,0,0
+OM-2012-12-01#002,FR11*,M,Foster,en,reply,2012-12-03 22:45,ontspan,31,0,0,0,0,0,0
+OM-2012-12-01#003,FR11*,M,Foster,en,reply,2012-12-04 00:49,rabiddoomsayer,38,0,0,0,0,0,0
+OM-2012-12-01#004,FR11*,M,Foster,en,reply,2012-12-07 15:27,Steven Earl Salmony,10,0,0,0,0,0,0
+OM-2012-12-01#005,FR11*,M,Foster,en,reply,2012-12-07 17:32,Aaron Lewis,137,0,1,1,2,2,6
+OM-2011-12-06b#001,FR11,M,Foster,en,reply,2011-12-06 22:24,B Buckner,52,0,0,0,0,0,0
+KL-2011-12-08#001,FR11,M,Rahmstorf,de,reply,Andreas,Andreas,13,0,0,0,0,0,0
+KL-2011-12-08#002,FR11,M,Rahmstorf,de,reply,Jochen Binikowski,Jochen Binikowski,24,0,0,0,0,0,0
+KL-2011-12-08#003,FR11,M,Rahmstorf,de,reply,Eddy,Eddy,104,0,0,0,0,0,0
+KL-2011-12-08#004,FR11,M,Rahmstorf,de,reply,Gerd Esser,Gerd Esser,43,0,0,0,0,0,0
+KL-2012-09-27#001,FR11,M,Rahmstorf,de,reply,2012-09-27,Gute Idee,19,0,0,0,0,0,0
+KL-2012-09-27#002,FR11,M,Rahmstorf,de,reply,2012-09-27,@Becker: Technische Lösung Update,32,0,0,0,0,0,0
+KL-2012-09-27#003,FR11,M,Rahmstorf,de,reply,2012-09-28 04:09,Ole Sumfleth,108,0,0,0,0,0,0
+KL-2012-09-27#004,FR11,M,Rahmstorf,de,reply,2012-09-27,Ein paar dumme Fragen…,120,0,0,0,0,0,0
+KL-2012-09-27#005,FR11,M,Rahmstorf,de,reply,2012-09-27,Auch noch ein paar Fragen,38,0,0,0,0,0,0
+KL-2012-09-27#006,FR11,M,Rahmstorf,de,reply,2012-09-27,@Becker Widget verfügbar,91,0,0,0,0,0,0
+KL-2012-09-27#007,FR11,M,Rahmstorf,de,reply,2012-09-30 13:26,Gunnar Innerhofer,64,0,0,0,0,0,0
+KL-2012-09-27#008,FR11,M,Rahmstorf,de,reply,2012-09-27,rahmstorfsche,93,0,0,0,0,0,0
+KL-2012-09-27#010,FR11,M,Rahmstorf,de,reply,2012-09-27,Tropopause,14,0,0,0,0,0,0
+KL-2012-09-27#011,FR11,M,Rahmstorf,de,reply,2012-09-27,Widget,5,0,0,0,0,0,0
+KL-2012-09-27#012,FR11,M,Rahmstorf,de,reply,2012-09-27,IR-Absorption,19,0,0,0,0,0,0
+KL-2012-09-27#013,FR11,M,Rahmstorf,de,reply,2012-09-27,Gibt es das beschriebene Plateau?,11,0,0,0,0,0,0
+KL-2012-09-27#014,FR11,M,Rahmstorf,de,reply,2012-11-06 09:21,kai,37,0,0,1,0,0,1
+KL-2012-09-27#015,FR11,M,Rahmstorf,de,reply,2012-09-27,Trickgrafik und Hockey-Stick,117,0,0,0,1,0,1
+KL-2012-09-27#016,FR11,M,Rahmstorf,de,reply,2012-09-27,Hide the decline,22,0,0,0,0,0,0
+WUWT-2012-01-09#001,LS11*,K,Scafetta,en,reply,2012-01-09 12:45,tallbloke,656,0,1,0,0,0,1
+WUWT-2012-01-09#002,LS11*,K,Scafetta,en,reply,2012-01-09 13:27,Goodwin,35,0,0,0,0,0,0
+WUWT-2012-01-09#003,LS11*,K,Scafetta,en,reply,2012-01-09 13:39,Vukcevic,14,0,0,0,0,0,0
+WUWT-2012-01-09#004,LS11*,K,Scafetta,en,reply,2012-01-09 14:05,Svalgaard,165,0,0,1,0,0,1
+WUWT-2012-01-09#005,LS11*,K,Scafetta,en,reply,2012-01-09 14:49,Vukcevic,207,0,0,0,0,0,0
+WUWT-2012-01-09#006,LS11*,K,Scafetta,en,reply,2012-01-09 15:50,Goodwin,63,0,0,0,0,0,0
+WUWT-2012-01-09#007,LS11*,K,Scafetta,en,reply,2012-01-09 15:56,Vukcevic,48,0,0,0,0,0,0
+WUWT-2012-01-09#008,LS11*,K,Scafetta,en,reply,2012-01-09 16:36,Cavanagh,71,0,0,0,0,0,0
+WUWT-2012-01-09#009,LS11*,K,Scafetta,en,reply,2012-01-09 17:38,Cotton,36,0,0,0,0,0,0
+WUWT-2012-01-09#010,LS11*,K,Scafetta,en,reply,2012-01-10 07:12,Vukcevic,250,0,2,0,0,0,2
+WUWT-2012-01-09#011,LS11*,K,Scafetta,en,reply,2012-01-10 10:34,Vukcevic,96,0,0,0,0,0,0
+WUWT-2012-01-09#012,LS11*,K,Scafetta,en,reply,2012-01-10 18:51,thepompousgit,49,0,0,0,0,0,0
+WUWT-2012-01-09#013,LS11*,K,Scafetta,en,reply,2012-01-11 04:55,Paul_K,136,0,0,0,0,0,0
+WUWT-2012-01-09#014,LS11*,K,Scafetta,en,reply,2012-01-11 15:11,Pterostyrax,87,0,0,0,0,0,0
+WUWT-2012-01-09#015,LS11*,K,Scafetta,en,reply,2012-01-11 19:21,Andres,21,0,0,0,0,0,0
+WUWT-2011-07-25#001,LS11,K,Scafetta,en,reply,2011-07-25 12:15,,314,0,0,0,0,0,0
+WUWT-2011-07-25#002,LS11,K,Loehle,en,reply,2011-07-25 12:24,,71,0,0,0,0,0,0
+WUWT-2011-07-25#003,LS11,K,Loehle,en,reply,2011-07-25 12:26,Mosher,40,0,0,0,0,0,0
+WUWT-2011-07-25#004,LS11,K,Loehle,en,reply,2011-07-25 12:48,,120,0,0,0,1,0,1
+WUWT-2011-07-25#005,LS11,K,Loehle,en,reply,2011-07-25 13:25,Cobb,84,0,0,0,0,0,0
+WUWT-2011-07-25#006,LS11,K,Loehle,en,reply,2011-07-25 13:44,Mathew,19,0,0,0,0,0,0
+WUWT-2011-07-25#007,LS11,K,Scafetta,en,reply,2011-07-25 14:43,Eschenbach,174,0,0,0,0,0,0
+WUWT-2011-07-25#008,LS11,K,Scafetta,en,reply,2011-07-25 15:05,Vukcevic,20,0,0,0,0,0,0
+WUWT-2011-07-25#009,LS11,K,Loehle,en,reply,2011-07-25 16:13,Eschenbach,209,0,0,0,0,0,0
+WUWT-2011-07-25#010,LS11,K,Scafetta,en,reply,2011-07-25 16:39,Svalgaard,145,1,0,0,0,0,1
+WUWT-2011-07-25#011,LS11,K,Scafetta,en,reply,2011-07-25 17:44,Eschenbach,34,0,0,0,0,0,0
+WUWT-2011-07-25#012,LS11,K,Scafetta,en,reply,2011-07-25 18:06,Jonas,65,0,1,0,0,0,1
+WUWT-2011-07-25#013,LS11,K,Loehle,en,reply,2011-07-25 18:15,Sharp,148,0,0,0,0,0,0
+WUWT-2011-07-25#014,LS11,K,Scafetta,en,reply,2011-07-25 18:16,Max,20,0,0,0,0,0,0
+WUWT-2011-07-25#015,LS11,K,Loehle,en,reply,2011-07-25 18:17,Max,15,0,0,0,0,0,0
+WUWT-2011-07-25#016,LS11,K,Loehle,en,reply,2011-07-25 18:50,,81,0,0,0,0,0,0
+WUWT-2011-07-25#017,LS11,K,Scafetta,en,reply,2011-07-25 19:07,Eschenbach,49,0,0,0,0,0,0
+WUWT-2011-07-25#018,LS11,K,Loehle,en,reply,2011-07-25 19:16,Eschenbach,48,0,0,0,0,0,0
+WUWT-2011-07-25#019,LS11,K,Scafetta,en,reply,2011-07-26 06:07,Eschenbach,113,0,0,0,1,0,1
+WUWT-2011-07-25#020,LS11,K,Scafetta,en,reply,2011-07-26 06:40,Svalgaard,41,0,0,0,0,0,0
+WUWT-2011-07-25#021,LS11,K,Loehle,en,reply,2011-07-26 09:21,RACookPE1978,237,0,0,0,0,0,0
+WUWT-2011-07-25#022,LS11,K,Loehle,en,reply,2011-07-26 09:44,,52,0,0,0,0,0,0
+WUWT-2011-07-25#023,LS11,K,Loehle,en,reply,2011-07-26 10:11,,77,0,0,1,0,0,1
+WUWT-2011-07-25#024,LS11,K,Scafetta,en,reply,2011-07-26 11:01,Svalgaard,66,0,0,0,0,0,0
+WUWT-2011-07-25#025,LS11,K,Scafetta,en,reply,2011-07-26 12:13,Svalgaard,262,0,0,0,0,0,0
+WUWT-2011-07-25#026,LS11,K,Loehle,en,reply,2011-07-26 12:44,Svalgaard,69,0,0,0,0,0,0
+WUWT-2011-07-25#027,LS11,K,Scafetta,en,reply,2011-07-26 13:25,Svalgaard,40,0,0,0,0,0,0
+WUWT-2011-07-25#028,LS11,K,Loehle,en,reply,2011-07-26 13:35,Svalgaard,67,0,0,0,0,0,0
+WUWT-2011-07-25#029,LS11,K,Loehle,en,reply,2011-07-26 14:03,Springer,82,0,0,0,0,0,0
+WUWT-2011-07-25#030,LS11,K,Scafetta,en,reply,2011-07-26 15:00,Svalgaard,104,0,0,0,0,0,0
+WUWT-2011-07-25#031,LS11,K,Scafetta,en,reply,2011-07-26 15:30,Eschenbach,111,0,0,0,0,0,0
+WUWT-2011-07-25#032,LS11,K,Scafetta,en,reply,2011-07-26 15:49,Springer,45,0,0,0,0,0,0
+WUWT-2011-07-25#033,LS11,K,Scafetta,en,reply,2011-07-26 16:30,Eschenbach,95,0,1,0,0,0,1
+WUWT-2011-07-25#034,LS11,K,Loehle,en,reply,2011-07-26 16:38,Eschenbach,12,0,0,0,0,0,0
+WUWT-2011-07-25#035,LS11,K,Scafetta,en,reply,2011-07-26 16:56,Eschenbach,132,0,1,0,0,0,1
+WUWT-2011-07-25#036,LS11,K,Scafetta,en,reply,2011-07-26 17:57,Svalgaard,33,0,0,0,0,0,0
+WUWT-2011-07-25#037,LS11,K,Scafetta,en,reply,2011-07-26 18:09,Eschenbach,43,0,1,0,0,0,1
+WUWT-2011-07-25#038,LS11,K,Scafetta,en,reply,2011-07-26 18:43,Svalgaard,117,0,0,0,0,0,0
+WUWT-2011-07-25#039,LS11,K,Scafetta,en,reply,2011-07-27 01:13,Eschenbach,128,0,1,0,0,0,1
+WUWT-2011-07-25#040,LS11,K,Scafetta,en,reply,2011-07-27 02:03,Svalgaard,474,0,0,0,0,0,0
+WUWT-2011-07-25#041,LS11,K,Scafetta,en,reply,2011-07-27 03:51,Jamie,28,0,0,0,0,0,0
+WUWT-2011-07-25#042,LS11,K,Scafetta,en,reply,2011-07-27 04:47,tallbloke,189,0,0,0,0,0,0
+WUWT-2011-07-25#043,LS11,K,Scafetta,en,reply,2011-07-27 05:25,Svalgaard,162,0,0,0,0,0,0
+WUWT-2011-07-25#044,LS11,K,Loehle,en,reply,2011-07-27 07:15,Eschenbach,348,0,0,0,0,0,0
+WUWT-2011-07-25#045,LS11,K,Scafetta,en,reply,2011-07-27 08:09,Courtney,98,0,0,0,0,0,0
+WUWT-2011-07-25#046,LS11,K,Scafetta,en,reply,2011-07-27 09:57,Svalgaard,81,0,0,0,0,0,0
+WUWT-2011-07-25#047,LS11,K,Scafetta,en,reply,2011-07-27 11:06,Svalgaard,75,0,0,1,0,0,1
+WUWT-2011-07-25#048,LS11,K,Loehle,en,reply,2011-07-27 11:37,Oldberg,68,0,0,0,0,0,0
+WUWT-2011-07-25#049,LS11,K,Scafetta,en,reply,2011-07-27 11:49,Svalgaard,111,0,0,0,0,0,0
+WUWT-2011-07-25#050,LS11,K,Scafetta,en,reply,2011-07-27 12:39,Svalgaard,94,0,0,0,0,2,2
+WUWT-2011-07-25#051,LS11,K,Loehle,en,reply,2011-07-27 12:46,Svalgaard,19,0,0,0,0,0,0
+WUWT-2011-07-25#052,LS11,K,Scafetta,en,reply,2011-07-27 12:48,Svalgaard,81,0,0,0,0,0,0
+WUWT-2011-07-25#053,LS11,K,Scafetta,en,reply,2011-07-27 15:27,Svalgaard,196,0,0,0,0,0,0
+WUWT-2011-07-25#054,LS11,K,Scafetta,en,reply,2011-07-28 16:35,Jonas,71,0,0,0,0,0,0
+WUWT-2011-07-25#055,LS11,K,Scafetta,en,reply,2011-07-28 21:14,Courtney,616,0,0,0,0,0,0
+WUWT-2011-07-25#056,LS11,K,Scafetta,en,reply,2011-07-29 19:46,Courtney,470,0,0,1,0,0,1
+WUWT-2011-07-25#057,LS11,K,Scafetta,en,reply,2011-07-29 22:21,Jonas,50,0,0,0,0,0,0
+WUWT-2011-07-25#058,LS11,K,Scafetta,en,reply,2011-07-30 03:04,Courtney,165,0,0,0,0,0,0
+WUWT-2011-07-25#059,LS11,K,Scafetta,en,reply,2011-07-30 03:22,Jonas,23,0,0,0,0,0,0
+WUWT-2011-07-25#060,LS11,K,Scafetta,en,reply,2011-07-30 05:36,Jonas,174,0,0,0,0,0,0
+WUWT-2011-07-25#061,LS11,K,Scafetta,en,reply,2011-07-30 11:14,Jonas,60,0,0,0,0,0,0
+CE-2011-07-25#001,LS11,K,Loehle,en,reply,2011-07-25 14:23,Dias,61,0,0,0,0,0,0
+CE-2011-07-25#002,LS11,K,Loehle,en,reply,2011-07-25 14:27,,56,0,0,0,0,0,0
+CE-2011-07-25#003,LS11,K,Loehle,en,reply,2011-07-25 19:16,,39,0,0,0,0,0,0
+CE-2011-07-25#004,LS11,K,Loehle,en,reply,2011-07-25 14:31,Neil,82,0,1,0,0,0,1
+CE-2011-07-25#005,LS11,K,Loehle,en,reply,2011-07-25 16:27,,31,0,0,0,0,0,0
+CE-2011-07-25#006,LS11,K,Loehle,en,reply,2011-07-25 16:36,,34,0,0,0,0,0,0
+CE-2011-07-25#007,LS11,K,Loehle,en,reply,2011-07-26 08:19,,28,0,0,0,0,0,0
+CE-2011-07-25#008,LS11,K,Loehle,en,reply,2011-07-25 15:30,,17,0,0,0,0,0,0
+CE-2011-07-25#009,LS11,K,Scafetta,en,reply,2011-07-25 15:39,,72,0,0,0,0,0,0
+CE-2011-07-25#010,LS11,K,Loehle,en,reply,2011-07-25 14:48,,50,0,0,0,0,0,0
+CE-2011-07-25#011,LS11,K,Loehle,en,reply,2011-07-25 15:10,Dias,73,0,0,1,0,1,2
+CE-2011-07-25#012,LS11,K,Loehle,en,reply,2011-07-25 19:20,,79,0,0,1,0,0,1
+CE-2011-07-25#013,LS11,K,Scafetta,en,reply,2011-07-25 15:02,,358,0,0,0,0,0,0
+CE-2011-07-25#014,LS11,K,Scafetta,en,reply,2011-07-25 15:37,Dias,98,0,0,1,0,1,2
+CE-2011-07-25#015,LS11,K,Scafetta,en,reply,2011-07-25 15:44,,112,0,0,0,0,0,0
+CE-2011-07-25#016,LS11,K,Scafetta,en,reply,2011-07-25 15:53,,29,0,0,0,0,0,0
+CE-2011-07-25#017,LS11,K,Scafetta,en,reply,2011-07-25 16:28,,16,0,0,0,0,0,0
+CE-2011-07-25#018,LS11,K,Scafetta,en,reply,2011-07-25 15:45,Hunter,12,0,0,0,0,0,0
+CE-2011-07-25#019,LS11,K,Loehle,en,reply,2011-07-25 16:08,Neil,36,0,0,0,0,0,0
+CE-2011-07-25#020,LS11,K,Scafetta,en,reply,2011-07-25 15:48,Eric,24,0,0,0,0,0,0
+CE-2011-07-25#021,LS11,K,Loehle,en,reply,2011-07-25 15:48,,129,0,0,0,1,0,1
+CE-2011-07-25#022,LS11,K,Loehle,en,reply,2011-07-26 08:22,,20,0,0,0,0,0,0
+CE-2011-07-25#023,LS11,K,Loehle,en,reply,2011-07-25 16:11,tonyb,57,0,0,0,0,0,0
+CE-2011-07-25#024,LS11,K,Loehle,en,reply,2011-07-25 16:21,,86,0,0,0,0,0,0
+CE-2011-07-25#025,LS11,K,Scafetta,en,reply,2011-07-25 16:39,Fred,91,0,0,0,0,0,0
+CE-2011-07-25#026,LS11,K,Scafetta,en,reply,2011-07-25 17:09,,132,0,0,0,0,0,0
+CE-2011-07-25#027,LS11,K,Loehle,en,reply,2011-07-25 16:40,Fred,62,0,0,0,0,0,0
+CE-2011-07-25#028,LS11,K,Loehle,en,reply,2011-07-25 16:50,,19,0,0,0,0,0,0
+CE-2011-07-25#029,LS11,K,Loehle,en,reply,2011-07-25 17:01,Fred,113,0,0,0,0,0,0
+CE-2011-07-25#030,LS11,K,Loehle,en,reply,2011-07-25 17:21,Fred,108,0,0,0,0,0,0
+CE-2011-07-25#031,LS11,K,Loehle,en,reply,2011-07-25 17:06,,12,0,0,0,0,0,0
+CE-2011-07-25#032,LS11,K,Loehle,en,reply,2011-07-25 19:29,,22,0,0,0,0,0,0
+CE-2011-07-25#033,LS11,K,Loehle,en,reply,2011-07-26 08:26,,49,0,0,0,0,0,0
+CE-2011-07-25#034,LS11,K,Loehle,en,reply,2011-07-25 19:29,,20,0,0,0,0,0,0
+CE-2011-07-25#035,LS11,K,Loehle,en,reply,2011-07-25 19:48,,125,0,1,1,0,0,2
+CE-2011-07-25#036,LS11,K,Scafetta,en,reply,2011-07-25 20:09,,30,0,0,0,0,0,0
+CE-2011-07-25#037,LS11,K,Loehle,en,reply,2011-07-25 20:19,,90,0,0,0,0,0,0
+CE-2011-07-25#038,LS11,K,Scafetta,en,reply,2011-07-25 20:25,,72,0,0,0,0,0,0
+CE-2011-07-25#039,LS11,K,Loehle,en,reply,2011-07-25 21:19,,41,0,0,0,0,0,0
+CE-2011-07-25#040,LS11,K,Scafetta,en,reply,2011-07-25 21:27,Fred,94,0,0,0,0,0,0
+CE-2011-07-25#041,LS11,K,Loehle,en,reply,2011-07-25 20:20,,16,0,0,0,0,0,0
+CE-2011-07-25#042,LS11,K,Scafetta,en,reply,2011-07-25 20:31,,41,0,0,0,0,0,0
+CE-2011-07-25#043,LS11,K,Loehle,en,reply,2011-07-25 21:02,,163,0,1,0,0,0,1
+CE-2011-07-25#044,LS11,K,Loehle,en,reply,2011-07-25 21:53,,90,0,0,0,0,0,0
+CE-2011-07-25#045,LS11,K,Loehle,en,reply,2011-07-25 22:12,,17,0,0,0,0,0,0
+CE-2011-07-25#046,LS11,K,Scafetta,en,reply,2011-07-25 22:44,,252,0,0,0,0,0,0
+CE-2011-07-25#047,LS11,K,Scafetta,en,reply,2011-07-26 10:55,Neil,44,0,0,0,0,0,0
+CE-2011-07-25#048,LS11,K,Loehle,en,reply,2011-07-26 08:31,,13,0,0,0,0,0,0
+CE-2011-07-25#049,LS11,K,Scafetta,en,reply,2011-07-25 22:45,,28,0,0,0,0,0,0
+CE-2011-07-25#050,LS11,K,Loehle,en,reply,2011-07-26 08:33,,26,0,0,0,0,0,0
+CE-2011-07-25#051,LS11,K,Loehle,en,reply,2011-07-26 08:35,,34,0,0,0,0,0,0
+CE-2011-07-25#052,LS11,K,Loehle,en,reply,2011-07-26 08:37,Bob,52,0,0,0,0,0,0
+CE-2011-07-25#053,LS11,K,Loehle,en,reply,2011-07-26 11:30,Bob,50,0,0,0,0,0,0
+CE-2011-07-25#054,LS11,K,Loehle,en,reply,2011-07-26 08:38,,24,0,0,0,0,0,0
+CE-2011-07-25#055,LS11,K,Loehle,en,reply,2011-07-26 11:31,,16,0,0,0,0,0,0
+CE-2011-07-25#056,LS11,K,Loehle,en,reply,2011-07-26 11:34,,60,0,0,0,0,0,0
+CE-2011-07-25#057,LS11,K,Loehle,en,reply,2011-07-26 11:37,Vukcevic,44,0,0,0,0,0,0
+CE-2011-07-25#058,LS11,K,Loehle,en,reply,2011-07-26 11:42,,73,0,0,0,0,0,0
+CE-2011-07-25#059,LS11,K,Loehle,en,reply,2011-07-26 11:39,,17,0,0,0,0,0,0
+CE-2011-07-25#060,LS11,K,Loehle,en,reply,2011-07-26 13:27,John N-G,170,0,0,1,0,0,1
+CE-2011-07-25#061,LS11,K,Loehle,en,reply,2011-07-26 16:26,Jim,43,0,0,0,0,0,0
+CE-2011-07-25#062,LS11,K,Scafetta,en,reply,2011-07-26 14:32,Fred,174,0,0,0,0,0,0
+CE-2011-07-25#063,LS11,K,Scafetta,en,reply,2011-07-26 15:57,Fred,148,0,0,0,0,0,0
+CE-2011-07-25#064,LS11,K,Scafetta,en,reply,2011-07-26 16:56,,44,0,0,0,0,0,0
+CE-2011-07-25#065,LS11,K,Loehle,en,reply,2011-07-26 12:56,Chris,31,0,1,1,1,0,3
+CE-2011-07-25#066,LS11,K,Loehle,en,reply,2011-07-26 12:48,,50,0,0,0,0,0,0
+CE-2011-07-25#067,LS11,K,Scafetta,en,reply,2011-07-26 15:32,,16,0,0,0,0,0,0
+CE-2011-07-25#068,LS11,K,Scafetta,en,reply,2011-07-26 16:06,,13,0,0,0,0,0,0
+CE-2011-07-25#069,LS11,K,Loehle,en,reply,2011-07-26 16:00,,29,0,0,0,0,0,0
+CE-2011-07-25#070,LS11,K,Scafetta,en,reply,2011-07-26 16:16,,16,0,0,0,0,0,0
+CE-2011-07-25#071,LS11,K,Scafetta,en,reply,2011-07-26 16:42,,81,0,0,0,0,0,0
+CE-2011-07-25#072,LS11,K,Scafetta,en,reply,2011-07-26 19:13,,23,0,0,0,0,0,0
+CE-2011-07-25#073,LS11,K,Loehle,en,reply,2011-07-26 16:03,,38,0,0,0,0,0,0
+CE-2011-07-25#074,LS11,K,Loehle,en,reply,2011-07-27 10:30,,104,0,0,0,0,0,0
+CE-2011-07-25#075,LS11,K,Loehle,en,reply,2011-07-26 16:30,,57,0,0,0,0,0,0
+CE-2011-07-25#076,LS11,K,Loehle,en,reply,2011-07-26 18:25,,62,0,0,0,0,0,0
+CE-2011-07-25#077,LS11,K,Scafetta,en,reply,2011-07-26 20:30,Stephen,19,0,0,0,0,0,0
+CE-2011-07-25#078,LS11,K,Loehle,en,reply,2011-07-26 21:34,,42,0,0,0,0,0,0
+CE-2011-07-25#079,LS11,K,Scafetta,en,reply,2011-07-26 22:11,,93,0,1,0,0,0,1
+CE-2011-07-25#080,LS11,K,Scafetta,en,reply,2011-07-26 22:54,,83,0,0,0,0,0,0
+WUWT-2012-03-11#001,LS11*,K,Scafetta,en,reply,2012-03-12 07:40,Svalgaard,478,0,1,0,0,0,1
+WUWT-2012-03-11#002,LS11*,K,Scafetta,en,reply,2012-03-12 09:34,Svalgaard,234,0,0,0,0,0,0
+WUWT-2012-03-11#003,LS11*,K,Scafetta,en,reply,2012-03-12 10:28,,244,0,0,0,0,0,0
+WUWT-2012-03-11#004,LS11*,K,Scafetta,en,reply,2012-03-12 11:07,dana1981,188,0,0,0,0,0,0
+WUWT-2012-03-11#005,LS11*,K,Scafetta,en,reply,2012-03-12 12:48,Svalgaard,52,0,0,0,0,0,0
+WUWT-2012-03-11#006,LS11*,K,Scafetta,en,reply,2012-03-12 13:13,Svalgaard,33,0,0,0,0,0,0
+WUWT-2012-03-11#007,LS11*,K,Scafetta,en,reply,2012-03-12 14:33,Svalgaard,223,0,0,0,0,0,0
+WUWT-2012-03-11#008,LS11*,K,Scafetta,en,reply,2012-03-12 15:14,Svalgaard,93,0,0,0,0,0,0
+WUWT-2012-03-11#009,LS11*,K,Scafetta,en,reply,2012-03-12 15:43,,108,0,0,0,0,0,0
+WUWT-2012-03-11#010,LS11*,K,Scafetta,en,reply,2012-03-12 17:00,dana1981,360,1,0,0,0,0,1
+WUWT-2012-03-11#011,LS11*,K,Scafetta,en,reply,2012-03-12 17:22,Svalgaard,180,0,0,0,0,0,0
+WUWT-2012-03-11#012,LS11*,K,Scafetta,en,reply,2012-03-12 18:05,Svalgaard,208,0,1,0,0,0,1
+WUWT-2012-03-11#013,LS11*,K,Scafetta,en,reply,2012-03-12 18:17,Svalgaard,133,0,0,0,0,0,0
+WUWT-2012-03-11#014,LS11*,K,Scafetta,en,reply,2012-03-12 18:23,,84,0,0,0,0,0,0
+WUWT-2012-03-11#015,LS11*,K,Scafetta,en,reply,2012-03-12 19:02,,79,0,0,0,0,0,0
+WUWT-2012-03-11#016,LS11*,K,Scafetta,en,reply,2012-03-12 19:12,,111,0,0,0,0,0,0
+WUWT-2012-03-11#017,LS11*,K,Scafetta,en,reply,2012-03-12 19:54,Svalgaard,391,0,3,0,0,0,3
+WUWT-2012-03-11#018,LS11*,K,Scafetta,en,reply,2012-03-12 20:19,,351,1,0,0,0,0,1
+WUWT-2012-03-11#019,LS11*,K,Scafetta,en,reply,2012-03-12 20:36,Svalgaard,146,0,0,1,0,0,1
+WUWT-2012-03-11#020,LS11*,K,Scafetta,en,reply,2012-03-13 06:53,Eschenbach,231,0,0,0,0,0,0
+WUWT-2012-03-11#021,LS11*,K,Scafetta,en,reply,2012-03-13 07:47,Svalgaard,332,0,0,1,0,0,1
+WUWT-2012-03-11#022,LS11*,K,Scafetta,en,reply,2012-03-13 08:09,Svalgaard,37,0,0,0,0,0,0
+WUWT-2012-03-11#023,LS11*,K,Scafetta,en,reply,2012-03-13 08:25,Svalgaard,112,0,0,0,0,0,0
+WUWT-2012-03-11#024,LS11*,K,Scafetta,en,reply,2012-03-13 08:48,Svalgaard,74,0,0,0,0,0,0
+WUWT-2012-03-11#025,LS11*,K,Scafetta,en,reply,2012-03-13 09:58,Svalgaard,64,0,0,0,0,0,0
+WUWT-2012-03-11#026,LS11*,K,Scafetta,en,reply,2012-03-13 11:23,Svalgaard,148,0,0,0,0,0,0
+WUWT-2012-03-11#027,LS11*,K,Scafetta,en,reply,2012-03-13 11:40,,221,0,0,0,0,0,0
+WUWT-2012-03-11#028,LS11*,K,Scafetta,en,reply,2012-03-13 12:11,Svalgaard,292,0,0,0,1,0,1
+WUWT-2012-03-11#029,LS11*,K,Scafetta,en,reply,2012-03-13 12:43,Eschenbach,258,0,0,0,0,1,1
+WUWT-2012-03-11#030,LS11*,K,Scafetta,en,reply,2012-03-13 12:48,Svalgaard,81,0,1,0,0,0,1
+WUWT-2012-03-11#031,LS11*,K,Scafetta,en,reply,2012-03-13 13:25,Eschenbach,163,0,0,0,0,0,0
+WUWT-2012-03-11#032,LS11*,K,Scafetta,en,reply,2012-03-13 13:35,Eschenbach,108,0,0,0,0,0,0
+WUWT-2012-03-11#033,LS11*,K,Scafetta,en,reply,2012-03-13 13:46,Eschenbach,56,0,0,0,0,0,0
+WUWT-2012-03-11#034,LS11*,K,Scafetta,en,reply,2012-03-13 14:10,,175,0,0,0,0,0,0
+WUWT-2012-03-11#035,LS11*,K,Scafetta,en,reply,2012-03-13 14:11,Eschenbach,63,0,0,0,0,0,0
+WUWT-2012-03-11#036,LS11*,K,Scafetta,en,reply,2012-03-13 14:25,Eschenbach,67,0,0,1,0,0,1
+WUWT-2012-03-11#037,LS11*,K,Scafetta,en,reply,2012-03-13 15:16,Eschenbach,119,0,0,0,0,0,0
+WUWT-2012-03-11#038,LS11*,K,Scafetta,en,reply,2012-03-13 15:20,Eschenbach,85,0,0,0,0,0,0
+WUWT-2012-03-11#039,LS11*,K,Scafetta,en,reply,2012-03-13 15:24,Eschenbach,42,0,0,0,0,0,0
+WUWT-2012-03-11#040,LS11*,K,Scafetta,en,reply,2012-03-13 16:32,Eschenbach,62,0,0,0,0,0,0
+WUWT-2012-03-11#041,LS11*,K,Scafetta,en,reply,2012-03-13 16:45,Eschenbach,27,0,0,0,0,0,0
+WUWT-2012-03-11#042,LS11*,K,Scafetta,en,reply,2012-03-13 17:11,Eschenbach,228,0,0,0,0,0,0
+WUWT-2012-03-11#043,LS11*,K,Scafetta,en,reply,2012-03-13 17:35,,121,0,0,0,0,0,0
+WUWT-2012-03-11#044,LS11*,K,Scafetta,en,reply,2012-03-13 17:37,Eschenbach,24,0,0,0,0,0,0
+WUWT-2012-03-11#045,LS11*,K,Scafetta,en,reply,2012-03-13 17:39,Eschenbach,23,0,0,0,0,0,0
+WUWT-2012-03-11#046,LS11*,K,Scafetta,en,reply,2012-03-13 18:05,Eschenbach,136,0,0,0,0,0,0
+WUWT-2012-03-11#047,LS11*,K,Scafetta,en,reply,2012-03-13 18:26,Eschenbach,129,0,0,0,0,0,0
+WUWT-2012-03-11#048,LS11*,K,Scafetta,en,reply,2012-03-13 19:41,Eschenbach,433,0,0,0,0,0,0
+WUWT-2012-03-11#049,LS11*,K,Scafetta,en,reply,2012-03-14 06:59,Eschenbach,610,0,1,0,0,0,1
+WUWT-2012-03-11#050,LS11*,K,Scafetta,en,reply,2012-03-14 08:06,,38,0,0,0,0,0,0
+WUWT-2012-03-11#051,LS11*,K,Scafetta,en,reply,2012-03-14 09:58,Eschenbach,204,0,0,0,0,0,0
+WUWT-2012-03-11#052,LS11*,K,Scafetta,en,reply,2012-03-14 11:51,Vukcevic,223,0,0,0,0,0,0
+WUWT-2012-03-11#053,LS11*,K,Scafetta,en,reply,2012-03-14 13:37,Vukcevic,56,0,0,0,0,0,0
+WUWT-2012-03-11#054,LS11*,K,Scafetta,en,reply,2012-03-14 13:41,,76,0,0,0,0,0,0
+WUWT-2012-03-11#055,LS11*,K,Scafetta,en,reply,2012-03-14 16:17,Vukcevic,128,0,1,0,0,0,1
+WUWT-2012-03-11#056,LS11*,K,Scafetta,en,reply,2012-03-14 20:13,Eschenbach,322,0,0,1,0,0,1
+WUWT-2012-03-11#057,LS11*,K,Scafetta,en,reply,2012-03-15 04:53,,90,0,1,0,0,0,1
+WUWT-2012-03-11#058,LS11*,K,Scafetta,en,reply,2012-03-15 08:44,,320,0,0,0,0,0,0
+WUWT-2012-03-11#059,LS11*,K,Scafetta,en,reply,2012-03-15 19:26,,169,0,0,0,0,0,0
+WUWT-2012-03-11#060,LS11*,K,Scafetta,en,reply,2012-03-15 19:39,,41,0,0,0,0,0,0
+WUWT-2012-03-11#061,LS11*,K,Scafetta,en,reply,2012-03-16 15:08,,60,0,0,0,0,0,0
+WUWT-2012-03-11#062,LS11*,K,Scafetta,en,reply,2012-03-16 17:22,,64,0,0,0,0,0,0
+WUWT-2012-03-11#063,LS11*,K,Scafetta,en,reply,2012-03-17 17:23,,83,0,0,0,0,0,0
+WUWT-2012-03-11#064,LS11*,K,Scafetta,en,reply,2012-03-18 09:47,,456,0,0,0,0,0,0
+WUWT-2012-03-11#065,LS11*,K,Scafetta,en,reply,2012-03-18 10:46,,141,0,0,0,0,0,0
+WUWT-2012-03-11#066,LS11*,K,Scafetta,en,reply,2012-03-18 11:11,RACookPE1978,67,0,0,0,0,0,0
+WUWT-2012-03-11#067,LS11*,K,Scafetta,en,reply,2012-03-18 11:18,,87,0,0,0,0,0,0
+WUWT-2012-03-11#068,LS11*,K,Scafetta,en,reply,2012-03-18 16:24,,347,0,0,0,0,0,0
+WUWT-2012-03-11#069,LS11*,K,Scafetta,en,reply,2012-03-19 06:13,,182,0,0,0,0,0,0
+WUWT-2012-03-11#070,LS11*,K,Scafetta,en,reply,2012-03-19 10:38,,143,0,1,0,0,0,1
+WUWT-2012-03-11#071,LS11*,K,Scafetta,en,reply,2012-03-19 10:48,Eschenbach,117,0,0,0,0,0,0
+WUWT-2012-03-11#072,LS11*,K,Scafetta,en,reply,2012-03-19 11:51,,74,0,0,0,0,0,0
+WUWT-2012-03-11#073,LS11*,K,Scafetta,en,reply,2012-03-19 13:38,Eschenbach,26,0,0,0,0,0,0
+WUWT-2012-03-11#074,LS11*,K,Scafetta,en,reply,2012-03-19 13:40,,41,0,0,0,0,0,0

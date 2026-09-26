@@ -7,4 +7,6 @@ These lists fix which words set certainty levels L1–L4 (codebook §4.2) in eac
 | (codebook §4.2 + Appendix C.1) | English | Provisional enumeration in codebook v0.2; to be superseded by the pinned Hyland (2005) lexicon at freeze |
 | `markers_de_v0.1.md` | German | Starter list from the Rahmstorf pilot packet; needs native-speaker review and rulings on the open items before pinning |
 
+**Register lexicon (protocol PC-9, exploratory).** `register_dismissive_v0.1.json` (English and German patterns) and `register_dismissive_v0.1.md` (categories, counting rules, pilot performance).
+
 Every lexicon uses the same five categories: **L1**, **L2**, **L3**, **L4** (boosters, absolutes and unhedged negative universals), and **level-neutral** (approximators and degree intensifiers). Words whose category depends on syntax get an explicit ruling with examples.

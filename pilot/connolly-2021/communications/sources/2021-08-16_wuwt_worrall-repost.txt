@@ -1,0 +1,62 @@
+SOURCE: https://wattsupwiththat.com/2021/08/16/climate-scientists-accuse-the-ipcc-of-cherrypicking-datasets-which-support-their-alarmist-narrative/
+RETRIEVED: 2026-09-26 via Claude desktop in-app browser, DOM innerText (live page; Worrall intro + Epoch Times excerpt (secondary))
+NOTE: verbatim text extraction; images not captured; site furniture left as extracted.
+========================================================================
+
+Guest essay by Eric Worrall
+
+Climate scientist Dr. Ronan Connolly, Dr. Willie Soon and 21 other scientists claim the conclusions of the latest “code red” IPCC climate report, and the certainty with which those conclusions are expressed, are dependent on the IPCC authors’ narrow choice of datasets. The scientists assert that the inclusion of additional credible data sets would have led to very different conclusions about the alleged threat of anthropogenic global warming.
+
+Challenging UN, Study Finds Sun—not CO2—May Be Behind Global Warming
+
+New peer-reviewed paper finds evidence of systemic bias in UN data selection to support climate-change narrativeBy Alex Newman August 16, 2021 Updated: August 16, 2021
+
+The sun and not human emissions of carbon dioxide (CO2) may be the main cause of warmer temperatures in recent decades, according to a new study with findings that sharply contradict the conclusions of the United Nations (UN) Intergovernmental Panel on Climate Change (IPCC).
+
+The peer-reviewed paper, produced by a team of almost two dozen scientists from around the world, concluded that previous studies did not adequately consider the role of solar energy in explaining increased temperatures.
+
+The new study was released just as the UN released its sixth “Assessment Report,” known as AR6, that once again argued in favor of the view that man-kind’s emissions of CO2 were to blame for global warming. The report said human responsibility was “unequivocal.”
+
+But the new study casts serious doubt on the hypothesis.
+
+Calling the blaming of CO2 by the IPCC “premature,” the climate scientists and solar physicists argued in the new paper that the UN IPCC’s conclusions blaming human emissions were based on “narrow and incomplete data about the Sun’s total irradiance.”
+
+Indeed, the global climate body appears to display deliberate and systemic bias in what views, studies, and data are included in its influential reports, multiple authors told The Epoch Times in a series of phone and video interviews.
+
+“Depending on which published data and studies you use, you can show that all of the warming is caused by the sun, but the IPCC uses a different data set to come up with the opposite conclusion,” lead study author Ronan Connolly, Ph.D. told The Epoch Times in a video interview.
+
+“In their insistence on forcing a so-called scientific consensus, the IPCC seems to have decided to consider only those data sets and studies that support their chosen narrative,” he added.
+
+…
+
+Read more: https://www.theepochtimes.com/challenging-un-study-finds-sun-not-co2-may-be-behind-global-warming_3950089.html
+
+The following is a statement released by the scientists.
+
+Click here to view the full document.
+
+The following is the abstract of the study;
+
+How much has the Sun influenced Northern Hemisphere temperature trends? An ongoing debate
+
+Ronan Connolly1,2, Willie Soon1, Michael Connolly2, Sallie Baliunas3, Johan Berglund4, C. John Butler5, Rodolfo Gustavo Cionco6,7, Ana G. Elias8,9, Valery M. Fedorov10, Hermann Harde11, Gregory W. Henry12, Douglas V. Hoyt13, Ole Humlum14, David R. Legates15, Sebastian Lüning16, Nicola Scafetta17, Jan-Erik Solheim18, László Szarka19, Harry van Loon20, Víctor M. Velasco Herrera21, Richard C. Willson22, Hong Yan (艳洪)23 and Weijia Zhang24,25
+
+In order to evaluate how much Total Solar Irradiance (TSI) has influenced Northern Hemisphere surface air temperature trends, it is important to have reliable estimates of both quantities. Sixteen different estimates of the changes in TSI since at least the 19th century were compiled from the literature. Half of these estimates are “low variability” and half are “high variability”. Meanwhile, five largely-independent methods for estimating Northern Hemisphere temperature trends were evaluated using: 1) only rural weather stations; 2) all available stations whether urban or rural (the standard approach); 3) only sea surface temperatures; 4) tree-ring widths as temperature proxies; 5) glacier length records as temperature proxies. The standard estimates which use urban as well as rural stations were somewhat anomalous as they implied a much greater warming in recent decades than the other estimates, suggesting that urbanization bias might still be a problem in current global temperature datasets – despite the conclusions of some earlier studies. Nonetheless, all five estimates confirm that it is currently warmer than the late 19th century, i.e., there has been some “global warming” since the 19th century. For each of the five estimates of Northern Hemisphere temperatures, the contribution from direct solar forcing for all sixteen estimates of TSI was evaluated using simple linear least-squares fitting. The role of human activity on recent warming was then calculated by fitting the residuals to the UN IPCC’s recommended “anthropogenic forcings” time series. For all five Northern Hemisphere temperature series, different TSI estimates suggest everything from no role for the Sun in recent decades (implying that recent global warming is mostly human-caused) to most of the recent global warming being due to changes in solar activity (that is, that recent global warming is mostly natural). It appears that previous studies (including the most recent IPCC reports) which had prematurely concluded the former, had done so because they failed to adequately consider all the relevant estimates of TSI and/or to satisfactorily address the uncertainties still associated with Northern Hemisphere temperature trend estimates. Therefore, several recommendations on how the scientific community can more satisfactorily resolve these issues are provided.
+
+Read more: https://iopscience.iop.org/article/10.1088/1674-4527/21/6/131
+
+An accusation of data cherrypicking to conceal uncertainty and in effect orchestrate a pre-conceived conclusion in my opinion is very serious. Accepting the IPCC’s climate warnings at face value without considering strenuous objections from well qualified scientists as to the quality of the procedures which led to those conclusions could lead to a catastrophic global misallocation of resources.
+
+Update (EW): The following diagram beautifully illustrates how small variations in dataset choice produce wildly different outcomes and conclusions. In this case excluding likely contaminated urban temperature series, only using rural temperature series, produces temperature series which appear to correlate well with natural forcings.
+
+The Attribution Problem for Northern Hermisphere Temperatures. Source A diverse expert panel of global scientists finds blaming climate change mostly on greenhouse gas emissions was premature. Their findings contradict the UN IPCC’s conclusion, which the study shows, is grounded in narrow and incomplete data about the Sun’s total solar irradiance.
+The climate data they don't want you to find — free, to your inbox.
+Join readers who get 5–8 new articles daily — no algorithms, no shadow bans.
+Email Address
+By subscribing, you agree to our privacy policy and terms of service.
+4.6
+Article Rating
+Share this:
+Print
+Email
+More

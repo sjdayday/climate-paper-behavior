@@ -1,0 +1,83 @@
+SOURCE: https://globalwarmingsolved.com/2021/08/06/how-much-has-the-sun-influenced-northern-hemisphere-temperature-trends-an-ongoing-debate/
+RETRIEVED: 2026-09-26 via Claude desktop in-app browser, DOM innerText (live page; post body (same text as CERES release, no byline))
+NOTE: verbatim text extraction; images not captured; site furniture left as extracted.
+========================================================================
+
+Most of the energy in the Earth’s atmosphere comes from the Sun. It has long been recognized that changes in the so-called “total solar irradiance” (TSI), i.e., the amount of energy emitted by the Sun, over the last few centuries, could have contributed substantially to recent climate change. However, this new study found that the UN’s Intergovernmental Panel on Climate Change (IPCC) only considered a small subset of the published TSI datasets when they were assessing the role of the Sun in climate change and that this subset only included “low solar variability” datasets. As a result, the IPCC was premature in ruling out a substantial role for the Sun in recent climate change.
+
+A new scientific review article has just been published on the role of the Sun in climate change over the last 150 years. It finds that the United Nations’ Intergovernmental Panel on Climate Change (IPCC) may have been premature in their conclusion that recent climate change is mostly caused by human greenhouse gas emissions.
+
+The paper by 23 experts in the fields of solar physics and of climate science from 14 different countries is published in the peer-reviewed journal, Research in Astronomy and Astrophysics (RAA). The paper, which is the most comprehensive to date, carries out an analysis of the 16 most prominent published solar output datasets, including those used by the IPCC. The researchers compared them to 26 different estimates of Northern Hemisphere temperature trends since the 19th century (sorted into five categories), including the datasets used by the IPCC. They focused on the Northern Hemisphere since the available data for the early 20th century and earlier is much more limited for the Southern Hemisphere, but their results can be generalized for global temperatures.
+
+Illustration of how simply by using different datasets, scientists can come to completely different conclusions on the so-called “climate change attribution problem”, i.e., what we should attribute the causes of recent climate change to.
+
+The study found that scientists come to opposite conclusions about the causes of recent climate change depending on which datasets they consider. For instance, in the graphs above, the panels on the left lead to the conclusion that global temperature changes since the mid-19th century have been mostly due to human-caused emissions, especially carbon dioxide (CO2), i.e., the conclusion reached by the UN IPCC reports.
+
+In contrast, the panels on the right lead to the exact opposite conclusion, i.e., that the global temperature changes since the mid-19th century have been mostly due to natural cycles, chiefly long-term changes in the energy emitted by the Sun.
+
+Both sets of panels are based on published scientific data, but each uses different datasets and assumptions. On the left, it is assumed that the available temperature records are unaffected by the urban heat island problem, and so all stations are used, whether urban or rural. On the right, only rural stations are used. Meanwhile, on the left, solar output is modelled using the low variability dataset that has been chosen for the IPCC’s upcoming (in 2021/2022) 6th Assessment Reports. This implies zero contribution from natural factors to the long-term warming. On the right, solar output is modelled using a high variability dataset used by the team in charge of NASA’s ACRIM sun-monitoring satellites. This implies that most, if not all, of the long-term temperature changes are due to natural factors.
+
+Dr. Ronan Connolly, lead author of the study, at the Center for Environmental Research and Earth Sciences (CERES):
+
+“The IPCC is mandated to find a consensus on the causes of climate change. I understand the political usefulness of having a consensus view in that it makes things easier for politicians. However, science doesn’t work by consensus. In fact, science thrives best when scientists are allowed to disagree with each other and to investigate the various reasons for disagreement. I fear that by effectively only considering the datasets and studies that support their chosen narrative, the IPCC have seriously hampered scientific progress into genuinely understanding the causes of recent and future climate change. I am particularly disturbed by their inability to satisfactorily explain the rural temperature trends.”
+
+The 68 page review (18 figures, 2 tables and 544 references) explicitly avoided the IPCC’s consensus-driven approach in that the authors agreed to emphasize where dissenting scientific opinions exist as well as where there is scientific agreement. Indeed, each of the co-authors has different scientific opinions on many of the issues discussed, but they agreed for this paper to fairly present the competing arguments among the scientific community for each of these issues, and let the reader make up their own mind. Several co-authors spoke of how this process of objectively reviewing the pros and cons of competing scientific arguments for the paper has given them fresh ideas for their own future research. The authors also spoke of how the IPCC reports would have more scientific validity if the IPCC started to adopt this non-consensus driven approach.
+
+The full citation for the study is:
+
+R. Connolly, W. Soon, M. Connolly, S. Baliunas, J. Berglund, C. J. Butler, R. G. Cionco, A. G. Elias, V. M. Fedorov, H. Harde, G. W. Henry, D. V. Hoyt, O. Humlum, D. R. Legates, S. Luning, N. Scafetta, J.-E. Solheim, L. Szarka, H. van Loon, V. M. Velasco Herrera, R. C. Willson, H. Yan and W. Zhang (2021). How much has the Sun influenced Northern Hemisphere temperature trends? An ongoing debate. Research in Astronomy and Astrophysics 21, 131. https://doi.org/10.1088/1674-4527/21/6/131. (pdf).
+
+Quotes from some of the other co-authors
+
+Víctor Manuel Velasco Herrera, Professor of Theoretical Physics and Geophysics at the National Autonomous University of Mexico (UNAM):
+
+“This paper is very special in that all 23 co-authors set aside our research directions and specialties to produce a fair and balanced scientific review on the subject of sun-climate connections that the UN IPCC reports had mostly missed or simply neglected.”
+
+Nicola Scafetta, Professor of Oceanography and Atmospheric Physics at the University of Naples Federico II (Italy):
+
+“The possible contribution of the sun to the 20th-century global warming greatly depends on the specific solar and climatic records that are adopted for the analysis. The issue is crucial because the current claim of the IPCC that the sun has had a negligible effect on the post-industrial climate warming is only based on global circulation model predictions that are compared against climatic records, which are likely affected by non-climatic warming biases (such as those related to the urbanization), and that are produced using solar forcing functions, which are obtained with total solar irradiance records that present the smallest secular variability (while ignoring the solar studies pointing to a much larger solar variability that show also a different modulation that better correlates with the climatic ones). The consequence of such an approach is that the natural component of climate change is minimized, while the anthropogenic one is maximized. Both solar and climate scientists will find the RAA study useful and timely, as it highlights and addresses this very issue.”
+
+Ole Humlum, Emeritus Professor of Physical Geography at the University of Oslo, Norway:
+
+“This study clearly demonstrates the high importance of carefully looking into all aspects of all available data. Obviously, the old saying ‘Nullius in verba’ is still highly relevant in modern climate research.”
+
+Gregory Henry, Senior Research Scientist in Astronomy, from Tennessee State University’s Center of Excellence in Information Systems (U.S.A.):
+
+“During the past three decades, I have acquired highly precise measurements of brightness changes in over 300 Sun-like stars with a fleet of robotic telescopes developed for this purpose. The data show that, as Sun-like stars age, their rotation slows, and thus their magnetic activity and brightness variability decrease. Stars similar in age and mass to our Sun show brightness changes comparable to the Sun’s and would be expected to affect climate change in their own planetary systems.”
+
+Valery M. Fedorov, at the Faculty of Geography in Lomonosov Moscow State University, Russia:
+
+“The study of global climate change critically needs an analytical review of scientific studies of solar radiation variations associated with the Earth’s orbital motion that could help to determine the role and contributions of solar radiation variations of different physical natures to long-term climate changes. This paper steers the scientific priority in the right direction.”
+
+Richard C. Willson, Principal Investigator in charge of NASA’s ACRIM series of Sun-monitoring Total Solar Irradiance satellite experiments (U.S.A.):
+
+“Contrary to the findings of the IPCC, scientific observations in recent decades have demonstrated that there is no ‘climate change crisis’. The concept that’s devolved into the failed CO2 anthropogenic global warming (CAGW) hypothesis is based on the flawed predictions of imprecise 1980’s vintage global circulation models that have failed to match observational data both since and prior to their fabrication.
+
+The Earth’s climate is determined primarily by the radiation it receives from the Sun. The amount of solar radiation the Earth receives has natural variabilities caused by both variations in the intrinsic amount of radiation emitted by the Sun and by variations in the Earth-Sun geometry caused by planetary rotational and orbital variations. Together these natural variations cause the Total Solar Irradiance (TSI) at the Earth to vary cyclically on a number of known periodicities that are synchronized with known past climate changes.”
+
+WeiJia Zhang, Professor of Physics at Shaoxing University (China) and a Fellow of the Royal Astronomical Society (UK):
+
+“The quest to understand how the Earth’s climate is connected to the Sun is one of the oldest science subjects studied by the ancient Greeks and Chinese. This review paper blows open the mystery and explains why it has been so difficult to make scientific advances so far. It will take the real understanding of fluid dynamics and magnetism on both the Sun and Earth to find the next big leap forward.”
+
+Hong Yan, Professor of Geology and Paleoclimatology at the Institute of Earth Environment and Vice Director of the State Key Laboratory of Loess and Quaternary Geology in Xi’an, China:
+
+“Paleoclimate evidence has long been informing us of the large natural variations of local, regional and hemispheric climate on decadal, multidecadal to centennial timescales. This paper will be a great scientific guide on how we can study the broad topic of natural climatic changes from the unique perspective of external forcings by the Sun’s multi-scale and multi-wavelength impacts and responses.”
+
+Ana G. Elias, Director of the Laboratorio de Ionosfera, Atmósfera Neutra y Magnetosfera (LIANM) at the Facultad de Ciencias Exactas y Tecnología in the Universidad Nacional de Tucumán (FACET-UNT), Argentina:
+
+“The importance of this work lies in presenting a broader perspective, showing that all the relevant long-term trend climate variability forcings, and not just the anthropogenic ones (as has been done mostly), must be considered. The way in which the role of these forcings is estimated, such as the case of solar and geomagnetic activity, is also important, without minimizing any one in pursuit of another. Even the Earth’s magnetic field could play a role in climate.”
+
+Willie Soon, at the Center for Environmental Research and Earth Sciences (CERES), who also has been researching sun/climate relationships at the Harvard-Smithsonian Center for Astrophysics (U.S.A.) since 1991:
+
+“We know that the Sun is the primary source of energy for the Earth’s atmosphere. So, it always was an obvious potential contributor to recent climate change. My own research over the last 31 years into the behavior of stars that are similar to our Sun, shows that solar variability is the norm, not the exception. For this reason, the Sun’s role in recent climate change should never have been as systematically undermined as it was by the IPCC’s reports. Hopefully, this systematic review of the many unresolved and ongoing challenges and complexities of Sun/climate relationships can help the scientific community return to a more comprehensive and realistic approach to understanding climate change.”
+
+László Szarka, from the ELKH Institute of Earth Physics and Space Science (Hungary) and also a member of the Hungarian Academy of Sciences:
+
+“This review is a crucial milestone on the way to restoring the scientific definition of ‘climate change’ that has become gradually distorted over the last three decades. The scientific community should finally realize that in science there is no authority or consensus; only the right to seek the truth.”
+
+Facebook
+Share on X
+LinkedIn
+WhatsApp
+Email
+Copy Link

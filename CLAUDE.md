@@ -22,11 +22,13 @@ the next git command fail.
 
 ## Repo map
 
-- `sources/paper-behavior-codebook_v0.2.md`: Stage 1 instrument (papers). v0.1 is kept for history.
-- `sources/communication-behavior-protocol_v0.1.md`: Stage 2 protocol (public communications about the papers). Stage 2 runs only after Stage 1 is scored and frozen (protocol §2).
-- `sources/lexicons/`: per-language certainty-marker lexicons (English lives in the codebook; German starter list here).
-- `sources/study-design-explainer_draft1.md`: study-design explainer draft.
-- `pilot/`: Stage 1 pilot exhibits (LS11, FR11) and Connolly et al. 2021 results.
-- `pilot/communications/`: Stage 2 pilot (inventory, Exhibit 4, German review packet, verbatim source captures). See its README.
+- `sources/paper-behavior-codebook_v0.2.md`: Stage 1 instrument (papers). v0.1 kept for history.
+- `sources/communication-behavior-protocol_v0.2.md`: Stage 2 protocol (public communications about the papers). v0.1 kept for history. Stage 2 runs only after Stage 1 is scored and frozen (protocol §2).
+- `sources/lexicons/`: per-language certainty-marker lexicons (English in the codebook; German starter list) and the register lexicon (`register_dismissive_v0.1.*`).
+- `sources/study-design-explainer_draft1.md`: study-design explainer draft. Paper PDFs are also in `sources/`.
+- `pilot/`: Stage 1 pilot exhibits for LS11 and FR11 at the top level.
+  - `pilot/communications/`: Stage 2 pilot for LS11 and FR11 (inventory, Exhibit 4 and Addendum 1, German review packet, verbatim captures including `sources/threads/`). See its README.
+  - `pilot/connolly-2021/`: Connolly et al. 2021. Stage 1 (Exhibit 3) at the top; Stage 2 (inventory, Exhibit 5, captures) in `communications/`.
+  - `pilot/register/`: register (PC-9) and reply-claim data for all pilot papers.
 - `src/fable-vs-opus/`: scorer-model equivalence harness (v2 is the reference implementation).
-- `scripts/`: repo housekeeping (see above).
+- `scripts/`: repo housekeeping (`git-stash-stale-locks.sh`) and analysis helpers (`register_count.py`).
