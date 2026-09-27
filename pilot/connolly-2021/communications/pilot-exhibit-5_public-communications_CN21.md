@@ -7,7 +7,7 @@
 
 ## 0. Bottom line
 
-- **Drift was upward and concentrated on one claim type.** 22 of 27 claims matched a Stage 1 counterpart. Of those 22, **17 moved up**, 4 held level and 1 moved down (mean Δ = +0.91, against +0.58 for the LS11 author posts and +0.12 for FR11; Exhibit 4). Communication CAL is **0.667** (paper 0.263). The three claims from the CDN video (added 2026-09-26, §2.5) are all calibrated; before them CAL was 0.75.
+- **Drift was upward and concentrated on one claim type.** 27 of 34 claims matched a Stage 1 counterpart. Of those 27, **22 moved up**, 4 held level and 1 moved down (mean Δ = +0.96, against +0.58 for the LS11 author posts and +0.12 for FR11; Exhibit 4). Communication CAL is **0.676** (paper 0.263). The two recordings (§2.5–2.6, added 2026-09-27) run lower on CAL than the written items (0.50 against 0.75), but drift the same way. In speech, the range claims keep their dataset qualifier; the IPCC-conduct claims escalate, as they do in writing.
 - **The paper's empirical core stayed calibrated.** Dataset dependence and the range of solar contributions were restated at T3 with O = 0 (CN-T5, CN-T6, OL-2). The overreach sat where the paper's own overreach was (Exhibit 3's "adversarial attribution" signature): claims about the **IPCC's conduct and intent**. In the paper these are L2 at T0 ("appears to have tried", "appear to have overlooked", "we argue … premature"). In public they became "only included 'low solar variability' datasets", "mostly missed or simply neglected", "it is clear that data sets are being selected…", and in Soon's words "blatant untruth" and "hide-and-seek game".
 - **Two fidelity errors (PC-8).**
   - The launch release says "their results can be generalized for global temperatures". The paper says its analysis "was explicitly confined to the Northern Hemisphere", and that only its urbanization recommendation is relevant globally.
@@ -88,14 +88,36 @@ Source: YouTube auto-captions (ASR), `sources/transcripts/CN21_CDN_2022-06-01_rJ
 
 Not scored (extra-paper, PC-5, logged): "a lot of scientists … feel a lot of pressure to conform … their work to the IPCC … the IPCC has become a very dominant political body within the scientific community" [13:04], framed as "my own experience". The host's lines ("fiddling data series", "substitute abuse for argument") are the outlet's, not the author's; they are relevant to PC-10 only if the author later endorses the video (he links it from his own site's interview page, which counts as distribution, not endorsement of the wording).
 
+### 2.6 Heartland podcast (2021-10-27; R. Connolly interviewed by H. S. Burnett, 52 min)
+
+Source: local Whisper transcript (whisper.cpp 1.9.4, large-v3-turbo) of the archived MP3, `sources/transcripts/CN21_Heartland-podcast_2021-10-27.*` (audio SHA-256 in the `.meta.json`). The ASR has **no speaker labels**. Speaker attribution below is my reading of turn-taking and content. Each quote was string-checked against the transcript; none has yet been checked against the audio.
+
+| # | Claim (≤ 25 words) | Level | Counterpart | Tier | O | Δ | Flags |
+|---|---|---|---|---|---|---|---|
+| HP-1 | "for the fifth assessment report, all four of the estimates that were used were what we call low variability estimates" [15:34] | L3 | body (CMIP5 forcing datasets); no indexed claim | T2 | 0 | — | ASR |
+| HP-2 | "this is how they can say unequivocally or extremely likely … because none of the models, when they plug in one of these four TSI data sets, will show any … natural warming" [18:04] | L3 | A4 (L2) | T1 | 1 | +1 | ASR |
+| HP-3 | "we found 16 different estimates of TSI … if you're just using all of the ones that … show the same decline … you're not actually doing a comprehensive scientific review" [19:31–20:04] | L3 | A4 "failed to adequately consider" (L2) | T1 | 1 | +1 | ASR |
+| HP-4 | rural series: "the recent warming was similar to the warming in the 40s, which is definitely not the same as you get with the standard data sets" [22:47] | L4 (definitely) | C11 (L2) | T1 | 2 | +2 | **program-level** (framed as the 2015 paper; CN21 repeats the rural series); ASR |
+| HP-5 | "by cherry-picking … your temperature data sets, and cherry-picking your solar data sets, you could explain anything from 0% solar role to 100% solar role" [24:39] | L3 | A3 (L2) | T3 | 0 | +1 | PC-7 = 1 (dataset dependence kept); register hit ("cherry-picking"); ASR |
+| HP-6 | with results this different, "you're not converging towards a consensus" [25:26] | L3 | C15 "premature" (L2) | T0 | 2 | +1 | ASR |
+| HP-7 | "Now, the IPCC began with certainties." [31:40] | L3 | none (the paper quotes the Bacon line without applying it to the IPCC's origins) | T0 | 2 | — | ASR |
+
+Logged, not scored:
+- **Extra-paper (PC-5).** UNEP "had already decided before the first assessment report … that human-caused climate change was an urgent catastrophe" [34:02]; the fact-check story: Climate Feedback "made 11 of the 14 errors that count as misinformation", the Epoch Times article "made zero" [42:17–42:25]; "narrative-driven journalism" [44:16 on]; the IPCC's urban-warming figure [21:49].
+- **PC-10, second instance.** Asked whether the Epoch Times article "fairly represented what your study said", Connolly answers "Yeah" [37:22]. He later says Climate Feedback should call it "correct and accurate, which it is" [43:42] and praises it as "balanced reporting". That article paraphrases the study as showing "conclusively" that most or all warming may not be human-caused. The host's own introduction says the same (natural factors "accounted for most, if not all" recent climate change [0:49]), and Connolly does not correct it.
+- **Moderation against the host.** When Burnett argues that a settled science should lose its funding [29:22–30:08], Connolly says "I've just got to push back a little bit and defend my scientific colleagues" [30:09]. His objection is to how grants are structured, not to his colleagues' good faith.
+- **Register.** Not counted yet. The lexicon run needs speaker-separated text, and the ASR has no speaker labels. See log 7.
+
 ## 3. Statistics
 
 | | Claims | O ≥ 1 | CAL | Mean O | Matched | Δ up / 0 / down | Mean Δ | PC-8 | PC-7 = 0 |
 |---|---|---|---|---|---|---|---|---|---|
-| All | 27 | 18 | **0.667** | 1.07 | 22 | 17 / 4 / 1 | **+0.91** | 2 | 3 |
-| Excl. CERES-team text (§1.1) | 20 | 14 | 0.700 | 1.15 | 16 | 12 / 4 / 0 | +0.94 | 1 | 2 |
-| Excl. ambiguous (Willson) | 25 | 16 | 0.640 | 0.96 | 22 | 17 / 4 / 1 | +0.91 | 2 | 3 |
-| Before the CDN video | 24 | 18 | 0.750 | 1.21 | 20 | 16 / 3 / 1 | +0.95 | 2 | 3 |
+| All | 34 | 23 | **0.676** | 1.09 | 27 | 22 / 4 / 1 | **+0.96** | 2 | 3 |
+| Excl. CERES-team text (§1.1) | 27 | 19 | 0.704 | 1.15 | 21 | 17 / 4 / 0 | +1.00 | 1 | 2 |
+| Excl. ambiguous (Willson) | 32 | 21 | 0.656 | 1.00 | 27 | 22 / 4 / 1 | +0.96 | 2 | 3 |
+| Excl. program-level (HP-4) | 33 | 22 | 0.667 | 1.06 | 26 | 21 / 4 / 1 | +0.92 | 2 | 3 |
+| Spoken only (§2.5–2.6) | 10 | 5 | 0.500 | 0.80 | 7 | 6 / 1 / 0 | +1.00 | 0 | 0 |
+| Written only (§2.1–2.4) | 24 | 18 | 0.750 | 1.21 | 20 | 16 / 3 / 1 | +0.95 | 2 | 3 |
 | Paper (Exhibit 3) | 19 | 5 | 0.263 | 0.26 | | | | | |
 
 ## 4. Register (PC-9, exploratory)
@@ -112,5 +134,7 @@ The opposing register in the same article is Gavin Schmidt's "This is total nons
 2. **ET-RC3.** The sentence hedges intent ("Whether they were deliberately doing it or whether it was simply confirmation bias is difficult to say") and asserts selection ("it is clear"). Scored at the strongest claim (L4). The intent hedge is noted as a genuine qualification.
 3. **ET-RC1 tier.** The "all of the warming" case is one of 16 × 5 fits, in-sample, with no uncertainty (P2a = 0), so T1. The range claim across the grid (OL-2) keeps T3.
 4. **"Premature."** The paper's most-repeated public word is its own conclusion term (A4, C15). Level changes come from the verbs around it ("was", "only", "should never have"), not from the word.
-5. **Pending items (D4)** could change the picture. The Heartland podcast, 52 minutes of R. Connolly, is probably the largest single source of claims. Its title ("Exposing efforts to suppress research…") suggests the conduct-claim pattern continues. Its MP3 is dead on heartland.org but archived by the Wayback Machine (2021-10-27, 39.7 MB); it needs local transcription (`scripts/transcribe_local.sh`). The NTD segment was not relocated. Not scored.
+5. **Pending items (D4).** The Heartland podcast is now scored (§2.6). The prediction held: most of its claim-bearing talk is about conduct (IPCC, UNEP, fact-checkers), not the analysis. Only 7 of its passages carry scorable claims about the paper. The NTD segment has still not been relocated.
 6. **CDN video: format effect.** In a produced interview, the author's spoken claims about the science stayed conditional and calibrated (§2.5). The escalation in this video is in the host's narration. The conduct claim R. Connolly does make is extra-paper and framed as personal experience. The written channels (release, interview quotes) remain where his escalation sits.
+7. **Speaker attribution in the podcast.** Whisper gives no speaker labels. I attributed turns from context (question/answer structure, first-person references to "our paper", the host's own introduction). Two passages are uncertain and left unscored: "they're basically playing Pontius Pilate" [40:32] and "Science doesn't work by democracy" [4:20], which is probably Connolly's. For confirmatory work, D4 needs a diarization step (for example pyannote before Whisper) or a human pass that marks the turns. The register count for this item waits on that.
+8. **HP-4 is program-level.** Connolly presents the rural result as a 2015 finding. It is scored because CN21 repeats the rural Northern Hemisphere series (C11). Dropping it moves CAL from 0.676 to 0.667 (row above).

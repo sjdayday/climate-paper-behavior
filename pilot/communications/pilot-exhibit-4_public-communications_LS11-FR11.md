@@ -61,6 +61,23 @@ Sources: **CE/W** = the launch post, identical body on Climate Etc. (bylined Loe
 
 **L&S11 statistics.** 13 claims scored and 10 overreaching, so **CAL = 0.769** (paper 0.571). Mean O = 17/13 = **1.31** (paper 0.82). L4 at tier ≤ T1: **5** (paper 3). Across the 12 claims with a paper counterpart, drift was +3, +2, +1 and +1, and zero for the other 8. None moved down. The one downward move is a forecast (LC13).
 
+### 2a. Scafetta, ICCC-6 talk (2011-06-30/07-01; pre-publication; added 2026-09-27)
+
+Source: local Whisper transcript of the Heartland YouTube upload, `sources/transcripts/LS11_Scafetta-ICCC6_2011.*` (no caption track existed). The talk is inside the window (about four weeks before publication) but **never names L&S11**. It presents Scafetta's own harmonic/astronomical model, so every claim is **program-level (PC-4)**. The claims are scored against the nearest L&S11 counterpart but kept **out of the L&S11 CAL above**, as a supplementary set.
+
+| # | Claim (≤ 25 words) | Level | Counterpart | Tier | O | Δ |
+|---|---|---|---|---|---|---|
+| S6-1 | "the period between 1880 and 1940 is statistically practically identical to the period between 1940 to 2000"; "the 60-year cycle that is clearly evident" [8:05] | L4 (clearly) | A2 fit "very well" (L3) | T1 | 2 | +1 |
+| S6-2 | since 2000 "the reality is going down … So there is a clear discrepancy" with IPCC projections [8:49] | L4 (clear) | none | T1 | 2 | — |
+| S6-3 | "this warming for sure does not seem to be so anomalous … It's part of a big cycle" [11:49] | L3 | none (millennial cycle is outside L&S11) | T0 | 2 | — |
+| S6-4 | "the imprint of the solar activity seems to be quite strong" [12:52] | L2 | A5 "suggest a mechanism" (L2) | T1 | 0 | 0 |
+| S6-5 | "I proved that this 96% of variability of the temperature is reconstructed by the model"; GISS ModelE "reproduced only 16%" [16:23] | L4 (proved) | C11 (L4, T0); cf. LC14 | T0 | 3 | 0 |
+| S6-6 | "we can reconstruct or at least predict the climate change by using those frequencies" [17:21] | L3 | C1 (L2) | T1 | 1 | +1 |
+
+Forecast (§4.6, excluded): "Then next 30 years, the temperature may go stable if there is not a 1,000-year cycle … This is, in my opinion, what will happen" [15:53]. L2 against A7 (L1), so +1, the reverse of the softening seen in LC7/LC13. Logged, not scored (PC-5): "essentially the IPCC does not have any clue of what the CO2 is doing" [5:05], which is also an institution-directed register hit.
+
+**Supplementary statistics.** 6 claims, 5 overreaching: CAL 0.833, mean O 1.67, mean Δ +0.50 over 4 matched. Adding them to L&S11 as a sensitivity check gives CAL 15/19 = **0.789** (from 0.769) and mean O 27/19 = 1.42 (from 1.31). The pre-publication talk is at least as strong as the post-publication posts. This fits Exhibit 1's reading that the paper *moderated* the program's language for the journal, and the public channels carry the program's register at full strength.
+
 ## 3. F&R11: scored communication claims
 
 Sources: **OM** = Open Mind, 2011-12-06 (Foster). **KL1** = KlimaLounge, 2011-12-08 (Rahmstorf, German). **IOP** = IOP press release, 2011-12-05, with the quote attributed to Rahmstorf by name. **KL2** = KlimaLounge, 2012-09-27 (Rahmstorf, German).

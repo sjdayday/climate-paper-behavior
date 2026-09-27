@@ -1,0 +1,18 @@
+{
+  "source": "https://www.youtube.com/watch?v=9_-eKIQ-9dg",
+  "retrieval": "yt-dlp 2026.08.19",
+  "audio_sha256": "b8a2922914760a9e6e1c0af45e5765cdcaf1720d099f8dc8237344c6523731ad",
+  "audio_bytes": 31241849,
+  "duration_s": 1052.490875,
+  "asr_tool": "whisper.cpp 1.9.4",
+  "asr_model": "ggml-large-v3-turbo.bin",
+  "asr_model_sha256": "1fc70f774d38eb169993ac391eea357ef47c88757ef72ee5943879b7e8e2bc69",
+  "language": "auto",
+  "transcribed": "2026-09-27T06:27:45Z",
+  "flags": [
+    "ASR",
+    "quotes to be hand-checked against audio before scoring (protocol v0.2 D4)",
+    "ASR repetition artifact: the passage from 'let us look at the data and the other look at the computer runs' to 'Let us move the data' appears twice ([6:39]-[7:14] and [7:14]-[7:36]); the second copy is probably a Whisper repeat. Check against the audio."
+  ],
+  "item": "Heartland ICCC-6 (Washington DC, 2011-06-30/07-01), Nicola Scafetta talk; YouTube upload by The Heartland Institute, 2013-06-27; no caption track"
+}

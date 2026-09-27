@@ -1,0 +1,13 @@
+{
+  "source": "https://web.archive.org/web/20211027173223id_/https://www.heartland.org/sebin/b/d/ECN_Ronan_Connolly_Oct27.mp3",
+  "retrieval": "curl",
+  "audio_sha256": "af0c1c2018ff4f20c3d6ec7025dab0a8ef895547417b044aefcc73b57c50270e",
+  "audio_bytes": 41673189,
+  "duration_s": 3136.867563,
+  "asr_tool": "whisper.cpp 1.9.4",
+  "asr_model": "ggml-large-v3-turbo.bin",
+  "asr_model_sha256": "1fc70f774d38eb169993ac391eea357ef47c88757ef72ee5943879b7e8e2bc69",
+  "language": "auto",
+  "transcribed": "2026-09-27T06:18:47Z",
+  "flags": ["ASR", "quotes to be hand-checked against audio before scoring (protocol v0.2 D4)"]
+}
