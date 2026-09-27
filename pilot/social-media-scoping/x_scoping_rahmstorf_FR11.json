@@ -1,0 +1,345 @@
+{
+ "account": "@rahmstorf",
+ "query": "from:rahmstorf since:2011-09-06 until:2012-12-07 (Latest tab)",
+ "retrieved": "2026-09-26",
+ "method": "signed-in X web search in the built-in browser; DOM extraction; scoping only (protocol v0.2 D2), not data",
+ "n": 56,
+ "posts": [
+  {
+   "date": "2011-09-08",
+   "id": "111791423740854273",
+   "url": "https://x.com/rahmstorf/status/111791423740854273",
+   "text": "Das arktische Meereis nähert sich einem Rekordminimum: http:// bit.ly/nM1lxZ"
+  },
+  {
+   "date": "2011-10-06",
+   "id": "121898046924660736",
+   "url": "https://x.com/rahmstorf/status/121898046924660736",
+   "text": "Die Kinderuni: Wolken, Wind und Wetter. Das neue Buch von Stefan Rahmstorf ist da, nicht nur für Kinder! http:// bit.ly/nCiYGu"
+  },
+  {
+   "date": "2011-10-21",
+   "id": "127270847370104832",
+   "url": "https://x.com/rahmstorf/status/127270847370104832",
+   "text": "The Vanishing Arctic - a commentary on the 2011 record sea ice loss by Stefan Rahmstorf. http:// bit.ly/puRgCJ"
+  },
+  {
+   "date": "2011-10-25",
+   "id": "128730617201434624",
+   "url": "https://x.com/rahmstorf/status/128730617201434624",
+   "text": "The Moscow heat wave of July 2010 was, with 80% probability, a result of climate change, new study finds. http:// bit.ly/vHLYvx"
+  },
+  {
+   "date": "2011-10-25",
+   "id": "128772473163489280",
+   "url": "https://x.com/rahmstorf/status/128772473163489280",
+   "text": "Spektrum Interview: Wir sollten mit dem Klimaschutz nicht warten. http:// bit.ly/thcwGE"
+  },
+  {
+   "date": "2011-10-31",
+   "id": "130980911528423425",
+   "url": "https://x.com/rahmstorf/status/130980911528423425",
+   "text": "Die 5 wichtigsten neuen Ergebnisse der Klimaforschung im Jahr 2011: http:// bit.ly/vAUvz1"
+  },
+  {
+   "date": "2011-11-20",
+   "id": "138244577428635648",
+   "url": "https://x.com/rahmstorf/status/138244577428635648",
+   "text": "New study: for 2 ºC global warming, expect about 1 meter of sea level rise by the year 2100. http:// springerlink.com/content/42822h 838776m102/ …"
+  },
+  {
+   "date": "2011-11-29",
+   "id": "141509525424439297",
+   "url": "https://x.com/rahmstorf/status/141509525424439297",
+   "text": "Meeresspiegelanstieg: Wird Venedig überleben? http:// mare.de/index.php?arti cle_id=3091 …"
+  },
+  {
+   "date": "2011-11-29",
+   "id": "141637409182978051",
+   "url": "https://x.com/rahmstorf/status/141637409182978051",
+   "text": "Naomi Klein's insights on climate change denial in The Nation - http:// bit.ly/s2e17K via @thenation"
+  },
+  {
+   "date": "2011-12-01",
+   "id": "142192573174398976",
+   "url": "https://x.com/rahmstorf/status/142192573174398976",
+   "text": "Die Süddeutsche Zeitung zum Klimaskeptiker-Kongress von EIKE in München. http:// sueddeutsche.de/wissen/klimask eptiker-konferenz-bericht-aus-dem-zentrum-des-zweifels-1.1222209 …"
+  },
+  {
+   "date": "2011-12-06",
+   "id": "144183567658921984",
+   "url": "https://x.com/rahmstorf/status/144183567658921984",
+   "text": "Global warming is taking a break? Not. http:// environmentalresearchweb.org/cws/article/ne ws/48046 …"
+  },
+  {
+   "date": "2011-12-07",
+   "id": "144350297404350464",
+   "url": "https://x.com/rahmstorf/status/144350297404350464",
+   "text": "Klimawandel für Zehnjährige. Buchkritik zu Wolken, Wind & Wetter: http:// pnn.de/campus/603033/"
+  },
+  {
+   "date": "2012-01-08",
+   "id": "155987557363105792",
+   "url": "https://x.com/rahmstorf/status/155987557363105792",
+   "text": "Gibt es eine deutsche Lust am Untergang in der Klimadiskussion? Ein wenig Empirie: http:// bit.ly/xXDvlK"
+  },
+  {
+   "date": "2012-01-13",
+   "id": "157797594507116544",
+   "url": "https://x.com/rahmstorf/status/157797594507116544",
+   "text": "Deutsche Umweltstiftung kürt Wolken, Wind & Wetter zum Umweltbuch des Monats: http:// bit.ly/wXYYNk Mehr zum Buch: http:// bit.ly/nCiYGu"
+  },
+  {
+   "date": "2012-02-03",
+   "id": "165393827555844096",
+   "url": "https://x.com/rahmstorf/status/165393827555844096",
+   "text": "Was hat das kalte Wetter mit der globalen Erwärmung zu tun? Und mit Vahrenholts Buch? http:// scilogs.de/wblogs/blog/kl imalounge/mechanismen/2012-02-03/sibirische-kaelte-vahrenholt …"
+  },
+  {
+   "date": "2012-02-06",
+   "id": "166483707128066049",
+   "url": "https://x.com/rahmstorf/status/166483707128066049",
+   "text": "Wolken, Wind & Wetter ist auf die Bestenliste für junge Leser gewählt worden! Mehr zum Buch: http:// pik-potsdam.de/~stefan/kinder uni.html …. http:// dradio.de/dlf/sendungen/ jungeleser/1661506/ …"
+  },
+  {
+   "date": "2012-02-09",
+   "id": "167549140639821824",
+   "url": "https://x.com/rahmstorf/status/167549140639821824",
+   "text": "Alle paar Jahre wieder entdecken die Medien die Sonne als angeblich unterschätzte Kraft im Klima. Was zeigen die Daten? http:// spektrum.de/alias/klima/we lche-rolle-spielt-die-sonne/1141490 …"
+  },
+  {
+   "date": "2012-03-06",
+   "id": "177076794913079297",
+   "url": "https://x.com/rahmstorf/status/177076794913079297",
+   "text": "Ein kurzer Blick zurück auf den Winter. War er in Deutschland kalt oder warm? http:// scilogs.de/wblogs/blog/kl imalounge/klimadaten/2012-03-06/winter-ade …"
+  },
+  {
+   "date": "2012-04-01",
+   "id": "186378965194252290",
+   "url": "https://x.com/rahmstorf/status/186378965194252290",
+   "text": "Eines der letzten Rätsel der Klimaforschung: endlich gelöst? http:// scilogs.de/wblogs/blog/kl imalounge/klimadaten/2012-04-01/raetsel-endlich-geloest …"
+  },
+  {
+   "date": "2012-05-31",
+   "id": "208140028793200641",
+   "url": "https://x.com/rahmstorf/status/208140028793200641",
+   "text": "Stimmt es, dass ein großer Teil des Meeresspiegelanstiegs durch Grundwassernutzung entsteht? Wohl nicht. http:// scilogs.de/wblogs/blog/kl imalounge/klimadaten/2012-05-31/was-laesst-den-meeresspiegel-steigen …"
+  },
+  {
+   "date": "2012-06-18",
+   "id": "214682899428024321",
+   "url": "https://x.com/rahmstorf/status/214682899428024321",
+   "text": "Bericht aus dem Feld zum Meeresspiegel: wo \"sea level rise is a left-wing term\"! http:// scilogs.de/wblogs/blog/kl imalounge/forschungsbericht/2012-06-18/auf-den-outer-banks …"
+  },
+  {
+   "date": "2012-06-24",
+   "id": "216947292891119619",
+   "url": "https://x.com/rahmstorf/status/216947292891119619",
+   "text": "The lastest on sea level rise: field work, politics and two new papers at Nature Climate Change. http:// realclimate.org/index.php/arch ives/2012/06/far-out-in-north-carolina/ …"
+  },
+  {
+   "date": "2012-08-02",
+   "id": "231009395214004224",
+   "url": "https://x.com/rahmstorf/status/231009395214004224",
+   "text": "Wie man den Himmel mit dem iPhone fotografiert und die Wolken mit einer HDR-App richtig in Szene setzt! http:// scilogs.de/wblogs/blog/kl imalounge/allgemein/2012-08-02/schoenheit-der-wolken-hdr-fotografie …"
+  },
+  {
+   "date": "2012-08-07",
+   "id": "232753258547015681",
+   "url": "https://x.com/rahmstorf/status/232753258547015681",
+   "text": "Was ist wissenschaftliche Wahrheit? Sollte die Politik sich danach ausrichten? Interview mit Stefan Rahmstorf: http:// pik-potsdam.de/~stefan/mare-i nterview.html …"
+  },
+  {
+   "date": "2012-08-20",
+   "id": "237480322953011200",
+   "url": "https://x.com/rahmstorf/status/237480322953011200",
+   "text": "NASA-Daten: Häufigkeit von extremen saisonalen Hitzewellen hat weltweit um das 50-fache zugenommen. http:// scilogs.de/wblogs/blog/kl imalounge/klimadaten/2012-08-19/hitzewellen-weltweit …"
+  },
+  {
+   "date": "2012-08-27",
+   "id": "240046481644613632",
+   "url": "https://x.com/rahmstorf/status/240046481644613632",
+   "text": "Das arktische Meereis hat in den letzten Tagen einen neuen Negativ-Rekord erreicht. Das sollte niemanden kalt lassen. http:// scilogs.de/wblogs/blog/kl imalounge/klimadaten/2012-08-27/arktis-meereis-rekord-2012 …"
+  },
+  {
+   "date": "2012-09-04",
+   "id": "242889614170419201",
+   "url": "https://x.com/rahmstorf/status/242889614170419201",
+   "text": "New Scientist: will El Niño bring new global heat record once again? http:// newscientist.com/article/mg2152 8804.400-if-2013-breaks-heat-record-how-will-deniers-respond.html?full=true …"
+  },
+  {
+   "date": "2012-09-07",
+   "id": "244015343553622016",
+   "url": "https://x.com/rahmstorf/status/244015343553622016",
+   "text": "Der Golfstrom und die wissenschaftliche und journalistische Wahrheit - ein Kommentar bei KlimaLounge."
+  },
+  {
+   "date": "2012-09-12",
+   "id": "245883106773594113",
+   "url": "https://x.com/rahmstorf/status/245883106773594113",
+   "text": "Sir John Franklin and this year's record meltdown in the Arctic. http:// project-syndicate.org/commentary/mel ting-on-top-of-the-world-by-stefan-rahmstorf …"
+  },
+  {
+   "date": "2012-09-12",
+   "id": "245890783159402496",
+   "url": "https://x.com/rahmstorf/status/245890783159402496",
+   "text": "Der Trend geht klar nach oben - eine Analyse der globalen Temperaturdaten bei Spektrum.de http:// spektrum.de/alias/klimawan del/der-trend-geht-klar-nach-oben/1164441 …"
+  },
+  {
+   "date": "2012-09-13",
+   "id": "246210121586311168",
+   "url": "https://x.com/rahmstorf/status/246210121586311168",
+   "text": "Grönland im Mittelalter „fast eisfrei“! Sagt Fritz Vahrenholt: http:// scilogs.de/wblogs/blog/kl imalounge/klimadaten/2012-09-13/vahrenholt-groenland-im-mittelalter-fast-eisfrei …"
+  },
+  {
+   "date": "2012-09-14",
+   "id": "246521780888559616",
+   "url": "https://x.com/rahmstorf/status/246521780888559616",
+   "text": "Chasing Ice - awesome documentary film trailer! http:// chasingice.com"
+  },
+  {
+   "date": "2012-09-17",
+   "id": "247691945009364992",
+   "url": "https://x.com/rahmstorf/status/247691945009364992",
+   "text": "Neue Studie in Nature Climate Change: Korallenriffe werden Opfer der Erderwärmung. http:// sueddeutsche.de/wissen/klimawa ndel-korallenriffe-werden-opfer-der-erderwaermung-1.1470017 …"
+  },
+  {
+   "date": "2012-09-17",
+   "id": "247692246785351680",
+   "url": "https://x.com/rahmstorf/status/247692246785351680",
+   "text": "New study in Nature Climate Change: Chance of saving most coral reefs is dwindling. http:// reuters.com/article/2012/0 9/16/coral-climate-idUSL5E8KE4HE20120916 …"
+  },
+  {
+   "date": "2012-09-19",
+   "id": "248375358448099329",
+   "url": "https://x.com/rahmstorf/status/248375358448099329",
+   "text": "Ausmaß, Ursachen und Folgen des arktischen Eisschwundes: gemeinsame Stellungnahme der deutschen Klimainstitute http:// scilogs.de/wblogs/blog/kl imalounge/allgemein/2012-09-19/deutsche-forschungsinstitute-zum-meereis-rekord …"
+  },
+  {
+   "date": "2012-09-25",
+   "id": "250574039851085824",
+   "url": "https://x.com/rahmstorf/status/250574039851085824",
+   "text": "\"Kleine Sensation\"? Die #Tagesschau gestern zur Stabilität des Golfstroms. http:// scilogs.de/wblogs/blog/kl imalounge/medien-check/2012-09-25/tagesschau-zum-golfstrom …"
+  },
+  {
+   "date": "2012-10-25",
+   "id": "261566604217819136",
+   "url": "https://x.com/rahmstorf/status/261566604217819136",
+   "text": "@knaussi @Documentally @NafeezAhmed Yes, great to have this conversation. I'll be more on twitter after that, with gumboots! Stefan"
+  },
+  {
+   "date": "2012-10-25",
+   "id": "261566946150068224",
+   "url": "https://x.com/rahmstorf/status/261566946150068224",
+   "text": "Hi @stefankasberger @elevatefestival , die meisten Klimadaten sind open access, siehe zB Liste hier: http:// realclimate.org/index.php/data -sources/ …"
+  },
+  {
+   "date": "2012-10-29",
+   "id": "262856238537248768",
+   "url": "https://x.com/rahmstorf/status/262856238537248768",
+   "text": "A short video clip where I talk about why warming is bad for us and what might be a \"safe level\" of global warming: http:// vimeo.com/43012713"
+  },
+  {
+   "date": "2012-10-29",
+   "id": "262939297605373952",
+   "url": "https://x.com/rahmstorf/status/262939297605373952",
+   "text": "Infos zum Supersturm #Sandy: wo findet man gute aktuelle Analysen im Netz. http:// scilogs.de/wblogs/blog/kl imalounge/klimadaten/2012-10-29/infos-zum-supersturm-sandy …"
+  },
+  {
+   "date": "2012-10-29",
+   "id": "262946122979483648",
+   "url": "https://x.com/rahmstorf/status/262946122979483648",
+   "text": "Angela Merkel zu Klimawandel und low carbon prosperity: http:// wbgu.de/symposium-2012/"
+  },
+  {
+   "date": "2012-10-29",
+   "id": "262946410218012672",
+   "url": "https://x.com/rahmstorf/status/262946410218012672",
+   "text": "German chancellor Merkel on climate change and low carbon prosperity: http:// wbgu.de/en/symposium-2 012/ …"
+  },
+  {
+   "date": "2012-10-31",
+   "id": "263572516319141888",
+   "url": "https://x.com/rahmstorf/status/263572516319141888",
+   "text": "@borenbears Check out Petoukhov and Semenov JGR 2010 Fig. 3h. They predicted the anomalous high over Greenland in response to sea ice loss."
+  },
+  {
+   "date": "2012-10-31",
+   "id": "263584917856870401",
+   "url": "https://x.com/rahmstorf/status/263584917856870401",
+   "text": "@wunderground Check out Petoukhov and Semenov JGR 2010 Fig. 3h. They predicted the anomalous high at Greenland in response to sea ice loss."
+  },
+  {
+   "date": "2012-10-31",
+   "id": "263631550766256129",
+   "url": "https://x.com/rahmstorf/status/263631550766256129",
+   "text": "A Decade of Weather Extremes: peer-reviewed overview of unprecedented extreme events and their links to global warming. http:// nature.com/nclimate/journ al/v2/n7/full/nclimate1452.html …"
+  },
+  {
+   "date": "2012-10-31",
+   "id": "263672256562073602",
+   "url": "https://x.com/rahmstorf/status/263672256562073602",
+   "text": "Exceptional \"Acqua Alta\" storm surge puts much of Venice under water. http:// inmeteo.net/blog/2012/10/3 1/allerta-meteo-maltempo-venezia-31-ottobre-2012-forti-piogge-e-acqua-alta/ …"
+  },
+  {
+   "date": "2012-11-02",
+   "id": "264338280026353664",
+   "url": "https://x.com/rahmstorf/status/264338280026353664",
+   "text": "An Arctic Wild Card in the Weather - explains nicely how sea ice loss in the Arctic breeds extreme weather http:// tos.org/oceanography/a rchive/25-2_greene.pdf …"
+  },
+  {
+   "date": "2012-11-07",
+   "id": "266091692602564608",
+   "url": "https://x.com/rahmstorf/status/266091692602564608",
+   "text": "Versagt der Journalismus beim Thema Klima? Neuer Aufsatz in Environmental Research Letters http:// iopscience.iop.org/1748-9326/7/4/ 041003/ …"
+  },
+  {
+   "date": "2012-11-07",
+   "id": "266119781608992768",
+   "url": "https://x.com/rahmstorf/status/266119781608992768",
+   "text": "Obama in seiner Siegesrede zur globalen Erwärmung: http:// scilogs.de/wblogs/blog/kl imalounge/allgemein/2012-11-07/obamas-siegesrede-2012 …"
+  },
+  {
+   "date": "2012-11-08",
+   "id": "266458825085833216",
+   "url": "https://x.com/rahmstorf/status/266458825085833216",
+   "text": "Mein Kommentar zur #Überfischung im aktuellen Heft von National Geographic Deutschland. http:// pik-potsdam.de/~stefan/Public ations/Other/NGD_11_12_Rahmstorf.pdf …"
+  },
+  {
+   "date": "2012-11-08",
+   "id": "266459954846789632",
+   "url": "https://x.com/rahmstorf/status/266459954846789632",
+   "text": "@RalfBuelow Interessant, dass eine sachliche Kritik als \"Journalistenschelte\" abgetan wird. Geht man so sinnvoll mit Kritik um?"
+  },
+  {
+   "date": "2012-11-16",
+   "id": "269381260558864384",
+   "url": "https://x.com/rahmstorf/status/269381260558864384",
+   "text": "New online video lectures by myself and other global change experts, on the climate crisis and how to solve it! http:// wit.va-bne.de"
+  },
+  {
+   "date": "2012-11-21",
+   "id": "271311145204318208",
+   "url": "https://x.com/rahmstorf/status/271311145204318208",
+   "text": "Climate Scientists Applaud Dire World Bank Report http:// livescience.com/24960-climate- change-world-bank-report.html … via @LiveScience"
+  },
+  {
+   "date": "2012-11-28",
+   "id": "273753566701838337",
+   "url": "https://x.com/rahmstorf/status/273753566701838337",
+   "text": "New study (open access): IPCC predictions got global temperature right, but underestimated sea level rise. http:// iopscience.iop.org/1748-9326/7/4/ 044035/ …"
+  },
+  {
+   "date": "2012-11-29",
+   "id": "274087981919391744",
+   "url": "https://x.com/rahmstorf/status/274087981919391744",
+   "text": "Chronologie einer organisierten Lüge: exzellentes ZEIT DOSSIER zu den Aktivitäten der #Klimaskeptiker. Lesen!"
+  },
+  {
+   "date": "2012-12-03",
+   "id": "275641759319609344",
+   "url": "https://x.com/rahmstorf/status/275641759319609344",
+   "text": "A nice blog post explaining the main findings of our new paper on global warming and global sea-level rise! http:// tamino.wordpress.com/2012/12/01/sea -level-rise-faster-than-projected/ …"
+  }
+ ]
+}

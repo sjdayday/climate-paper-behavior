@@ -1,0 +1,565 @@
+[0:01] they say you should not look directly at
+[0:03] the sun
+[0:04] but when it comes to climate a lot of
+[0:06] people take that advice to ridiculous
+[0:07] extremes
+[0:09] that bright yellow ball in the sky is
+[0:11] basically earth's only source of energy
+[0:14] though a very small amount radiates from
+[0:16] the planet's hot core
+[0:17] the sun's output has been measured to a
+[0:19] high degree of precision by satellites
+[0:21] in orbit since the late 1970s and we now
+[0:24] know that it varies over time
+[0:26] and since it is our only source of
+[0:28] energy if it gets stronger it stands to
+[0:31] reason that it could warm the climate
+[0:34] indeed there was a time about 20 years
+[0:36] ago when many scientists believed that
+[0:37] the sun had gotten a bit brighter during
+[0:39] the 1980s and 1990s and they even argued
+[0:42] it was enough to explain much of the
+[0:44] warming that had taken place
+[0:46] but now agencies like the un
+[0:48] intergovernmental panel on climate
+[0:50] change nasa and others insist the change
+[0:53] in solar output never happened and the
+[0:56] warming can only be explained by
+[0:58] greenhouse gases so do not look at the
+[1:01] sun
+[1:03] people
+[1:04] something pretty basic doesn't add up
+[1:06] here
+[1:07] if satellites are measuring the sun's
+[1:09] energy precisely how can there be
+[1:11] disagreement about what it's been doing
+[1:14] and the answer unfortunately is that
+[1:16] there's a gap in the satellite record a
+[1:18] gap that came about after the 1986 space
+[1:21] shuttle challenger disaster
+[1:23] and as happens too much in this field
+[1:26] the gap quickly went from being a
+[1:27] scientific problem
+[1:29] to a political one
+[1:31] and the way that gap was handled is a
+[1:34] story that deserves a little
+[1:35] sunlight
+[1:37] i'm john robson and this is a climate
+[1:39] discussion nexus backgrounder on the
+[1:41] acrim gap controversy
+[1:45] the name akrum comes from an instrument
+[1:48] called the active cavity radiometer
+[1:50] irradiance monitor that satellites use
+[1:52] to measure solar output and the amount
+[1:54] of solar energy that hits the earth's
+[1:56] atmosphere is called the total solar
+[1:58] irradiance or tsi measured in watts per
+[2:01] square meter
+[2:02] on average the sun provides about 1
+[2:05] 367 watts of energy per square meter
+[2:08] continuously on the upper atmosphere
+[2:11] for comparison all the carbon dioxide
+[2:14] ever released from using fossil fuels is
+[2:16] estimated by the ipcc to have added
+[2:19] about 2 watts per square meter of energy
+[2:21] to the atmosphere
+[2:23] and so given the overwhelming role of
+[2:25] solar output in the total it shouldn't
+[2:27] take much of a change in the sun's
+[2:29] output to have a global influence on the
+[2:31] climate
+[2:32] we also have data on solar output from
+[2:34] the pre-satellite era
+[2:36] astronomers have been keeping track of
+[2:38] the number of dark circles or sunspots
+[2:40] that appear on the surface of the sun
+[2:42] for centuries
+[2:43] galileo even wrote a book about them
+[2:46] the sunspot count rises and falls on a
+[2:48] roughly 11-year cycle which provides
+[2:51] clues to the changing strength of solar
+[2:52] energy in the past
+[2:54] scientists can also use evidence from
+[2:56] chemical signatures in the earth called
+[2:58] cosmogenic isotopes to reconstruct solar
+[3:01] activity
+[3:02] as usual as you go backward in time on
+[3:04] climate it's only proxy data and it's
+[3:07] considerably less precise than modern
+[3:08] measurements but by comparing proxies to
+[3:11] satellite data since 1979 we get some
+[3:14] idea of how to interpret the clues
+[3:17] in the ipcc's first report in 1990 they
+[3:20] presented a graph that summarized the
+[3:22] prevailing view of the sun's history
+[3:24] over the 19th and 20th centuries
+[3:27] it showed the familiar sunspot cycle and
+[3:30] also suggested average solar output grew
+[3:32] stronger in the second half of the
+[3:33] century but they said the changes were
+[3:35] not large enough to cause much warming
+[3:38] unless there are positive feedback
+[3:39] mechanisms that amplify those changes
+[3:43] but that qualification is not trivial
+[3:46] because in fact the notion that carbon
+[3:49] dioxide is the driver of warming itself
+[3:51] depends on a series of positive feedback
+[3:53] mechanisms because on its own the
+[3:55] warming effect of co2 is quite small
+[3:58] so there have been various proposals for
+[4:00] amplifying mechanisms to increase its
+[4:02] impact which we'll look at in more
+[4:03] detail on another day
+[4:05] when it comes to the sun
+[4:07] basically the argument is that the sun
+[4:09] doesn't just affect how bright it is
+[4:10] outside it also influences how cloudy it
+[4:13] is and since some kinds of clouds have a
+[4:15] major role in reflecting heat back into
+[4:17] space if more solar output not only adds
+[4:20] a bit of heat but also suppresses that
+[4:22] kind of cloud formation it can translate
+[4:24] into a lot of surface warming
+[4:27] so key point here by the time of the
+[4:29] ipcc's third assessment report in 2001
+[4:32] their views about the sun's history were
+[4:34] getting more uncertain not less
+[4:36] uncertain
+[4:38] and now a word from our sponsor and
+[4:40] that's you or at least it should be
+[4:42] because if you want us to keep annoying
+[4:44] the right people with our newsletters
+[4:46] and our videos you our regular viewers
+[4:48] need to step up with a one-time or
+[4:50] monthly contribution i'm not talking a
+[4:52] lot of money unless you're
+[4:54] extra rich
+[4:55] the price of a cup of coffee a month
+[4:57] that's what we need from the 10 000 or
+[4:59] so people who tune in weekly if you do
+[5:02] that the video and the newsletter will
+[5:04] keep bringing sanity to the climate
+[5:06] debate and to you
+[5:10] by the time of ar3 in 2001
+[5:13] instead of just having one
+[5:14] reconstruction of solar output the ipcc
+[5:17] now had multiple different ones to
+[5:18] choose from
+[5:20] the reconstructions all agreed that
+[5:22] solar output followed the sunspot cycle
+[5:25] and they all agreed that solar output
+[5:26] had increased over the 20th century
+[5:29] but they disagreed over whether the
+[5:30] increase was a lot or little and whether
+[5:33] it had happened all at once early in the
+[5:35] century or more gradually over the whole
+[5:37] span
+[5:39] since these differences arose from
+[5:40] statistical estimates using proxy
+[5:42] records it didn't look as though there
+[5:44] would be an easy way to resolve the
+[5:45] disagreements
+[5:47] so attention turned to the modern
+[5:48] satellite record
+[5:50] with precise measurements of tsi
+[5:52] available since 1978 it should have been
+[5:54] possible to compare them with surface
+[5:56] temperatures to see if there was any
+[5:57] relationship
+[5:59] unfortunately there was the problem we
+[6:01] referred to at the outset a big gap in
+[6:03] the data
+[6:05] the satellites that carried the akram
+[6:07] system were first launched in 1978
+[6:10] from time to time satellites wear out
+[6:12] and need to be replaced
+[6:14] a replacement satellite is supposed to
+[6:16] be launched early enough so its acrim
+[6:18] system overlaps with the existing one
+[6:20] allowing the instruments to be
+[6:22] calibrated to each other giving
+[6:23] scientists a continuous record
+[6:25] but as you can see there's a gap in the
+[6:27] akron record from june 1989 to october
+[6:31] 1991.
+[6:33] and that gap was a consequence of the
+[6:35] space shuttle challenger disaster in
+[6:36] january of 1986 that caused nasa's
+[6:39] satellite launch program to be suspended
+[6:41] for several years
+[6:43] by the time a new akron system could be
+[6:44] put into orbit in 1991 the old one had
+[6:48] already been offline for two years
+[6:50] and the only data available to fill the
+[6:52] gap was from a different monitor called
+[6:54] the earth radiation budget system or erb
+[6:57] which flew on the nimbus 7 satellite
+[6:59] launched in 1978 as part of a separate
+[7:02] series and that satellite didn't have an
+[7:04] acronym
+[7:07] unfortunately the erb system was not
+[7:09] meant to monitor solar output with much
+[7:11] precision
+[7:12] its sensors were pointed toward the
+[7:13] earth so it could monitor the climate
+[7:15] system and it only had a view of the sun
+[7:17] during brief intervals of its orbit
+[7:20] also it generated two data series called
+[7:23] erb and erbs in the diagram and they
+[7:26] disagreed with each other regarding what
+[7:28] the sun did during the akrum gap
+[7:30] still it was something to work with
+[7:32] in 1997 the lead scientist working on
+[7:35] the akrum system richard wilson of
+[7:37] columbia university used the satellite
+[7:39] data and all available information on
+[7:41] the behavior of the onboard sensors in
+[7:43] the various satellites to construct a
+[7:45] composite acrom record
+[7:48] a comparison of the minimum points in
+[7:50] the solar cycle suggested an increase in
+[7:52] tsi from the early 1980s through to the
+[7:55] end of the 1990s
+[7:57] after which solar output flattened out
+[7:59] since this broadly matched the progress
+[8:01] of temperatures after 1980 it opened the
+[8:04] door to the possibility that the sun
+[8:06] might be responsible for some or all of
+[8:08] recent climate changes
+[8:11] the alarmists didn't like that result at
+[8:13] all
+[8:14] in fact they reacted like that far side
+[8:16] cartoon with the astronauts going blast
+[8:18] the controls are jammed we're headed
+[8:20] right for mr sun
+[8:22] so a few years later a different team
+[8:24] led by klaus froelich and judith lean
+[8:26] published a new reconstruction of the
+[8:28] same data that showed voila no upward
+[8:31] step just the standard solar cycle and a
+[8:34] steady downward trend after 1980.
+[8:36] called the pmod reconstruction after the
+[8:38] name of photos's institute the physical
+[8:40] meteorological observatory in
+[8:43] davos
+[8:44] it had the convenient effect of ruling
+[8:46] out the sun as a factor in climate
+[8:48] change
+[8:49] now when i say convenient i do mean in
+[8:51] the political sense
+[8:53] the authors made no secret of their
+[8:54] motivation
+[8:56] in a recent article reviewing the whole
+[8:57] episode scientist ronan conley of the
+[9:00] center for environmental research in
+[9:01] earth science massachusetts found some
+[9:04] telling quotes from the authors and
+[9:06] others working in the field
+[9:08] in a 2003 interview discussing the
+[9:10] motivation for their research author
+[9:13] judith lean stated
+[9:14] the fact that some people could use
+[9:16] wilson's results as an excuse to do
+[9:18] nothing about greenhouse gas emissions
+[9:20] is one reason we felt we needed to look
+[9:22] at the data ourselves
+[9:24] and in a later review published in 2014
+[9:27] piazzicarius of the international space
+[9:29] science institute in switzerland
+[9:31] conceded that the data adjustments are
+[9:33] still a matter of active debate and have
+[9:35] prevented the tsi community from coming
+[9:37] up with a conclusive tsi composite so
+[9:39] far
+[9:41] but she went on to observe
+[9:43] a conclusive tsi time series is not only
+[9:45] desirable from the perspective of the
+[9:47] scientific community but also when
+[9:49] considering the rising interest of the
+[9:51] public in questions related to climate
+[9:53] change issues thus preventing climate
+[9:56] skeptics from taking advantage of these
+[9:57] discrepancies within the tsi community
+[10:00] by for example putting forth a presumed
+[10:03] solar effect as an excuse for inaction
+[10:05] on anthropogenic warming
+[10:08] we spoke with scientist ronan connolly
+[10:10] recently to discuss the akrum gap and
+[10:12] how the ipcc handled the controversy
+[10:16] so the
+[10:17] pmod rival group
+[10:19] uh they took the akrum data and they've
+[10:22] applied a series of adjustments
+[10:26] um which
+[10:27] kind of got rid of that rise in solar
+[10:31] activity in the 80s and 90s and replace
+[10:34] it with a decline that's a net effect it
+[10:36] shows a declining
+[10:38] it shows effectively that according to
+[10:41] the pmod solar activity has been
+[10:44] generally decreasing since at least in
+[10:47] the uh 1970s
+[10:50] if the acronym composite is correct
+[10:54] then
+[10:55] that
+[10:56] would be consistent with a solar
+[10:58] contribution because
+[11:00] the
+[11:01] warming some of the warming in the 80s
+[11:03] and 90s could be due to the solar
+[11:05] activity and then the reduction in
+[11:08] warming the paws
+[11:10] are
+[11:12] even a slight decline depending on the
+[11:14] metric that could be due to a reduction
+[11:17] in solar activity
+[11:19] um
+[11:19] but if pmod is correct
+[11:22] then
+[11:23] solar activity is it can can't really
+[11:27] explain any of the
+[11:29] global temperature trends since
+[11:31] the during the satellite era
+[11:34] which gives us two things to think about
+[11:37] one is that if the sun's output did get
+[11:39] stronger over the 1980s and 1990s that
+[11:42] means it bears some of the blame or gets
+[11:44] some of the credit for warming the
+[11:46] planet over that interval
+[11:48] which is a valid argument for not
+[11:50] blaming everything on greenhouse gases
+[11:52] especially since the sun's subsequently
+[11:54] quieting down coincides with two long
+[11:57] pauses in any warming detected by
+[11:58] satellites
+[12:00] but the other thing is that we have
+[12:01] scientists talking as if their
+[12:03] motivation is not just finding the truth
+[12:05] it's preventing so-called inaction on
+[12:07] climate change and feeling no need to
+[12:10] hide such a motive
+[12:12] on the contrary they seem to be
+[12:14] broadcasting it
+[12:15] and if you're going to come right out
+[12:17] and tell us that your goal is to push a
+[12:18] policy agenda whether it's
+[12:20] scientifically justified or not don't
+[12:22] act surprised when we tell you we're
+[12:24] skeptical about your results
+[12:26] for our part we're not acting surprised
+[12:28] that one group that wasn't skeptical was
+[12:30] the ipcc in their fourth assessment
+[12:32] report or ar4 in 2007 they showed both
+[12:35] the wilson series here in violet and the
+[12:38] piedmont series which is green
+[12:41] but in their next report in 2013 while
+[12:43] they still mentioned the wilson series
+[12:45] they dropped it from their calculations
+[12:46] and said from now on they would only use
+[12:48] the p-mod series that told them what
+[12:50] they wanted to hear
+[12:51] namely that with no increase in solar
+[12:53] output there's no way to blame the sun
+[12:55] for global warming so it must be all
+[12:57] your fault
+[12:58] which is one way to do science but
+[13:01] what kind of way
+[13:04] my own experience yes that there's a lot
+[13:06] of scientists
+[13:08] that
+[13:10] um
+[13:11] feel
+[13:12] uh
+[13:13] that feel a lot of pressure to conform
+[13:16] to
+[13:17] uh
+[13:18] their work to the ipcc the ipcc
+[13:21] has
+[13:22] um become a very dominant
+[13:26] political body within the scientific
+[13:29] community
+[13:32] how did the pmod team come up with a
+[13:34] different answer than wilson's group
+[13:37] by arguing that one of the sensors on
+[13:38] the erb system was defective and
+[13:41] experienced an increase in its
+[13:42] sensitivity during its time in orbit
+[13:45] adding an artificial upward trend to its
+[13:48] readings the pmod team corrected this
+[13:51] supposed defect by pushing the later
+[13:53] part of their data downward thus erasing
+[13:56] the increase and getting the result they
+[13:58] were looking for
+[14:00] but did the erb system actually suffer
+[14:02] this malfunction
+[14:05] in 2008 richard wilson and another of
+[14:07] his co-authors physicist nicola scafeta
+[14:09] of the university of naples tracked down
+[14:11] dr douglas hoyt the scientist who'd been
+[14:13] in charge of the erb satellite mission
+[14:15] at the time but had since retired and
+[14:17] they asked him
+[14:18] and hoyt emailed them back the following
+[14:23] dear dr scafetta
+[14:25] concerning the supposed increase in
+[14:27] nimbus 7 sensitivity at the end of
+[14:29] september 1989 and other matters as
+[14:32] proposed by freulick's pmod tsi
+[14:35] composite
+[14:36] 1.
+[14:37] there is no known physical change in the
+[14:40] electrically calibrated nimbus 7
+[14:41] radiometer or its electronics that could
+[14:44] have caused it to become more sensitive
+[14:47] at least neither lee kyle nor i could
+[14:50] never imagine how such a thing could
+[14:52] happen and no one else has ever come up
+[14:54] with a physical theory for the
+[14:55] instrument that could cause it to become
+[14:57] more sensitive
+[14:59] 2. the nimbus-7 radiometer was
+[15:01] calibrated electrically every 12 days
+[15:04] the calibrations before and after the
+[15:06] september shutdown gave no indication of
+[15:08] any change in the sensitivity of the
+[15:10] radiometer
+[15:11] thus when bob lee of the erbs team
+[15:14] originally claimed there was a change in
+[15:15] nimbus 7 sensitivity we examined the
+[15:18] issue and concluded there was no
+[15:20] internal evidence in the nimbus 7
+[15:22] records to warrant the correction that
+[15:24] he was proposing since the result was a
+[15:27] null one no publication was thought
+[15:29] necessary
+[15:30] three
+[15:32] thus freulix pmod tsi composite is not
+[15:35] consistent with the internal data or
+[15:38] physics of the nimbus 7 cavity
+[15:40] radiometer
+[15:42] 4. the correction of the nimbus 7 tsi
+[15:45] values for 1979 through 1980 proposed by
+[15:48] freulich is also puzzling
+[15:51] the raw data was run through the same
+[15:52] algorithm for these early years and the
+[15:54] subsequent years and there is no
+[15:56] justification for furlik's adjustment in
+[15:59] my opinion
+[16:00] sincerely douglas hoyt
+[16:03] yeah puzzling though we can think of
+[16:05] other words like
+[16:06] suspicious so
+[16:09] let's look again at the various
+[16:10] reconstructions of solar output
+[16:12] in the 2007 ipcc report here's the range
+[16:16] they admitted was possible from the
+[16:17] 1600s to the turn of the century and
+[16:20] typically the uncertainty increases as
+[16:21] you go backwards but there are ways to
+[16:24] try to decrease it in that review
+[16:26] article i mentioned by ronan connelly
+[16:27] and 22 co-authors when they surveyed the
+[16:30] various ways experts have used the
+[16:31] satellite and proxy records they found
+[16:33] 16 possible reconstructions of solar
+[16:35] activity since 1600 eight yielding
+[16:38] fairly low variability and eight fairly
+[16:40] high variability
+[16:43] to illuminate solar influence on
+[16:44] temperature these authors also took a
+[16:47] close look at the other side of the
+[16:48] equation surface temperature data and
+[16:51] constructed a new climate record for the
+[16:52] northern hemisphere using only rural
+[16:55] weather stations and data collected over
+[16:57] the sea surface to avoid contamination
+[16:59] from urban heat islands
+[17:02] then they coupled this with tree ring
+[17:03] proxy data to assemble a temperature
+[17:05] estimate covering the same interval as
+[17:07] the solar series
+[17:09] putting the solar and temperature data
+[17:11] together depending on which solar
+[17:13] reconstruction you pick the sun turns
+[17:15] out to explain either none of the
+[17:17] observed warming
+[17:19] or all of it
+[17:20] or somewhere in between
+[17:23] so we can get like a result from
+[17:27] we can explain aging from nothing to
+[17:30] almost all of the temperature changes
+[17:34] over the 20 uh since eight 19th century
+[17:37] in terms of solar activity depending on
+[17:41] whether
+[17:42] acronym is correct or pmod is
+[17:44] correct now that result doesn't mean we
+[17:47] at cdn get to cherry pick the result we
+[17:48] like and say aha we've proven that the
+[17:50] sun causes all climate change
+[17:52] but neither can the alarmists go aha
+[17:55] we've proven that the sun causes none of
+[17:57] it and the trouble is they do
+[17:59] when they put out reports confidently
+[18:01] declaring that warming is all due to
+[18:02] greenhouse gases what they don't tell
+[18:04] you is that their calculation is based
+[18:06] on using one specific solar
+[18:07] reconstruction and a lot of temperature
+[18:09] data from cities which have grown bigger
+[18:11] and hotter since the start of the 21st
+[18:13] century
+[18:15] now i'm going to leave you here with one
+[18:17] more quote from another scientist
+[18:18] working in the solar measurement field
+[18:20] in a 2012 review paper physicist michael
+[18:23] lockwood discussed all the difficulties
+[18:25] in trying to reconstruct solar output
+[18:27] and measure its current effects and
+[18:29] lamented quote
+[18:31] the academic reputation of the field of
+[18:33] sun climate relations is poor because
+[18:36] many studies do not address all or even
+[18:38] some of the limitations listed above
+[18:42] it is also a field that in recent years
+[18:44] has been corrupted by unwelcome
+[18:46] political and financial influence as
+[18:49] climate change skeptics have seized upon
+[18:51] putative solar effects as an excuse for
+[18:54] inaction on anthropogenic warming
+[18:58] it's strange when scientists insist that
+[19:00] there's political and financial
+[19:01] corruption in their field
+[19:03] but it only ever goes in one direction
+[19:05] and it's not the direction the funders
+[19:07] want because don't forget climate
+[19:08] research is funded overwhelmingly by
+[19:10] governments who believe in a man-made
+[19:13] global warming crisis
+[19:14] and it's also weird when they say that
+[19:16] people drawing logical conclusions about
+[19:18] the policy implications of the sun
+[19:19] having a significant impact on climate
+[19:21] are just
+[19:22] making excuses
+[19:25] i don't expect these scientists want any
+[19:26] advice from me but i'm going to give it
+[19:28] to them anyway
+[19:30] when you keep telling us that your
+[19:31] motivation is to promote a costly policy
+[19:33] agenda whether it's scientifically
+[19:35] justified or not and you keep getting
+[19:37] caught trying to conceal the fact that
+[19:39] you're not nearly as certain about your
+[19:41] conclusions as the ipcc keeps claiming
+[19:43] and you keep getting caught fiddling
+[19:45] data series and when challenged you
+[19:47] substitute abuse for argument it makes
+[19:49] the general public more skeptical and
+[19:52] not less
+[19:53] so please
+[19:55] look up
+[19:56] because for the climate discussion nexus
+[19:58] i'm john robson and i am looking at the
+[20:00] sun
+[20:11] that's right
+[20:21] you

@@ -1,0 +1,11 @@
+{
+  "item": "Climate Discussion Nexus, \"Looking at the Sun\" (John Robson; R. Connolly interviewed)",
+  "source": "https://www.youtube.com/watch?v=rJIw7ulYaGk",
+  "published": "2022-06-01",
+  "duration_s": 1222,
+  "retrieval": "YouTube English auto-caption track (kind=asr, fmt=json3), captured from the player's own request in a signed-in built-in browser session, 2026-09-26",
+  "caption_track_sha256": "9832852f8f034f10f488eb6e39323a5efc6a9dd8c2ac43009faf83e8c78c4fbf",
+  "text_file_sha256": "83779c7b5debfe108ef52ec7fc18ccb6fcff6513059bacc7fc28b0270fce9c43",
+  "flags": ["ASR", "no speaker labels", "scored quotes need a hand check against the audio"],
+  "author_speech": "R. Connolly speaks at 10:16-11:31, 13:04-13:29 and 17:23-17:44; everything else is the host (J. Robson) and is not author text"
+}

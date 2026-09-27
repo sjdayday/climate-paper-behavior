@@ -2,7 +2,9 @@
 
 Captured 2026-09-26 by DOM text extraction in the Claude desktop in-app browser. Each file starts with its source URL and capture method. The Epoch Times text was captured in two passes and merged at an overlap.
 
-Not captured: NTD segment, Heartland podcast and CDN video (transcription pending, D4); X posts (sign-in, D2); Kalte Sonne 2021 archive (unresolved).
+Transcripts: `transcripts/CN21_CDN_2022-06-01_rJIw7ulYaGk_asr-en.txt` (YouTube auto-captions; caption-track SHA-256 and details in the matching `.meta.json`).
+
+Not captured: NTD segment (not relocated) and Heartland podcast (Wayback MP3; local transcription pending), D4; Kalte Sonne 2021 archive (unresolved). X: scoping only, see `../../../social-media-scoping/`.
 
 | File | Words | SHA-256 |
 |---|---|---|

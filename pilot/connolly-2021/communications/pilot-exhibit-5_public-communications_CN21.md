@@ -7,7 +7,7 @@
 
 ## 0. Bottom line
 
-- **Drift was upward and concentrated on one claim type.** 20 of 24 claims matched a Stage 1 counterpart. Of those 20, **16 moved up**, 3 held level and 1 moved down (mean Δ = +0.95, against +0.58 for the LS11 author posts and +0.12 for FR11; Exhibit 4). Communication CAL is **0.75** (paper 0.263).
+- **Drift was upward and concentrated on one claim type.** 22 of 27 claims matched a Stage 1 counterpart. Of those 22, **17 moved up**, 4 held level and 1 moved down (mean Δ = +0.91, against +0.58 for the LS11 author posts and +0.12 for FR11; Exhibit 4). Communication CAL is **0.667** (paper 0.263). The three claims from the CDN video (added 2026-09-26, §2.5) are all calibrated; before them CAL was 0.75.
 - **The paper's empirical core stayed calibrated.** Dataset dependence and the range of solar contributions were restated at T3 with O = 0 (CN-T5, CN-T6, OL-2). The overreach sat where the paper's own overreach was (Exhibit 3's "adversarial attribution" signature): claims about the **IPCC's conduct and intent**. In the paper these are L2 at T0 ("appears to have tried", "appear to have overlooked", "we argue … premature"). In public they became "only included 'low solar variability' datasets", "mostly missed or simply neglected", "it is clear that data sets are being selected…", and in Soon's words "blatant untruth" and "hide-and-seek game".
 - **Two fidelity errors (PC-8).**
   - The launch release says "their results can be generalized for global temperatures". The paper says its analysis "was explicitly confined to the Northern Hemisphere", and that only its urbanization recommendation is relevant globally.
@@ -76,13 +76,26 @@ Not scored (extra-paper or normative, logged): Soon's "mislead most of the unsus
 | OL-3 | IPCC's approach "appears to be to use 'expert judgement' to identify the most 'likely' perspective … and then … to dismiss those studies which dissent" | L2 | C2 (L2) | T0 | 1 | 0 | |
 | — | asks that Climate Feedback's verdict on the Epoch Times article become "Correct" and "Accurate" | — | — | — | — | — | proposed PC-10 (endorsement of escalated coverage) |
 
+### 2.5 Climate Discussion Nexus video, "Looking at the Sun" (2022-06-01; R. Connolly interviewed)
+
+Source: YouTube auto-captions (ASR), `sources/transcripts/CN21_CDN_2022-06-01_rJIw7ulYaGk_asr-en.txt`. Only R. Connolly's three spoken passages are author text; the host's narration is not. Quotes are from the ASR text and still need a hand check against the audio (D4). Square brackets mark ASR corrections: the captions render ACRIM as "acronym" and "explain everything" (probably) as "explain aging".
+
+| # | Claim (≤ 25 words) | Level | Counterpart | Tier | O | Δ | Flags |
+|---|---|---|---|---|---|---|---|
+| CDN-RC1 | PMOD "applied a series of adjustments … kind of got rid of that rise in solar activity in the 80s and 90s and replace it with a decline" [10:19] | L3 | body (ACRIM-gap review); no indexed claim | T2 | 0 | — | ASR |
+| CDN-RC2 | "if the [ACRIM] composite is correct … some of the warming in the 80s and 90s could be due to the solar activity"; "if PMOD is correct … can't really explain any" [10:50–11:31] | L2 | A3 (L2) | T3 | 0 | 0 | PC-7 = 1 (conditional kept); ASR |
+| CDN-RC3 | "we can explain … from nothing to almost all of the temperature changes … depending on whether [ACRIM] is correct or PMOD is correct" [17:23] | L3 | A3 (L2) | T3 | 0 | +1 | PC-7 = 1 (dataset dependence kept; the paper's 16-series range is compressed to two composites); ASR |
+
+Not scored (extra-paper, PC-5, logged): "a lot of scientists … feel a lot of pressure to conform … their work to the IPCC … the IPCC has become a very dominant political body within the scientific community" [13:04], framed as "my own experience". The host's lines ("fiddling data series", "substitute abuse for argument") are the outlet's, not the author's; they are relevant to PC-10 only if the author later endorses the video (he links it from his own site's interview page, which counts as distribution, not endorsement of the wording).
+
 ## 3. Statistics
 
 | | Claims | O ≥ 1 | CAL | Mean O | Matched | Δ up / 0 / down | Mean Δ | PC-8 | PC-7 = 0 |
 |---|---|---|---|---|---|---|---|---|---|
-| All | 24 | 18 | **0.750** | 1.21 | 20 | 16 / 3 / 1 | **+0.95** | 2 | 3 |
-| Excl. CERES-team text (§1.1) | 17 | 14 | 0.824 | 1.35 | 14 | 11 / 3 / 0 | +1.00 | 1 | 2 |
-| Excl. ambiguous (Willson) | 22 | 16 | 0.727 | 1.09 | 20 | 16 / 3 / 1 | +0.95 | 2 | 3 |
+| All | 27 | 18 | **0.667** | 1.07 | 22 | 17 / 4 / 1 | **+0.91** | 2 | 3 |
+| Excl. CERES-team text (§1.1) | 20 | 14 | 0.700 | 1.15 | 16 | 12 / 4 / 0 | +0.94 | 1 | 2 |
+| Excl. ambiguous (Willson) | 25 | 16 | 0.640 | 0.96 | 22 | 17 / 4 / 1 | +0.91 | 2 | 3 |
+| Before the CDN video | 24 | 18 | 0.750 | 1.21 | 20 | 16 / 3 / 1 | +0.95 | 2 | 3 |
 | Paper (Exhibit 3) | 19 | 5 | 0.263 | 0.26 | | | | | |
 
 ## 4. Register (PC-9, exploratory)
@@ -99,4 +112,5 @@ The opposing register in the same article is Gavin Schmidt's "This is total nons
 2. **ET-RC3.** The sentence hedges intent ("Whether they were deliberately doing it or whether it was simply confirmation bias is difficult to say") and asserts selection ("it is clear"). Scored at the strongest claim (L4). The intent hedge is noted as a genuine qualification.
 3. **ET-RC1 tier.** The "all of the warming" case is one of 16 × 5 fits, in-sample, with no uncertainty (P2a = 0), so T1. The range claim across the grid (OL-2) keeps T3.
 4. **"Premature."** The paper's most-repeated public word is its own conclusion term (A4, C15). Level changes come from the verbs around it ("was", "only", "should never have"), not from the word.
-5. **Pending items (D4)** could change the picture. The Heartland podcast, 52 minutes of R. Connolly, is probably the largest single source of claims. Its title ("Exposing efforts to suppress research…") suggests the conduct-claim pattern continues. Not scored.
+5. **Pending items (D4)** could change the picture. The Heartland podcast, 52 minutes of R. Connolly, is probably the largest single source of claims. Its title ("Exposing efforts to suppress research…") suggests the conduct-claim pattern continues. Its MP3 is dead on heartland.org but archived by the Wayback Machine (2021-10-27, 39.7 MB); it needs local transcription (`scripts/transcribe_local.sh`). The NTD segment was not relocated. Not scored.
+6. **CDN video: format effect.** In a produced interview, the author's spoken claims about the science stayed conditional and calibrated (§2.5). The escalation in this video is in the host's narration. The conduct claim R. Connolly does make is extra-paper and framed as personal experience. The written channels (release, interview quotes) remain where his escalation sits.
